@@ -1,0 +1,1501 @@
+OrderID,OrderDate,CustomerName,City,State,Category,SubCategory,Amount,Profit,Quantity,PaymentMode
+OD-1001,24-11-25,Vihaan Sharma,Jaipur,Rajasthan,Clothing,Shirt,1636,363,2,COD
+OD-1002,14-02-25,Rahul Nair,Pune,Maharashtra,Clothing,T-Shirt,2702,345,2,UPI
+OD-1003,15-10-25,Reyansh Gill,Bathinda,Punjab,Clothing,Sari,1275,340,3,Credit Card
+OD-1004,24-12-25,Peehu Reddy,Jaipur,Rajasthan,Clothing,Shirt,2451,-242,3,UPI
+OD-1005,03-07-25,Ananya Gupta,Jaipur,Rajasthan,Clothing,Dress,10380,-844,4,Net Banking
+OD-1006,10-02-25,Harpreet Patel,Ludhiana,Punjab,Furniture,Table,3501,748,1,Debit Card
+OD-1007,10-02-25,Krishna Verma,Amritsar,Punjab,Electronics,Smartwatch,36477,1955,3,Credit Card
+OD-1008,10-12-25,Ishaan Gill,Delhi,Delhi,Furniture,Bookshelf,39004,9790,2,Credit Card
+OD-1009,25-08-25,Aadhya Patel,Ahmedabad,Gujarat,Furniture,Bed,9505,2870,1,Debit Card
+OD-1010,25-07-25,Ishaan Verma,Kolkata,West Bengal,Furniture,Bookshelf,26901,5662,3,Net Banking
+OD-1011,26-11-25,Sia Kumar,Jaipur,Rajasthan,Clothing,Shirt,8379,717,3,COD
+OD-1012,24-07-25,Ananya Singh,Hyderabad,Telangana,Furniture,Sofa,3543,1146,1,Credit Card
+OD-1013,18-11-25,Sai Dhillon,Bathinda,Punjab,Furniture,Chair,58016,10311,4,Net Banking
+OD-1014,28-09-25,Ishaan Joshi,Mumbai,Maharashtra,Furniture,Bookshelf,24338,8192,1,Debit Card
+OD-1015,25-11-25,Diya Verma,Lucknow,Uttar Pradesh,Electronics,Laptop,6848,2565,4,Debit Card
+OD-1016,14-09-25,Sai Joshi,Bengaluru,Karnataka,Furniture,Bed,14016,780,2,Credit Card
+OD-1017,04-10-25,Gurpreet Sharma,Chandigarh,Punjab,Electronics,Mobile,25288,8428,1,Debit Card
+OD-1018,03-05-25,Vivaan Singh,Delhi,Delhi,Clothing,Dress,2728,1058,4,COD
+OD-1019,06-03-25,Arjun Mehta,Indore,Madhya Pradesh,Furniture,Table,57870,19087,3,Net Banking
+OD-1020,19-04-25,Harpreet Dhillon,Kolkata,West Bengal,Furniture,Bed,96036,19921,4,Net Banking
+OD-1021,22-09-25,Sia Verma,Ahmedabad,Gujarat,Clothing,T-Shirt,1455,252,3,Credit Card
+OD-1022,29-10-25,Krishna Sharma,Delhi,Delhi,Furniture,Bookshelf,9501,-1072,1,UPI
+OD-1023,19-06-25,Aditya Joshi,Ahmedabad,Gujarat,Electronics,Speaker,62160,9111,4,COD
+OD-1024,23-10-25,Kavya Singh,Indore,Madhya Pradesh,Electronics,Laptop,7852,1668,1,Debit Card
+OD-1025,05-08-25,Peehu Das,Pune,Maharashtra,Furniture,Bookshelf,3986,284,1,Debit Card
+OD-1026,25-02-25,Krishna Singh,Kolkata,West Bengal,Furniture,Sofa,31648,-1553,2,Net Banking
+OD-1027,08-05-25,Aditya Das,Bengaluru,Karnataka,Clothing,Dress,781,280,1,Credit Card
+OD-1028,27-03-25,Peehu Das,Indore,Madhya Pradesh,Clothing,Sari,1073,62,1,Net Banking
+OD-1029,16-05-25,Sia Patel,Bathinda,Punjab,Furniture,Bookshelf,28288,-1288,4,Credit Card
+OD-1030,30-01-25,Rahul Gill,Pune,Maharashtra,Furniture,Bed,3643,624,1,COD
+OD-1031,29-09-25,Sai Sharma,Patna,Bihar,Clothing,Shirt,2836,-319,1,Credit Card
+OD-1032,26-07-25,Vihaan Gupta,Ahmedabad,Gujarat,Furniture,Wardrobe,22295,-2338,1,COD
+OD-1033,17-10-25,Gurpreet Reddy,Jaipur,Rajasthan,Clothing,Dress,4128,-16,3,Credit Card
+OD-1034,10-12-25,Priya Patel,Kochi,Kerala,Electronics,Mobile,31534,6043,1,COD
+OD-1035,21-02-25,Aditya Joshi,Kolkata,West Bengal,Furniture,Bed,26872,8988,2,Credit Card
+OD-1036,09-07-25,Shaurya Kumar,Kochi,Kerala,Furniture,Bookshelf,66129,25864,3,COD
+OD-1037,05-01-25,Neha Joshi,Lucknow,Uttar Pradesh,Furniture,Chair,21332,-1845,2,UPI
+OD-1038,11-10-25,Arjun Patel,Lucknow,Uttar Pradesh,Furniture,Table,26013,5934,3,Debit Card
+OD-1039,16-09-25,Kavya Patel,Pune,Maharashtra,Clothing,Dress,6128,-770,4,Debit Card
+OD-1040,08-03-25,Priya Patel,Chennai,Tamil Nadu,Furniture,Sofa,81516,-11793,4,UPI
+OD-1041,20-12-25,Arjun Joshi,Pune,Maharashtra,Electronics,Power Bank,59332,-4740,2,Debit Card
+OD-1042,06-07-25,Vivaan Reddy,Kolkata,West Bengal,Furniture,Table,13589,3792,1,Net Banking
+OD-1043,14-11-25,Arjun Singh,Chennai,Tamil Nadu,Clothing,Sari,1133,289,1,Debit Card
+OD-1044,30-07-25,Neha Gill,Ahmedabad,Gujarat,Electronics,Laptop,26570,8759,1,Net Banking
+OD-1045,24-04-25,Reyansh Das,Ludhiana,Punjab,Electronics,Laptop,6100,1299,2,Net Banking
+OD-1046,18-06-25,Ishaan Verma,Jaipur,Rajasthan,Electronics,Speaker,146564,4709,4,UPI
+OD-1047,01-03-25,Ishaan Kumar,Jaipur,Rajasthan,Clothing,T-Shirt,7256,1819,4,Debit Card
+OD-1048,12-08-25,Amit Joshi,Bengaluru,Karnataka,Electronics,Power Bank,36386,-4569,2,Net Banking
+OD-1049,01-01-25,Gurpreet Dhillon,Kolkata,West Bengal,Electronics,Smartwatch,23139,4459,1,UPI
+OD-1050,03-06-25,Gurpreet Patel,Bathinda,Punjab,Electronics,Smartwatch,113499,-9078,3,Net Banking
+OD-1051,07-12-25,Aadhya Mehta,Chennai,Tamil Nadu,Furniture,Wardrobe,45918,6950,3,UPI
+OD-1052,05-06-25,Shaurya Singh,Bathinda,Punjab,Furniture,Wardrobe,51708,4807,3,Credit Card
+OD-1053,19-09-25,Kavya Dhillon,Chennai,Tamil Nadu,Furniture,Chair,56670,12190,3,COD
+OD-1054,21-06-25,Aditya Dhillon,Ahmedabad,Gujarat,Furniture,Bed,17050,-1175,2,UPI
+OD-1055,06-05-25,Kavya Gupta,Delhi,Delhi,Electronics,Smartwatch,53328,6501,2,Credit Card
+OD-1056,17-03-25,Priya Gill,Mumbai,Maharashtra,Clothing,Sari,2238,654,2,COD
+OD-1057,26-08-25,Vivaan Joshi,Ahmedabad,Gujarat,Clothing,Sari,4604,999,2,COD
+OD-1058,01-11-25,Diya Dhillon,Kochi,Kerala,Furniture,Bookshelf,79808,7601,4,Credit Card
+OD-1059,01-09-25,Sia Patel,Ahmedabad,Gujarat,Furniture,Bed,90148,-1660,4,Net Banking
+OD-1060,09-02-25,Shaurya Singh,Jaipur,Rajasthan,Electronics,Headphones,10568,-708,1,Net Banking
+OD-1061,22-12-25,Arjun Gill,Kolkata,West Bengal,Clothing,Sari,7016,1041,4,Net Banking
+OD-1062,01-02-25,Reyansh Nair,Amritsar,Punjab,Furniture,Bookshelf,20864,1235,1,UPI
+OD-1063,30-06-25,Shaurya Dhillon,Amritsar,Punjab,Electronics,Power Bank,66992,-1964,2,Net Banking
+OD-1064,06-09-25,Aarav Nair,Chandigarh,Punjab,Furniture,Bookshelf,29632,9253,4,Credit Card
+OD-1065,15-11-25,Harpreet Sharma,Amritsar,Punjab,Furniture,Wardrobe,4750,966,1,Credit Card
+OD-1066,25-08-25,Sai Sharma,Jaipur,Rajasthan,Electronics,Headphones,62598,1863,2,Net Banking
+OD-1067,23-05-25,Peehu Patel,Delhi,Delhi,Electronics,Mobile,24435,-651,1,UPI
+OD-1068,30-11-25,Vivaan Dhillon,Mumbai,Maharashtra,Clothing,Shirt,2943,-194,1,Credit Card
+OD-1069,31-08-25,Neha Verma,Kolkata,West Bengal,Electronics,Speaker,77025,-4445,3,COD
+OD-1070,28-02-25,Sai Patel,Bengaluru,Karnataka,Furniture,Chair,62601,13931,3,Net Banking
+OD-1071,23-07-25,Reyansh Verma,Ahmedabad,Gujarat,Clothing,Dress,8574,2512,3,COD
+OD-1072,22-01-25,Ananya Joshi,Bathinda,Punjab,Furniture,Bed,18579,3830,1,UPI
+OD-1073,04-08-25,Kavya Verma,Bathinda,Punjab,Electronics,Speaker,46104,4127,4,COD
+OD-1074,30-11-25,Ishaan Gupta,Indore,Madhya Pradesh,Electronics,Smartwatch,67866,21611,3,UPI
+OD-1075,23-05-25,Sia Singh,Kochi,Kerala,Furniture,Wardrobe,52092,-6991,4,Debit Card
+OD-1076,04-04-25,Kavya Singh,Ludhiana,Punjab,Electronics,Headphones,121707,28680,3,Debit Card
+OD-1077,12-10-25,Aarav Joshi,Kolkata,West Bengal,Clothing,Shirt,9600,1491,4,Credit Card
+OD-1078,20-12-25,Kavya Mehta,Indore,Madhya Pradesh,Electronics,Mobile,20783,-584,1,Credit Card
+OD-1079,06-06-25,Neha Gupta,Ludhiana,Punjab,Electronics,Power Bank,88155,35098,3,COD
+OD-1080,19-06-25,Ananya Gill,Kochi,Kerala,Electronics,Headphones,49824,-4167,3,Credit Card
+OD-1081,11-06-25,Vihaan Gill,Chennai,Tamil Nadu,Clothing,Shirt,6124,1521,4,COD
+OD-1082,02-11-25,Shaurya Verma,Kolkata,West Bengal,Electronics,Laptop,39777,646,3,COD
+OD-1083,06-03-25,Ishaan Sharma,Pune,Maharashtra,Furniture,Bed,45802,15007,2,Net Banking
+OD-1084,22-02-25,Aarav Gupta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,95312,-4632,4,UPI
+OD-1085,10-05-25,Kavya Verma,Delhi,Delhi,Electronics,Smartwatch,39315,7713,1,UPI
+OD-1086,19-03-25,Arjun Dhillon,Lucknow,Uttar Pradesh,Clothing,Shirt,2684,725,1,COD
+OD-1087,02-11-25,Amit Singh,Patna,Bihar,Electronics,Smartwatch,83948,27122,4,Net Banking
+OD-1088,06-06-25,Rahul Gupta,Pune,Maharashtra,Furniture,Bookshelf,8808,1709,1,Debit Card
+OD-1089,05-12-25,Aditya Kumar,Ahmedabad,Gujarat,Clothing,Kurtis,1040,-154,1,Net Banking
+OD-1090,19-12-25,Amit Das,Lucknow,Uttar Pradesh,Clothing,Shirt,4671,1105,3,Net Banking
+OD-1091,06-02-25,Neha Singh,Jaipur,Rajasthan,Furniture,Wardrobe,31860,-2767,2,Credit Card
+OD-1092,28-11-25,Arjun Patel,Hyderabad,Telangana,Clothing,T-Shirt,3316,587,2,COD
+OD-1093,28-05-25,Sia Verma,Kochi,Kerala,Furniture,Bed,43680,5471,4,Net Banking
+OD-1094,13-08-25,Aditya Gupta,Pune,Maharashtra,Electronics,Speaker,123192,-1514,3,UPI
+OD-1095,28-04-25,Neha Gupta,Mumbai,Maharashtra,Furniture,Bed,7740,841,1,Net Banking
+OD-1096,23-05-25,Sai Gupta,Bathinda,Punjab,Furniture,Sofa,17401,720,1,Debit Card
+OD-1097,14-06-25,Neha Verma,Chennai,Tamil Nadu,Electronics,Smartwatch,81552,17486,4,Net Banking
+OD-1098,09-10-25,Vivaan Das,Delhi,Delhi,Electronics,Headphones,27291,10468,3,Net Banking
+OD-1099,21-09-25,Aarav Mehta,Kochi,Kerala,Electronics,Mobile,70952,3475,2,Net Banking
+OD-1100,17-11-25,Sia Dhillon,Pune,Maharashtra,Clothing,Jeans,3156,287,2,Net Banking
+OD-1101,04-03-25,Aarav Mehta,Ahmedabad,Gujarat,Furniture,Table,60147,-8569,3,Net Banking
+OD-1102,17-02-25,Krishna Verma,Kochi,Kerala,Clothing,Dress,4880,1771,2,Debit Card
+OD-1103,18-09-25,Ishaan Nair,Indore,Madhya Pradesh,Electronics,Laptop,150508,-10602,4,Credit Card
+OD-1104,03-11-25,Gurpreet Gill,Hyderabad,Telangana,Clothing,Jeans,7164,2606,4,COD
+OD-1105,17-05-25,Aarav Patel,Lucknow,Uttar Pradesh,Furniture,Wardrobe,27476,2626,4,Net Banking
+OD-1106,26-06-25,Diya Joshi,Amritsar,Punjab,Electronics,Headphones,34300,5641,2,Credit Card
+OD-1107,30-07-25,Vivaan Reddy,Indore,Madhya Pradesh,Furniture,Sofa,94988,27149,4,Credit Card
+OD-1108,11-09-25,Vivaan Kumar,Patna,Bihar,Furniture,Bed,16427,-1563,1,Net Banking
+OD-1109,08-01-25,Arjun Nair,Hyderabad,Telangana,Clothing,Sari,5355,1032,3,Net Banking
+OD-1110,29-11-25,Aditya Reddy,Amritsar,Punjab,Electronics,Speaker,147824,-19254,4,UPI
+OD-1111,01-05-25,Priya Mehta,Lucknow,Uttar Pradesh,Clothing,Dress,2176,844,1,UPI
+OD-1112,16-08-25,Sai Gill,Lucknow,Uttar Pradesh,Clothing,T-Shirt,1884,21,3,Debit Card
+OD-1113,09-08-25,Arjun Singh,Patna,Bihar,Electronics,Power Bank,25280,-1357,2,COD
+OD-1114,15-07-25,Amit Mehta,Ahmedabad,Gujarat,Electronics,Power Bank,33432,3464,2,Debit Card
+OD-1115,24-08-25,Ishaan Mehta,Mumbai,Maharashtra,Electronics,Headphones,12680,1178,2,Debit Card
+OD-1116,28-10-25,Shaurya Mehta,Bathinda,Punjab,Furniture,Bed,47596,-1924,4,Net Banking
+OD-1117,05-09-25,Vihaan Singh,Amritsar,Punjab,Furniture,Bed,74739,925,3,Net Banking
+OD-1118,21-05-25,Aarav Gupta,Pune,Maharashtra,Furniture,Bookshelf,45512,12591,4,Credit Card
+OD-1119,07-11-25,Ananya Singh,Kolkata,West Bengal,Furniture,Bed,45172,-4361,2,UPI
+OD-1120,08-06-25,Sia Sharma,Ludhiana,Punjab,Furniture,Table,11670,346,1,Net Banking
+OD-1121,31-03-25,Reyansh Kumar,Ludhiana,Punjab,Furniture,Wardrobe,22173,-192,3,Net Banking
+OD-1122,01-06-25,Diya Dhillon,Bengaluru,Karnataka,Electronics,Mobile,32570,10522,2,Net Banking
+OD-1123,13-10-25,Ananya Verma,Amritsar,Punjab,Clothing,Jeans,2261,119,1,Debit Card
+OD-1124,27-10-25,Aadhya Mehta,Ludhiana,Punjab,Clothing,Dress,4660,-634,2,COD
+OD-1125,17-06-25,Amit Singh,Delhi,Delhi,Furniture,Sofa,69822,5206,3,Credit Card
+OD-1126,24-01-25,Vivaan Patel,Indore,Madhya Pradesh,Clothing,T-Shirt,5200,-392,2,Net Banking
+OD-1127,09-07-25,Neha Gill,Bathinda,Punjab,Furniture,Bookshelf,31188,6555,2,Net Banking
+OD-1128,12-11-25,Peehu Patel,Pune,Maharashtra,Furniture,Bed,33056,3126,2,Credit Card
+OD-1129,05-07-25,Vihaan Mehta,Ludhiana,Punjab,Furniture,Bookshelf,11952,824,3,Credit Card
+OD-1130,04-03-25,Sia Verma,Kolkata,West Bengal,Furniture,Bookshelf,3657,1033,1,Credit Card
+OD-1131,06-03-25,Rahul Singh,Delhi,Delhi,Furniture,Table,19268,591,2,Credit Card
+OD-1132,02-11-25,Aarav Patel,Hyderabad,Telangana,Clothing,Kurtis,3339,-298,3,UPI
+OD-1133,09-03-25,Aarav Reddy,Ahmedabad,Gujarat,Furniture,Bed,7709,-31,1,Credit Card
+OD-1134,04-08-25,Gurpreet Verma,Delhi,Delhi,Electronics,Smartwatch,105405,18605,3,Net Banking
+OD-1135,15-09-25,Krishna Gupta,Pune,Maharashtra,Furniture,Bookshelf,51027,10401,3,UPI
+OD-1136,01-02-25,Kavya Nair,Bathinda,Punjab,Furniture,Chair,66136,-7247,4,UPI
+OD-1137,14-06-25,Amit Kumar,Delhi,Delhi,Clothing,Jeans,5877,2333,3,COD
+OD-1138,31-05-25,Sia Joshi,Bathinda,Punjab,Clothing,Dress,2657,654,1,Credit Card
+OD-1139,09-08-25,Sia Singh,Bathinda,Punjab,Electronics,Smartwatch,115048,28910,4,Debit Card
+OD-1140,07-08-25,Diya Mehta,Jaipur,Rajasthan,Electronics,Laptop,23596,-2355,4,UPI
+OD-1141,17-02-25,Peehu Verma,Ludhiana,Punjab,Clothing,Kurtis,2801,1053,1,COD
+OD-1142,18-06-25,Neha Verma,Bathinda,Punjab,Electronics,Speaker,19484,7454,4,COD
+OD-1143,09-06-25,Ananya Verma,Patna,Bihar,Clothing,Shirt,5268,1664,4,Debit Card
+OD-1144,12-10-25,Ananya Verma,Jaipur,Rajasthan,Furniture,Table,81524,31468,4,COD
+OD-1145,11-11-25,Neha Mehta,Mumbai,Maharashtra,Furniture,Bookshelf,8844,-449,3,Debit Card
+OD-1146,23-06-25,Ananya Sharma,Chennai,Tamil Nadu,Clothing,Kurtis,2736,-196,4,UPI
+OD-1147,16-02-25,Gurpreet Singh,Amritsar,Punjab,Electronics,Smartwatch,35445,1897,3,Debit Card
+OD-1148,18-10-25,Amit Verma,Pune,Maharashtra,Clothing,Shirt,733,0,1,Net Banking
+OD-1149,06-09-25,Amit Das,Bathinda,Punjab,Electronics,Laptop,24121,2085,1,Debit Card
+OD-1150,14-12-25,Neha Gupta,Indore,Madhya Pradesh,Furniture,Bookshelf,10464,-300,3,COD
+OD-1151,29-01-25,Aarav Singh,Lucknow,Uttar Pradesh,Clothing,Shirt,4752,144,3,UPI
+OD-1152,12-09-25,Peehu Kumar,Hyderabad,Telangana,Electronics,Power Bank,68570,10785,2,Debit Card
+OD-1153,06-02-25,Aadhya Gill,Pune,Maharashtra,Electronics,Mobile,26408,8560,4,COD
+OD-1154,08-08-25,Rahul Nair,Bathinda,Punjab,Electronics,Mobile,11464,4372,4,Credit Card
+OD-1155,13-11-25,Sia Gill,Ludhiana,Punjab,Clothing,Sari,1395,125,1,Net Banking
+OD-1156,26-09-25,Aditya Nair,Lucknow,Uttar Pradesh,Furniture,Bed,25826,7192,2,UPI
+OD-1157,19-09-25,Priya Verma,Patna,Bihar,Furniture,Table,40512,10130,3,Credit Card
+OD-1158,01-05-25,Vihaan Kumar,Jaipur,Rajasthan,Clothing,Shirt,1414,-74,2,Net Banking
+OD-1159,26-08-25,Rahul Dhillon,Kochi,Kerala,Furniture,Wardrobe,67656,1615,3,Net Banking
+OD-1160,04-02-25,Kavya Das,Lucknow,Uttar Pradesh,Electronics,Power Bank,24564,3169,1,Debit Card
+OD-1161,25-08-25,Sia Sharma,Pune,Maharashtra,Electronics,Headphones,43748,14232,1,UPI
+OD-1162,11-11-25,Amit Joshi,Amritsar,Punjab,Electronics,Power Bank,30973,10839,1,COD
+OD-1163,30-11-25,Reyansh Reddy,Indore,Madhya Pradesh,Furniture,Table,16762,-1560,1,Debit Card
+OD-1164,13-02-25,Gurpreet Mehta,Chennai,Tamil Nadu,Clothing,Shirt,8792,1215,4,COD
+OD-1165,23-03-25,Ananya Reddy,Lucknow,Uttar Pradesh,Electronics,Smartwatch,122049,-14792,3,Debit Card
+OD-1166,03-02-25,Diya Verma,Amritsar,Punjab,Electronics,Headphones,46694,-4910,2,Credit Card
+OD-1167,29-06-25,Shaurya Mehta,Amritsar,Punjab,Clothing,Kurtis,1667,262,1,Debit Card
+OD-1168,07-03-25,Neha Gill,Patna,Bihar,Clothing,Dress,9924,486,4,Debit Card
+OD-1169,08-06-25,Sai Singh,Chandigarh,Punjab,Electronics,Laptop,21030,-1362,2,Debit Card
+OD-1170,21-02-25,Gurpreet Dhillon,Patna,Bihar,Clothing,Dress,8790,-684,3,Net Banking
+OD-1171,20-03-25,Sai Kumar,Chennai,Tamil Nadu,Furniture,Sofa,15463,778,1,Credit Card
+OD-1172,16-08-25,Amit Patel,Kochi,Kerala,Clothing,Kurtis,3332,1269,2,Net Banking
+OD-1173,10-04-25,Ananya Mehta,Kochi,Kerala,Electronics,Headphones,137832,19310,4,Credit Card
+OD-1174,13-04-25,Amit Kumar,Jaipur,Rajasthan,Clothing,Dress,7676,1189,4,UPI
+OD-1175,31-12-25,Gurpreet Verma,Lucknow,Uttar Pradesh,Clothing,Shirt,6717,2336,3,Credit Card
+OD-1176,12-08-25,Aditya Singh,Kochi,Kerala,Electronics,Mobile,19960,1358,4,Debit Card
+OD-1177,01-05-25,Aadhya Verma,Ludhiana,Punjab,Clothing,T-Shirt,2412,751,3,Debit Card
+OD-1178,16-03-25,Arjun Sharma,Lucknow,Uttar Pradesh,Electronics,Speaker,64486,6237,2,UPI
+OD-1179,10-02-25,Aarav Patel,Kolkata,West Bengal,Clothing,Kurtis,3416,945,4,Credit Card
+OD-1180,04-06-25,Vihaan Sharma,Ahmedabad,Gujarat,Electronics,Speaker,22464,-1999,4,Net Banking
+OD-1181,02-11-25,Harpreet Sharma,Patna,Bihar,Furniture,Table,23088,1987,2,COD
+OD-1182,30-06-25,Krishna Gupta,Bathinda,Punjab,Clothing,Dress,2543,981,1,UPI
+OD-1183,27-09-25,Harpreet Joshi,Patna,Bihar,Furniture,Chair,69620,-8776,4,Net Banking
+OD-1184,11-07-25,Ishaan Gill,Mumbai,Maharashtra,Electronics,Mobile,51906,13138,3,UPI
+OD-1185,25-10-25,Diya Kumar,Pune,Maharashtra,Electronics,Power Bank,130878,-7028,3,Net Banking
+OD-1186,23-12-25,Kavya Mehta,Chennai,Tamil Nadu,Clothing,T-Shirt,2200,25,4,UPI
+OD-1187,13-04-25,Vivaan Reddy,Lucknow,Uttar Pradesh,Furniture,Sofa,41200,-5350,4,Credit Card
+OD-1188,27-05-25,Ananya Dhillon,Pune,Maharashtra,Furniture,Bed,18234,5281,3,Net Banking
+OD-1189,24-07-25,Sia Nair,Chandigarh,Punjab,Clothing,Sari,7612,2727,4,COD
+OD-1190,17-05-25,Aditya Gill,Bathinda,Punjab,Clothing,Sari,5266,60,2,UPI
+OD-1191,10-02-25,Diya Mehta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,49684,11396,4,Debit Card
+OD-1192,17-08-25,Vivaan Gill,Ludhiana,Punjab,Furniture,Sofa,68862,26788,3,UPI
+OD-1193,08-02-25,Neha Mehta,Amritsar,Punjab,Electronics,Power Bank,7080,-506,2,COD
+OD-1194,14-12-25,Sia Sharma,Hyderabad,Telangana,Clothing,Shirt,5646,341,3,COD
+OD-1195,17-01-25,Amit Kumar,Kochi,Kerala,Electronics,Headphones,26152,4332,4,COD
+OD-1196,07-07-25,Aadhya Reddy,Jaipur,Rajasthan,Clothing,T-Shirt,1161,144,1,Net Banking
+OD-1197,15-10-25,Vihaan Patel,Jaipur,Rajasthan,Furniture,Sofa,44098,311,2,Net Banking
+OD-1198,13-04-25,Vihaan Kumar,Delhi,Delhi,Electronics,Laptop,29012,8581,4,Debit Card
+OD-1199,08-12-25,Ananya Gill,Delhi,Delhi,Furniture,Wardrobe,35484,11292,3,Credit Card
+OD-1200,05-07-25,Gurpreet Singh,Bengaluru,Karnataka,Clothing,Shirt,4844,-656,2,COD
+OD-1201,21-10-25,Ananya Das,Hyderabad,Telangana,Furniture,Chair,12134,837,1,Net Banking
+OD-1202,27-09-25,Peehu Dhillon,Bathinda,Punjab,Furniture,Chair,24776,5036,2,Net Banking
+OD-1203,27-08-25,Neha Joshi,Ludhiana,Punjab,Clothing,Kurtis,1854,163,2,UPI
+OD-1204,05-03-25,Gurpreet Kumar,Lucknow,Uttar Pradesh,Clothing,Shirt,3966,159,3,COD
+OD-1205,26-05-25,Aditya Patel,Kolkata,West Bengal,Furniture,Wardrobe,18303,3546,3,COD
+OD-1206,01-10-25,Aditya Joshi,Chennai,Tamil Nadu,Furniture,Wardrobe,15218,3230,2,COD
+OD-1207,22-06-25,Rahul Sharma,Mumbai,Maharashtra,Clothing,T-Shirt,3786,1029,3,Net Banking
+OD-1208,13-11-25,Priya Sharma,Indore,Madhya Pradesh,Furniture,Wardrobe,69102,25993,3,Net Banking
+OD-1209,06-05-25,Neha Nair,Lucknow,Uttar Pradesh,Electronics,Mobile,11859,1088,1,Net Banking
+OD-1210,26-08-25,Reyansh Reddy,Hyderabad,Telangana,Electronics,Speaker,72402,27980,3,Credit Card
+OD-1211,09-07-25,Gurpreet Joshi,Bengaluru,Karnataka,Electronics,Laptop,38116,-110,4,Credit Card
+OD-1212,14-03-25,Vihaan Sharma,Lucknow,Uttar Pradesh,Electronics,Power Bank,71080,26973,4,Credit Card
+OD-1213,17-06-25,Rahul Gill,Chandigarh,Punjab,Clothing,Shirt,10028,1070,4,Debit Card
+OD-1214,12-09-25,Aarav Verma,Amritsar,Punjab,Furniture,Sofa,18098,3091,2,UPI
+OD-1215,26-01-25,Shaurya Das,Indore,Madhya Pradesh,Electronics,Power Bank,8544,743,1,Debit Card
+OD-1216,07-07-25,Aadhya Reddy,Pune,Maharashtra,Electronics,Mobile,50516,7793,2,UPI
+OD-1217,17-07-25,Gurpreet Das,Jaipur,Rajasthan,Furniture,Bookshelf,6216,2401,1,Net Banking
+OD-1218,11-07-25,Diya Joshi,Ludhiana,Punjab,Clothing,Shirt,9788,-1251,4,UPI
+OD-1219,12-03-25,Diya Dhillon,Indore,Madhya Pradesh,Furniture,Sofa,43730,14921,2,Credit Card
+OD-1220,17-06-25,Amit Reddy,Chennai,Tamil Nadu,Electronics,Power Bank,121230,4243,3,COD
+OD-1221,30-09-25,Kavya Gill,Lucknow,Uttar Pradesh,Electronics,Mobile,69624,15358,3,Net Banking
+OD-1222,26-10-25,Shaurya Dhillon,Mumbai,Maharashtra,Furniture,Sofa,70446,19766,3,COD
+OD-1223,23-10-25,Krishna Gill,Pune,Maharashtra,Furniture,Sofa,38356,7516,2,COD
+OD-1224,14-07-25,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Kurtis,1180,-164,1,Debit Card
+OD-1225,03-08-25,Arjun Nair,Kolkata,West Bengal,Electronics,Power Bank,22324,5317,4,COD
+OD-1226,17-04-25,Harpreet Reddy,Indore,Madhya Pradesh,Furniture,Sofa,23022,2367,3,COD
+OD-1227,25-06-25,Harpreet Reddy,Jaipur,Rajasthan,Furniture,Sofa,20154,69,2,Debit Card
+OD-1228,26-04-25,Shaurya Dhillon,Lucknow,Uttar Pradesh,Furniture,Table,49552,5643,4,COD
+OD-1229,21-05-25,Shaurya Verma,Amritsar,Punjab,Electronics,Headphones,41070,-5210,2,UPI
+OD-1230,27-06-25,Sia Mehta,Jaipur,Rajasthan,Furniture,Sofa,17242,5265,2,Debit Card
+OD-1231,15-10-25,Ishaan Kumar,Bengaluru,Karnataka,Furniture,Bookshelf,19888,-2427,2,COD
+OD-1232,26-04-25,Priya Singh,Pune,Maharashtra,Clothing,Sari,6999,-662,3,Credit Card
+OD-1233,03-01-25,Harpreet Kumar,Bathinda,Punjab,Furniture,Sofa,93264,-3758,4,Debit Card
+OD-1234,14-06-25,Shaurya Mehta,Pune,Maharashtra,Clothing,Dress,5180,1327,2,UPI
+OD-1235,31-03-25,Peehu Kumar,Pune,Maharashtra,Electronics,Smartwatch,40940,13600,2,UPI
+OD-1236,02-06-25,Rahul Gupta,Bengaluru,Karnataka,Electronics,Headphones,174116,25911,4,Net Banking
+OD-1237,10-03-25,Gurpreet Das,Jaipur,Rajasthan,Clothing,T-Shirt,3192,804,3,Debit Card
+OD-1238,06-04-25,Aarav Gill,Chandigarh,Punjab,Electronics,Power Bank,26002,4837,2,Net Banking
+OD-1239,07-08-25,Gurpreet Reddy,Delhi,Delhi,Electronics,Speaker,13609,5306,1,Net Banking
+OD-1240,15-06-25,Krishna Sharma,Jaipur,Rajasthan,Electronics,Laptop,75988,28474,4,Debit Card
+OD-1241,26-10-25,Rahul Sharma,Jaipur,Rajasthan,Furniture,Bed,8070,1753,2,Net Banking
+OD-1242,07-06-25,Sai Nair,Patna,Bihar,Furniture,Bed,22929,8113,1,Debit Card
+OD-1243,08-07-25,Amit Singh,Ahmedabad,Gujarat,Clothing,Sari,4524,1181,2,COD
+OD-1244,11-07-25,Peehu Gill,Indore,Madhya Pradesh,Furniture,Bookshelf,20216,4532,2,COD
+OD-1245,11-02-25,Gurpreet Das,Patna,Bihar,Furniture,Bed,20486,-1808,1,COD
+OD-1246,16-09-25,Reyansh Gupta,Hyderabad,Telangana,Clothing,Jeans,3500,784,4,COD
+OD-1247,08-09-25,Aditya Joshi,Kochi,Kerala,Clothing,Sari,5002,392,2,COD
+OD-1248,30-01-25,Harpreet Das,Lucknow,Uttar Pradesh,Furniture,Chair,41352,12366,4,Credit Card
+OD-1249,24-10-25,Aditya Sharma,Bathinda,Punjab,Electronics,Speaker,36965,14666,1,UPI
+OD-1250,30-08-25,Vivaan Patel,Bathinda,Punjab,Clothing,Shirt,7728,3060,4,Net Banking
+OD-1251,18-08-25,Aadhya Nair,Delhi,Delhi,Furniture,Bookshelf,46830,15133,2,UPI
+OD-1252,02-04-25,Harpreet Nair,Patna,Bihar,Clothing,Dress,826,219,2,Debit Card
+OD-1253,26-08-25,Neha Gill,Bathinda,Punjab,Furniture,Sofa,20220,2089,2,Credit Card
+OD-1254,22-05-25,Reyansh Gill,Bengaluru,Karnataka,Clothing,Dress,11668,3165,4,UPI
+OD-1255,04-05-25,Reyansh Verma,Bengaluru,Karnataka,Furniture,Chair,86352,18964,4,UPI
+OD-1256,06-05-25,Vivaan Nair,Kochi,Kerala,Clothing,Kurtis,1260,-91,2,Debit Card
+OD-1257,30-04-25,Rahul Reddy,Chandigarh,Punjab,Clothing,Jeans,5068,-144,2,Debit Card
+OD-1258,21-05-25,Vivaan Joshi,Chennai,Tamil Nadu,Furniture,Bookshelf,80856,9912,4,Debit Card
+OD-1259,26-11-25,Neha Nair,Patna,Bihar,Electronics,Speaker,113020,-7677,4,Net Banking
+OD-1260,05-04-25,Harpreet Das,Ahmedabad,Gujarat,Clothing,Jeans,4590,1620,2,COD
+OD-1261,31-07-25,Peehu Joshi,Patna,Bihar,Clothing,Sari,2886,-110,2,UPI
+OD-1262,19-08-25,Ananya Verma,Kolkata,West Bengal,Clothing,Jeans,11504,2089,4,UPI
+OD-1263,07-04-25,Rahul Gill,Kolkata,West Bengal,Electronics,Laptop,64107,24127,3,UPI
+OD-1264,19-04-25,Reyansh Gill,Bengaluru,Karnataka,Furniture,Sofa,49588,9045,2,Credit Card
+OD-1265,23-07-25,Krishna Joshi,Chandigarh,Punjab,Electronics,Smartwatch,145892,30169,4,Debit Card
+OD-1266,14-05-25,Ananya Joshi,Indore,Madhya Pradesh,Electronics,Mobile,89944,31739,4,Debit Card
+OD-1267,10-06-25,Peehu Sharma,Ahmedabad,Gujarat,Furniture,Table,10545,1627,1,COD
+OD-1268,24-10-25,Peehu Patel,Hyderabad,Telangana,Clothing,Jeans,3908,638,2,Credit Card
+OD-1269,13-09-25,Harpreet Mehta,Chandigarh,Punjab,Electronics,Smartwatch,126800,-7287,4,Debit Card
+OD-1270,28-03-25,Arjun Gill,Indore,Madhya Pradesh,Clothing,Kurtis,2545,-334,1,UPI
+OD-1271,09-12-25,Vivaan Dhillon,Mumbai,Maharashtra,Electronics,Laptop,11908,2845,2,UPI
+OD-1272,22-04-25,Gurpreet Das,Ludhiana,Punjab,Clothing,Kurtis,9588,-1355,4,COD
+OD-1273,10-10-25,Peehu Sharma,Mumbai,Maharashtra,Furniture,Bookshelf,58665,22739,3,UPI
+OD-1274,15-09-25,Neha Nair,Chennai,Tamil Nadu,Clothing,T-Shirt,2772,-123,2,COD
+OD-1275,10-05-25,Ananya Patel,Amritsar,Punjab,Clothing,Jeans,9116,1465,4,Credit Card
+OD-1276,03-06-25,Neha Verma,Pune,Maharashtra,Clothing,Sari,7772,1196,4,UPI
+OD-1277,23-11-25,Aarav Gill,Chennai,Tamil Nadu,Clothing,Sari,7020,1131,4,UPI
+OD-1278,28-09-25,Vivaan Singh,Kolkata,West Bengal,Furniture,Wardrobe,43532,-5414,4,UPI
+OD-1279,17-12-25,Ishaan Joshi,Pune,Maharashtra,Clothing,Jeans,1247,215,1,Net Banking
+OD-1280,09-02-25,Shaurya Kumar,Ahmedabad,Gujarat,Furniture,Sofa,43731,11614,3,Credit Card
+OD-1281,19-12-25,Aditya Joshi,Ludhiana,Punjab,Clothing,T-Shirt,5396,1679,4,Debit Card
+OD-1282,06-11-25,Amit Gupta,Amritsar,Punjab,Electronics,Mobile,93081,11154,3,Debit Card
+OD-1283,11-10-25,Aadhya Nair,Chennai,Tamil Nadu,Furniture,Wardrobe,19232,5282,4,Debit Card
+OD-1284,07-05-25,Aditya Verma,Jaipur,Rajasthan,Clothing,Sari,3988,96,2,UPI
+OD-1285,16-02-25,Aarav Patel,Kochi,Kerala,Electronics,Headphones,10183,-1038,1,Net Banking
+OD-1286,18-08-25,Harpreet Joshi,Patna,Bihar,Electronics,Mobile,7373,329,1,UPI
+OD-1287,02-11-25,Amit Dhillon,Chandigarh,Punjab,Electronics,Mobile,85857,5433,3,UPI
+OD-1288,14-10-25,Krishna Gupta,Patna,Bihar,Clothing,Dress,4372,-321,4,Debit Card
+OD-1289,18-05-25,Kavya Kumar,Delhi,Delhi,Clothing,Sari,6369,94,3,UPI
+OD-1290,04-07-25,Ishaan Singh,Indore,Madhya Pradesh,Furniture,Wardrobe,34006,-3100,2,Debit Card
+OD-1291,04-01-25,Aadhya Reddy,Amritsar,Punjab,Electronics,Smartwatch,89160,26615,3,COD
+OD-1292,11-03-25,Shaurya Reddy,Kolkata,West Bengal,Electronics,Headphones,55198,21129,2,Debit Card
+OD-1293,22-12-25,Priya Das,Ahmedabad,Gujarat,Electronics,Smartwatch,81753,4149,3,COD
+OD-1294,13-04-25,Rahul Joshi,Chennai,Tamil Nadu,Furniture,Wardrobe,17126,6313,1,Credit Card
+OD-1295,13-08-25,Shaurya Gill,Delhi,Delhi,Electronics,Speaker,42484,8426,4,Credit Card
+OD-1296,10-05-25,Neha Kumar,Bathinda,Punjab,Electronics,Mobile,162744,18484,4,Net Banking
+OD-1297,01-10-25,Gurpreet Gill,Bathinda,Punjab,Furniture,Chair,74973,25680,3,COD
+OD-1298,01-11-25,Priya Verma,Bengaluru,Karnataka,Clothing,Dress,3240,666,3,UPI
+OD-1299,16-10-25,Priya Mehta,Amritsar,Punjab,Electronics,Smartwatch,2191,-209,1,Credit Card
+OD-1300,19-09-25,Gurpreet Joshi,Ahmedabad,Gujarat,Electronics,Headphones,127388,35004,4,COD
+OD-1301,20-12-25,Gurpreet Kumar,Ludhiana,Punjab,Clothing,Sari,1609,126,1,UPI
+OD-1302,01-03-25,Arjun Reddy,Lucknow,Uttar Pradesh,Electronics,Smartwatch,71302,8243,2,Net Banking
+OD-1303,19-02-25,Sia Gill,Kochi,Kerala,Electronics,Mobile,13284,3926,3,UPI
+OD-1304,12-01-25,Diya Mehta,Bengaluru,Karnataka,Furniture,Table,37816,-2043,2,Credit Card
+OD-1305,19-06-25,Harpreet Nair,Kochi,Kerala,Clothing,Sari,2324,470,2,Net Banking
+OD-1306,22-07-25,Aarav Gill,Kolkata,West Bengal,Electronics,Power Bank,107928,-15925,4,Credit Card
+OD-1307,16-04-25,Ishaan Dhillon,Delhi,Delhi,Furniture,Chair,27972,819,2,Net Banking
+OD-1308,28-02-25,Ishaan Mehta,Indore,Madhya Pradesh,Furniture,Bookshelf,64683,4123,3,Net Banking
+OD-1309,28-10-25,Vihaan Reddy,Ludhiana,Punjab,Electronics,Power Bank,41986,14916,2,COD
+OD-1310,13-02-25,Neha Kumar,Chandigarh,Punjab,Clothing,Shirt,2634,-129,3,Credit Card
+OD-1311,19-09-25,Aadhya Nair,Hyderabad,Telangana,Furniture,Sofa,32344,3805,4,COD
+OD-1312,22-12-25,Priya Kumar,Chennai,Tamil Nadu,Electronics,Headphones,27522,633,2,Net Banking
+OD-1313,14-11-25,Vivaan Reddy,Mumbai,Maharashtra,Electronics,Laptop,53324,20268,2,COD
+OD-1314,01-12-25,Kavya Nair,Indore,Madhya Pradesh,Electronics,Speaker,134108,-7779,4,COD
+OD-1315,16-01-25,Krishna Patel,Pune,Maharashtra,Electronics,Laptop,37569,10497,3,COD
+OD-1316,11-09-25,Harpreet Joshi,Bengaluru,Karnataka,Furniture,Chair,59388,17983,3,Debit Card
+OD-1317,05-10-25,Vivaan Dhillon,Kochi,Kerala,Furniture,Table,21420,5457,4,Credit Card
+OD-1318,02-06-25,Vivaan Das,Jaipur,Rajasthan,Electronics,Mobile,36772,10171,4,Credit Card
+OD-1319,18-04-25,Rahul Gill,Ludhiana,Punjab,Furniture,Wardrobe,29752,5619,4,Credit Card
+OD-1320,16-04-25,Vivaan Gupta,Ludhiana,Punjab,Furniture,Bed,25210,9792,2,Debit Card
+OD-1321,29-05-25,Rahul Patel,Patna,Bihar,Furniture,Chair,30974,11005,2,Debit Card
+OD-1322,02-12-25,Arjun Gill,Hyderabad,Telangana,Clothing,Shirt,4236,1138,3,Net Banking
+OD-1323,08-09-25,Arjun Gupta,Jaipur,Rajasthan,Furniture,Sofa,67240,-7293,4,UPI
+OD-1324,26-07-25,Gurpreet Gill,Jaipur,Rajasthan,Furniture,Bed,71968,2159,4,UPI
+OD-1325,17-02-25,Sia Mehta,Ludhiana,Punjab,Clothing,Kurtis,5164,1975,4,Credit Card
+OD-1326,11-09-25,Ishaan Reddy,Lucknow,Uttar Pradesh,Electronics,Power Bank,77204,24615,2,Debit Card
+OD-1327,16-12-25,Vivaan Sharma,Bengaluru,Karnataka,Furniture,Sofa,6071,2192,1,Credit Card
+OD-1328,14-08-25,Sia Sharma,Bathinda,Punjab,Clothing,Dress,3270,-204,2,Debit Card
+OD-1329,17-02-25,Priya Reddy,Jaipur,Rajasthan,Clothing,Jeans,1222,83,2,Debit Card
+OD-1330,25-12-25,Krishna Nair,Delhi,Delhi,Furniture,Chair,8993,1009,1,Credit Card
+OD-1331,31-10-25,Krishna Joshi,Kochi,Kerala,Clothing,T-Shirt,2676,1052,3,Net Banking
+OD-1332,22-12-25,Arjun Das,Delhi,Delhi,Clothing,Sari,818,-76,1,Debit Card
+OD-1333,03-06-25,Arjun Nair,Hyderabad,Telangana,Furniture,Bookshelf,8482,1202,2,UPI
+OD-1334,09-11-25,Priya Kumar,Kochi,Kerala,Electronics,Speaker,85322,22315,2,Net Banking
+OD-1335,12-11-25,Neha Das,Kolkata,West Bengal,Clothing,T-Shirt,1806,314,2,Net Banking
+OD-1336,29-06-25,Peehu Reddy,Hyderabad,Telangana,Clothing,Jeans,1415,218,1,COD
+OD-1337,08-11-25,Shaurya Dhillon,Mumbai,Maharashtra,Furniture,Bed,37930,6971,2,Credit Card
+OD-1338,20-07-25,Shaurya Mehta,Pune,Maharashtra,Clothing,Sari,3440,-59,4,COD
+OD-1339,06-02-25,Gurpreet Sharma,Ludhiana,Punjab,Electronics,Laptop,154996,12628,4,COD
+OD-1340,16-12-25,Sai Dhillon,Indore,Madhya Pradesh,Clothing,T-Shirt,455,-2,1,UPI
+OD-1341,31-01-25,Aadhya Joshi,Lucknow,Uttar Pradesh,Furniture,Bookshelf,63516,14989,4,UPI
+OD-1342,24-11-25,Harpreet Joshi,Hyderabad,Telangana,Electronics,Mobile,20034,2628,3,Credit Card
+OD-1343,21-03-25,Harpreet Reddy,Amritsar,Punjab,Furniture,Bookshelf,12163,2849,1,Credit Card
+OD-1344,30-01-25,Krishna Verma,Bathinda,Punjab,Clothing,Sari,1665,360,1,Credit Card
+OD-1345,03-03-25,Aarav Gill,Hyderabad,Telangana,Furniture,Chair,36532,13668,2,COD
+OD-1346,22-09-25,Ishaan Kumar,Ludhiana,Punjab,Clothing,Dress,2646,725,3,UPI
+OD-1347,21-06-25,Peehu Patel,Patna,Bihar,Clothing,Jeans,2431,243,1,Debit Card
+OD-1348,29-01-25,Kavya Gupta,Chennai,Tamil Nadu,Electronics,Laptop,24729,8453,3,UPI
+OD-1349,27-04-25,Gurpreet Sharma,Pune,Maharashtra,Clothing,Shirt,2331,116,1,Credit Card
+OD-1350,02-04-25,Vivaan Joshi,Bathinda,Punjab,Clothing,Jeans,4206,1487,2,Debit Card
+OD-1351,19-05-25,Aditya Gupta,Ludhiana,Punjab,Clothing,Kurtis,1133,-30,1,COD
+OD-1352,24-01-25,Aadhya Verma,Kochi,Kerala,Electronics,Headphones,21483,3312,3,UPI
+OD-1353,08-07-25,Reyansh Patel,Lucknow,Uttar Pradesh,Furniture,Wardrobe,34402,1807,2,Net Banking
+OD-1354,11-04-25,Harpreet Dhillon,Ahmedabad,Gujarat,Clothing,T-Shirt,1984,-43,4,Debit Card
+OD-1355,22-11-25,Aarav Reddy,Mumbai,Maharashtra,Furniture,Sofa,16218,-602,3,Credit Card
+OD-1356,03-08-25,Kavya Sharma,Hyderabad,Telangana,Furniture,Bed,3438,1226,1,COD
+OD-1357,31-07-25,Ananya Das,Delhi,Delhi,Furniture,Chair,45760,13772,2,UPI
+OD-1358,31-10-25,Rahul Sharma,Bathinda,Punjab,Furniture,Table,23114,-149,2,Debit Card
+OD-1359,21-07-25,Diya Reddy,Kochi,Kerala,Electronics,Laptop,14784,-1110,1,COD
+OD-1360,25-02-25,Arjun Verma,Chennai,Tamil Nadu,Electronics,Smartwatch,84423,-7057,3,Debit Card
+OD-1361,17-04-25,Sia Patel,Kochi,Kerala,Electronics,Mobile,11829,3479,1,Debit Card
+OD-1362,27-12-25,Amit Sharma,Kolkata,West Bengal,Electronics,Laptop,17767,6798,1,Net Banking
+OD-1363,20-09-25,Vivaan Mehta,Lucknow,Uttar Pradesh,Electronics,Laptop,28002,8961,1,COD
+OD-1364,09-10-25,Krishna Verma,Kochi,Kerala,Clothing,Shirt,447,-51,1,Credit Card
+OD-1365,08-03-25,Reyansh Nair,Ludhiana,Punjab,Furniture,Bookshelf,21081,3633,1,UPI
+OD-1366,12-01-25,Aditya Singh,Kochi,Kerala,Clothing,T-Shirt,2700,-341,3,Net Banking
+OD-1367,26-01-25,Sai Gupta,Bathinda,Punjab,Furniture,Sofa,11864,717,4,Net Banking
+OD-1368,30-03-25,Ananya Singh,Chennai,Tamil Nadu,Electronics,Headphones,44960,-5887,4,COD
+OD-1369,12-11-25,Krishna Mehta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,21984,-2236,4,Net Banking
+OD-1370,12-03-25,Peehu Singh,Patna,Bihar,Clothing,Dress,1965,550,1,Debit Card
+OD-1371,03-09-25,Harpreet Dhillon,Indore,Madhya Pradesh,Electronics,Power Bank,80856,-101,3,UPI
+OD-1372,13-06-25,Amit Singh,Mumbai,Maharashtra,Electronics,Mobile,144784,6745,4,COD
+OD-1373,30-04-25,Sai Verma,Ahmedabad,Gujarat,Furniture,Table,58461,17477,3,UPI
+OD-1374,23-04-25,Rahul Dhillon,Amritsar,Punjab,Electronics,Laptop,34004,5980,2,Debit Card
+OD-1375,30-10-25,Aarav Gill,Ludhiana,Punjab,Furniture,Wardrobe,40902,15199,2,Net Banking
+OD-1376,05-10-25,Shaurya Kumar,Indore,Madhya Pradesh,Clothing,T-Shirt,1351,244,1,UPI
+OD-1377,27-09-25,Kavya Sharma,Chandigarh,Punjab,Furniture,Table,26330,6432,2,Debit Card
+OD-1378,31-01-25,Aarav Kumar,Hyderabad,Telangana,Clothing,Kurtis,2088,115,3,Net Banking
+OD-1379,28-10-25,Vihaan Reddy,Lucknow,Uttar Pradesh,Electronics,Laptop,60260,17205,2,Net Banking
+OD-1380,29-11-25,Diya Kumar,Ludhiana,Punjab,Clothing,Dress,3896,73,2,Debit Card
+OD-1381,07-03-25,Sai Gill,Mumbai,Maharashtra,Furniture,Wardrobe,82380,-10889,4,COD
+OD-1382,12-06-25,Amit Singh,Bengaluru,Karnataka,Electronics,Laptop,19797,-378,3,Debit Card
+OD-1383,27-03-25,Priya Verma,Chandigarh,Punjab,Electronics,Mobile,45723,-583,3,UPI
+OD-1384,29-06-25,Ishaan Dhillon,Bengaluru,Karnataka,Furniture,Chair,14646,1333,1,Net Banking
+OD-1385,27-03-25,Peehu Das,Amritsar,Punjab,Electronics,Power Bank,32588,9966,4,COD
+OD-1386,30-11-25,Neha Singh,Chennai,Tamil Nadu,Electronics,Mobile,20827,-2894,1,Debit Card
+OD-1387,23-02-25,Aditya Reddy,Chennai,Tamil Nadu,Electronics,Laptop,37351,13745,1,UPI
+OD-1388,23-06-25,Amit Gupta,Indore,Madhya Pradesh,Furniture,Chair,93672,-5550,4,Net Banking
+OD-1389,22-03-25,Vivaan Verma,Chandigarh,Punjab,Clothing,Shirt,10672,2637,4,COD
+OD-1390,16-05-25,Neha Patel,Lucknow,Uttar Pradesh,Clothing,T-Shirt,2008,330,1,Net Banking
+OD-1391,20-03-25,Vivaan Reddy,Mumbai,Maharashtra,Electronics,Mobile,134658,26096,3,Net Banking
+OD-1392,13-04-25,Vihaan Sharma,Kolkata,West Bengal,Clothing,Dress,2202,243,3,UPI
+OD-1393,07-06-25,Aadhya Das,Indore,Madhya Pradesh,Furniture,Bed,23032,3437,1,Credit Card
+OD-1394,09-07-25,Aadhya Reddy,Chennai,Tamil Nadu,Electronics,Mobile,90954,9621,3,Credit Card
+OD-1395,18-05-25,Rahul Sharma,Hyderabad,Telangana,Furniture,Bookshelf,4808,1045,1,COD
+OD-1396,31-07-25,Rahul Singh,Pune,Maharashtra,Electronics,Power Bank,146380,33358,4,Net Banking
+OD-1397,21-10-25,Krishna Das,Lucknow,Uttar Pradesh,Clothing,Sari,2455,403,1,COD
+OD-1398,20-10-25,Neha Gupta,Hyderabad,Telangana,Clothing,Sari,2166,833,2,Credit Card
+OD-1399,06-03-25,Vivaan Nair,Delhi,Delhi,Furniture,Sofa,45104,-3097,2,COD
+OD-1400,13-05-25,Diya Gill,Delhi,Delhi,Clothing,Sari,10640,312,4,Debit Card
+OD-1401,24-09-25,Sia Sharma,Patna,Bihar,Electronics,Mobile,45224,-3097,4,COD
+OD-1402,26-10-25,Vihaan Verma,Bengaluru,Karnataka,Electronics,Power Bank,85284,-402,3,Net Banking
+OD-1403,20-10-25,Amit Das,Pune,Maharashtra,Clothing,Jeans,3952,751,4,Net Banking
+OD-1404,20-01-25,Aadhya Reddy,Ahmedabad,Gujarat,Clothing,Dress,5996,2058,4,UPI
+OD-1405,22-06-25,Shaurya Patel,Jaipur,Rajasthan,Electronics,Speaker,16439,-1250,1,Net Banking
+OD-1406,14-06-25,Ishaan Gill,Bathinda,Punjab,Furniture,Bookshelf,8158,758,1,Net Banking
+OD-1407,06-09-25,Gurpreet Reddy,Pune,Maharashtra,Furniture,Table,12194,2929,1,Net Banking
+OD-1408,11-03-25,Gurpreet Gupta,Mumbai,Maharashtra,Clothing,Shirt,1270,-16,2,Net Banking
+OD-1409,26-01-25,Ananya Gill,Kolkata,West Bengal,Electronics,Headphones,138412,9456,4,UPI
+OD-1410,15-12-25,Aarav Singh,Ludhiana,Punjab,Electronics,Power Bank,52552,19879,4,Net Banking
+OD-1411,28-10-25,Harpreet Reddy,Ludhiana,Punjab,Clothing,Jeans,1566,-211,1,UPI
+OD-1412,25-03-25,Rahul Dhillon,Kolkata,West Bengal,Clothing,Dress,2490,-4,2,Net Banking
+OD-1413,20-09-25,Aarav Dhillon,Mumbai,Maharashtra,Electronics,Laptop,81792,23758,2,Credit Card
+OD-1414,10-05-25,Amit Dhillon,Lucknow,Uttar Pradesh,Furniture,Bookshelf,47661,16324,3,Debit Card
+OD-1415,24-08-25,Ishaan Singh,Kochi,Kerala,Electronics,Speaker,159216,-14923,4,COD
+OD-1416,06-12-25,Ananya Joshi,Lucknow,Uttar Pradesh,Electronics,Speaker,33071,-3799,1,Debit Card
+OD-1417,24-11-25,Diya Patel,Jaipur,Rajasthan,Furniture,Bookshelf,24516,-1655,3,Credit Card
+OD-1418,30-01-25,Amit Nair,Chandigarh,Punjab,Furniture,Table,23476,2900,1,Debit Card
+OD-1419,13-05-25,Peehu Nair,Amritsar,Punjab,Furniture,Chair,26488,6611,2,Credit Card
+OD-1420,18-12-25,Harpreet Mehta,Indore,Madhya Pradesh,Furniture,Bed,22710,7093,3,COD
+OD-1421,03-04-25,Shaurya Verma,Indore,Madhya Pradesh,Clothing,Dress,8064,2174,3,Credit Card
+OD-1422,15-12-25,Diya Mehta,Delhi,Delhi,Clothing,Jeans,3312,269,2,Debit Card
+OD-1423,10-07-25,Ishaan Gupta,Lucknow,Uttar Pradesh,Electronics,Mobile,20068,6552,4,COD
+OD-1424,25-10-25,Amit Verma,Indore,Madhya Pradesh,Clothing,Kurtis,1962,277,1,Net Banking
+OD-1425,28-01-25,Arjun Kumar,Kolkata,West Bengal,Electronics,Smartwatch,43544,1045,4,Credit Card
+OD-1426,11-02-25,Kavya Reddy,Chennai,Tamil Nadu,Electronics,Speaker,1808,178,1,Credit Card
+OD-1427,28-03-25,Rahul Dhillon,Chennai,Tamil Nadu,Electronics,Mobile,83540,7396,2,Net Banking
+OD-1428,26-07-25,Peehu Das,Amritsar,Punjab,Clothing,T-Shirt,3854,1435,2,Debit Card
+OD-1429,29-09-25,Reyansh Sharma,Mumbai,Maharashtra,Furniture,Bookshelf,18828,4357,2,Debit Card
+OD-1430,09-06-25,Arjun Verma,Amritsar,Punjab,Furniture,Wardrobe,22416,-2557,3,UPI
+OD-1431,02-06-25,Shaurya Das,Patna,Bihar,Furniture,Wardrobe,48630,16455,3,Credit Card
+OD-1432,25-06-25,Kavya Reddy,Kolkata,West Bengal,Clothing,Sari,1334,-35,1,Credit Card
+OD-1433,19-04-25,Aarav Gupta,Patna,Bihar,Clothing,T-Shirt,1656,93,3,Debit Card
+OD-1434,01-10-25,Amit Sharma,Pune,Maharashtra,Furniture,Chair,3580,821,1,Net Banking
+OD-1435,16-08-25,Aadhya Verma,Jaipur,Rajasthan,Electronics,Speaker,29934,6955,2,UPI
+OD-1436,04-06-25,Peehu Mehta,Bengaluru,Karnataka,Furniture,Wardrobe,67221,12308,3,Credit Card
+OD-1437,03-08-25,Vihaan Joshi,Bengaluru,Karnataka,Electronics,Mobile,34119,-1390,1,Credit Card
+OD-1438,15-05-25,Gurpreet Singh,Ludhiana,Punjab,Furniture,Sofa,21765,-2793,3,Net Banking
+OD-1439,17-04-25,Kavya Reddy,Ahmedabad,Gujarat,Clothing,T-Shirt,851,263,1,Net Banking
+OD-1440,18-03-25,Aditya Dhillon,Patna,Bihar,Clothing,Dress,1447,295,1,Net Banking
+OD-1441,01-06-25,Ishaan Das,Pune,Maharashtra,Clothing,Shirt,1589,76,1,Debit Card
+OD-1442,07-08-25,Vihaan Verma,Pune,Maharashtra,Clothing,Shirt,3490,162,2,Net Banking
+OD-1443,15-11-25,Ishaan Gill,Delhi,Delhi,Electronics,Headphones,17920,1262,2,Net Banking
+OD-1444,20-05-25,Aadhya Gill,Indore,Madhya Pradesh,Electronics,Speaker,17818,-1374,2,UPI
+OD-1445,23-03-25,Vihaan Nair,Indore,Madhya Pradesh,Furniture,Bookshelf,31756,5913,4,Debit Card
+OD-1446,10-11-25,Aarav Mehta,Hyderabad,Telangana,Electronics,Smartwatch,28453,2628,1,UPI
+OD-1447,14-05-25,Priya Reddy,Mumbai,Maharashtra,Furniture,Bookshelf,47898,15817,2,COD
+OD-1448,25-09-25,Amit Verma,Bathinda,Punjab,Furniture,Bookshelf,35582,1429,2,Net Banking
+OD-1449,18-03-25,Harpreet Gupta,Pune,Maharashtra,Clothing,Dress,4938,1564,2,Net Banking
+OD-1450,26-03-25,Aditya Dhillon,Indore,Madhya Pradesh,Electronics,Laptop,59187,-7238,3,Credit Card
+OD-1451,09-10-25,Priya Nair,Amritsar,Punjab,Clothing,T-Shirt,8872,2579,4,Net Banking
+OD-1452,15-02-25,Kavya Das,Chandigarh,Punjab,Clothing,Sari,819,58,1,UPI
+OD-1453,13-10-25,Harpreet Sharma,Delhi,Delhi,Furniture,Wardrobe,55971,8915,3,Net Banking
+OD-1454,24-06-25,Ananya Sharma,Ahmedabad,Gujarat,Electronics,Headphones,178272,8880,4,Net Banking
+OD-1455,28-02-25,Vihaan Dhillon,Ahmedabad,Gujarat,Clothing,Jeans,8982,3417,3,Debit Card
+OD-1456,08-10-25,Gurpreet Reddy,Bengaluru,Karnataka,Clothing,Shirt,3896,1176,4,Net Banking
+OD-1457,24-02-25,Ishaan Gupta,Kolkata,West Bengal,Clothing,T-Shirt,5128,519,4,Credit Card
+OD-1458,23-06-25,Vihaan Dhillon,Bathinda,Punjab,Clothing,Dress,2244,227,1,COD
+OD-1459,16-09-25,Arjun Das,Mumbai,Maharashtra,Furniture,Bookshelf,20128,7335,1,COD
+OD-1460,05-09-25,Gurpreet Dhillon,Chennai,Tamil Nadu,Furniture,Wardrobe,12412,-1154,2,COD
+OD-1461,07-11-25,Diya Joshi,Amritsar,Punjab,Electronics,Power Bank,38860,2674,2,Debit Card
+OD-1462,31-05-25,Sia Dhillon,Hyderabad,Telangana,Clothing,Sari,7926,2563,3,COD
+OD-1463,20-11-25,Reyansh Singh,Kolkata,West Bengal,Furniture,Bookshelf,73494,2933,3,Credit Card
+OD-1464,30-12-25,Priya Kumar,Patna,Bihar,Furniture,Bookshelf,17343,4655,3,COD
+OD-1465,03-09-25,Rahul Gupta,Bathinda,Punjab,Furniture,Bookshelf,47520,13997,3,COD
+OD-1466,24-02-25,Aarav Nair,Hyderabad,Telangana,Clothing,Dress,1217,-3,1,Credit Card
+OD-1467,27-05-25,Neha Patel,Hyderabad,Telangana,Clothing,Dress,3702,979,3,UPI
+OD-1468,03-07-25,Sia Verma,Ahmedabad,Gujarat,Furniture,Bookshelf,39140,5127,4,Debit Card
+OD-1469,21-12-25,Neha Sharma,Amritsar,Punjab,Electronics,Smartwatch,113052,-13612,3,Debit Card
+OD-1470,14-04-25,Amit Dhillon,Kochi,Kerala,Clothing,Dress,8427,1269,3,COD
+OD-1471,11-04-25,Reyansh Patel,Kochi,Kerala,Clothing,Dress,1164,441,1,COD
+OD-1472,03-03-25,Aadhya Sharma,Bathinda,Punjab,Electronics,Power Bank,30072,-1849,3,Debit Card
+OD-1473,03-01-25,Diya Das,Hyderabad,Telangana,Clothing,Shirt,8529,-1040,3,COD
+OD-1474,05-12-25,Shaurya Das,Ludhiana,Punjab,Clothing,Dress,7653,-222,3,Credit Card
+OD-1475,24-09-25,Aditya Dhillon,Patna,Bihar,Clothing,Sari,3100,130,4,Credit Card
+OD-1476,06-12-25,Diya Reddy,Ludhiana,Punjab,Electronics,Laptop,153148,46408,4,UPI
+OD-1477,28-02-25,Neha Reddy,Kochi,Kerala,Clothing,Dress,1124,253,2,Debit Card
+OD-1478,15-07-25,Vihaan Nair,Jaipur,Rajasthan,Furniture,Bookshelf,8427,2959,3,Debit Card
+OD-1479,21-09-25,Gurpreet Das,Indore,Madhya Pradesh,Clothing,Jeans,3422,453,2,UPI
+OD-1480,27-03-25,Harpreet Joshi,Mumbai,Maharashtra,Furniture,Chair,47930,9405,2,Credit Card
+OD-1481,17-12-25,Peehu Verma,Kolkata,West Bengal,Furniture,Bookshelf,92744,27750,4,UPI
+OD-1482,18-12-25,Arjun Sharma,Kochi,Kerala,Furniture,Bed,4867,-533,1,Credit Card
+OD-1483,09-05-25,Harpreet Verma,Ahmedabad,Gujarat,Electronics,Smartwatch,124256,24431,4,Net Banking
+OD-1484,11-06-25,Aarav Nair,Bengaluru,Karnataka,Furniture,Chair,21189,-2647,1,UPI
+OD-1485,03-07-25,Gurpreet Verma,Lucknow,Uttar Pradesh,Furniture,Bed,11224,3040,1,Net Banking
+OD-1486,15-07-25,Aadhya Mehta,Mumbai,Maharashtra,Electronics,Laptop,20874,5442,2,COD
+OD-1487,01-06-25,Priya Kumar,Lucknow,Uttar Pradesh,Furniture,Bookshelf,7095,1095,3,COD
+OD-1488,14-03-25,Vihaan Sharma,Mumbai,Maharashtra,Furniture,Wardrobe,78404,11849,4,UPI
+OD-1489,06-06-25,Reyansh Gill,Ludhiana,Punjab,Clothing,Sari,2116,-103,2,COD
+OD-1490,10-05-25,Reyansh Verma,Chennai,Tamil Nadu,Furniture,Wardrobe,19984,2072,1,COD
+OD-1491,07-02-25,Shaurya Mehta,Delhi,Delhi,Electronics,Mobile,79098,9329,2,Debit Card
+OD-1492,02-07-25,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Jeans,1191,29,1,Net Banking
+OD-1493,18-06-25,Amit Mehta,Lucknow,Uttar Pradesh,Furniture,Wardrobe,41064,6643,2,Debit Card
+OD-1494,08-08-25,Sai Sharma,Chandigarh,Punjab,Clothing,Shirt,6128,1912,4,Credit Card
+OD-1495,14-12-25,Diya Das,Kochi,Kerala,Electronics,Headphones,100242,15379,3,Credit Card
+OD-1496,27-11-25,Amit Verma,Jaipur,Rajasthan,Clothing,Kurtis,2954,748,2,UPI
+OD-1497,08-02-25,Aarav Joshi,Mumbai,Maharashtra,Furniture,Wardrobe,85336,-2814,4,UPI
+OD-1498,10-10-25,Ishaan Joshi,Indore,Madhya Pradesh,Furniture,Table,44583,-1211,3,COD
+OD-1499,29-05-25,Arjun Das,Patna,Bihar,Furniture,Chair,55692,7027,4,Credit Card
+OD-1500,11-11-25,Neha Kumar,Patna,Bihar,Clothing,Sari,2264,365,2,COD
+OD-1501,04-12-25,Arjun Gill,Indore,Madhya Pradesh,Electronics,Mobile,66916,-1508,2,Debit Card
+OD-1502,09-07-25,Krishna Sharma,Kolkata,West Bengal,Furniture,Bed,69560,24683,4,UPI
+OD-1503,21-01-25,Priya Reddy,Bengaluru,Karnataka,Furniture,Wardrobe,31884,5364,3,COD
+OD-1504,31-03-25,Aadhya Mehta,Amritsar,Punjab,Electronics,Power Bank,35360,-411,1,Credit Card
+OD-1505,22-09-25,Aadhya Reddy,Ludhiana,Punjab,Electronics,Smartwatch,34388,11524,1,Net Banking
+OD-1506,26-03-25,Krishna Verma,Patna,Bihar,Furniture,Bed,13846,-653,2,Debit Card
+OD-1507,05-11-25,Vihaan Mehta,Ahmedabad,Gujarat,Electronics,Headphones,33056,7317,1,Net Banking
+OD-1508,18-04-25,Rahul Kumar,Bathinda,Punjab,Clothing,Shirt,922,152,1,Credit Card
+OD-1509,10-03-25,Priya Joshi,Pune,Maharashtra,Furniture,Table,7450,-59,1,Credit Card
+OD-1510,22-09-25,Aadhya Gupta,Mumbai,Maharashtra,Furniture,Bookshelf,14427,-445,3,COD
+OD-1511,30-08-25,Kavya Kumar,Ahmedabad,Gujarat,Electronics,Power Bank,79368,23909,2,Credit Card
+OD-1512,16-11-25,Neha Joshi,Jaipur,Rajasthan,Clothing,Dress,6768,1205,3,UPI
+OD-1513,28-04-25,Aadhya Nair,Hyderabad,Telangana,Clothing,T-Shirt,5080,1639,2,COD
+OD-1514,17-12-25,Peehu Kumar,Bengaluru,Karnataka,Clothing,Sari,2575,326,1,UPI
+OD-1515,17-02-25,Kavya Mehta,Hyderabad,Telangana,Furniture,Wardrobe,24235,5018,1,COD
+OD-1516,04-08-25,Ananya Sharma,Patna,Bihar,Electronics,Laptop,105936,4532,4,COD
+OD-1517,20-02-25,Peehu Kumar,Jaipur,Rajasthan,Electronics,Laptop,20064,3592,1,COD
+OD-1518,29-07-25,Ishaan Singh,Mumbai,Maharashtra,Furniture,Bookshelf,20939,2876,1,COD
+OD-1519,04-01-25,Aadhya Mehta,Kolkata,West Bengal,Furniture,Bed,55480,-5069,4,Net Banking
+OD-1520,30-11-25,Rahul Patel,Jaipur,Rajasthan,Furniture,Sofa,66150,103,3,Net Banking
+OD-1521,15-04-25,Peehu Joshi,Indore,Madhya Pradesh,Clothing,Jeans,5752,2264,4,COD
+OD-1522,26-06-25,Aadhya Gill,Hyderabad,Telangana,Furniture,Chair,33268,9338,2,Credit Card
+OD-1523,21-02-25,Reyansh Joshi,Amritsar,Punjab,Electronics,Power Bank,12034,770,1,UPI
+OD-1524,16-02-25,Arjun Das,Bathinda,Punjab,Clothing,T-Shirt,3921,211,3,COD
+OD-1525,20-01-25,Aadhya Nair,Patna,Bihar,Electronics,Speaker,12986,2625,1,Net Banking
+OD-1526,06-01-25,Reyansh Mehta,Patna,Bihar,Electronics,Laptop,40789,5335,1,Credit Card
+OD-1527,11-11-25,Sai Mehta,Pune,Maharashtra,Electronics,Laptop,11818,-1208,1,Debit Card
+OD-1528,24-07-25,Ananya Mehta,Amritsar,Punjab,Electronics,Power Bank,70860,-10030,2,UPI
+OD-1529,16-02-25,Harpreet Patel,Ludhiana,Punjab,Electronics,Headphones,82476,31314,2,Net Banking
+OD-1530,26-07-25,Rahul Sharma,Jaipur,Rajasthan,Clothing,Sari,2687,-296,1,Debit Card
+OD-1531,24-06-25,Vihaan Dhillon,Patna,Bihar,Electronics,Power Bank,91551,34911,3,COD
+OD-1532,05-09-25,Krishna Dhillon,Chandigarh,Punjab,Electronics,Speaker,159832,51803,4,Net Banking
+OD-1533,01-03-25,Ishaan Verma,Amritsar,Punjab,Furniture,Table,24690,1897,2,Debit Card
+OD-1534,22-09-25,Harpreet Sharma,Jaipur,Rajasthan,Clothing,Jeans,2033,448,1,Debit Card
+OD-1535,08-02-25,Harpreet Kumar,Indore,Madhya Pradesh,Electronics,Headphones,78196,-157,2,Credit Card
+OD-1536,13-09-25,Reyansh Singh,Ahmedabad,Gujarat,Electronics,Laptop,29576,9145,2,COD
+OD-1537,02-07-25,Arjun Dhillon,Bengaluru,Karnataka,Clothing,T-Shirt,11652,-1705,4,COD
+OD-1538,22-01-25,Kavya Reddy,Chandigarh,Punjab,Electronics,Power Bank,100995,-4991,3,COD
+OD-1539,24-05-25,Aadhya Singh,Hyderabad,Telangana,Clothing,Kurtis,9432,3459,4,UPI
+OD-1540,15-09-25,Ananya Nair,Chennai,Tamil Nadu,Electronics,Mobile,88744,20328,4,UPI
+OD-1541,12-12-25,Reyansh Nair,Bengaluru,Karnataka,Electronics,Headphones,41295,6264,3,Credit Card
+OD-1542,18-05-25,Kavya Gupta,Chandigarh,Punjab,Electronics,Laptop,117132,-4006,4,Debit Card
+OD-1543,06-07-25,Aadhya Patel,Kochi,Kerala,Clothing,Kurtis,5514,1253,2,UPI
+OD-1544,19-05-25,Krishna Joshi,Bathinda,Punjab,Electronics,Laptop,22600,2489,2,UPI
+OD-1545,01-04-25,Peehu Das,Hyderabad,Telangana,Furniture,Wardrobe,53835,808,3,COD
+OD-1546,18-10-25,Vivaan Nair,Bengaluru,Karnataka,Furniture,Table,9060,2696,1,Net Banking
+OD-1547,19-11-25,Vihaan Das,Chandigarh,Punjab,Electronics,Headphones,114669,17959,3,Debit Card
+OD-1548,26-06-25,Aarav Nair,Bengaluru,Karnataka,Electronics,Speaker,78608,13107,2,COD
+OD-1549,31-03-25,Shaurya Reddy,Chandigarh,Punjab,Furniture,Wardrobe,66580,22590,4,Net Banking
+OD-1550,11-11-25,Shaurya Das,Hyderabad,Telangana,Clothing,Dress,6378,1257,3,COD
+OD-1551,27-07-25,Aditya Verma,Chennai,Tamil Nadu,Electronics,Laptop,66798,13971,3,Debit Card
+OD-1552,06-11-25,Priya Nair,Jaipur,Rajasthan,Electronics,Headphones,114524,-6639,4,UPI
+OD-1553,06-03-25,Krishna Mehta,Jaipur,Rajasthan,Furniture,Bookshelf,8900,-517,1,UPI
+OD-1554,18-02-25,Aditya Das,Pune,Maharashtra,Clothing,Sari,824,-4,1,Credit Card
+OD-1555,13-02-25,Priya Nair,Lucknow,Uttar Pradesh,Clothing,Shirt,6642,1292,3,Credit Card
+OD-1556,27-09-25,Sai Sharma,Pune,Maharashtra,Furniture,Bed,52806,5647,3,COD
+OD-1557,20-05-25,Harpreet Das,Hyderabad,Telangana,Furniture,Wardrobe,42720,7632,2,COD
+OD-1558,11-08-25,Gurpreet Mehta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,14738,1370,2,Debit Card
+OD-1559,31-07-25,Ishaan Kumar,Lucknow,Uttar Pradesh,Clothing,T-Shirt,3614,27,2,COD
+OD-1560,05-01-25,Kavya Dhillon,Indore,Madhya Pradesh,Electronics,Mobile,82784,14764,4,UPI
+OD-1561,08-10-25,Ananya Singh,Bathinda,Punjab,Furniture,Sofa,40752,-2453,4,Net Banking
+OD-1562,13-07-25,Krishna Patel,Delhi,Delhi,Electronics,Speaker,70712,19127,2,COD
+OD-1563,22-12-25,Neha Patel,Lucknow,Uttar Pradesh,Furniture,Bookshelf,46590,-2171,3,UPI
+OD-1564,04-04-25,Arjun Patel,Bengaluru,Karnataka,Furniture,Sofa,43668,10273,4,Net Banking
+OD-1565,07-04-25,Diya Sharma,Hyderabad,Telangana,Clothing,Kurtis,1160,446,1,Debit Card
+OD-1566,18-05-25,Arjun Gill,Kochi,Kerala,Furniture,Chair,9910,-665,2,Net Banking
+OD-1567,22-04-25,Diya Nair,Lucknow,Uttar Pradesh,Electronics,Headphones,14316,452,4,Credit Card
+OD-1568,29-01-25,Ishaan Dhillon,Amritsar,Punjab,Clothing,Kurtis,4568,-202,4,Debit Card
+OD-1569,15-07-25,Aarav Verma,Ahmedabad,Gujarat,Electronics,Smartwatch,7392,-299,2,UPI
+OD-1570,24-09-25,Neha Singh,Indore,Madhya Pradesh,Electronics,Speaker,68016,-4268,3,UPI
+OD-1571,09-10-25,Gurpreet Verma,Jaipur,Rajasthan,Electronics,Speaker,43569,2101,3,UPI
+OD-1572,08-12-25,Reyansh Verma,Ahmedabad,Gujarat,Furniture,Sofa,7479,-433,3,Debit Card
+OD-1573,27-10-25,Vihaan Nair,Ahmedabad,Gujarat,Clothing,T-Shirt,11364,-735,4,UPI
+OD-1574,08-05-25,Sai Das,Delhi,Delhi,Furniture,Wardrobe,67452,-7889,3,Debit Card
+OD-1575,27-11-25,Arjun Gill,Bengaluru,Karnataka,Clothing,Sari,3392,1322,2,Debit Card
+OD-1576,13-08-25,Reyansh Sharma,Amritsar,Punjab,Electronics,Speaker,35858,12344,2,Net Banking
+OD-1577,28-12-25,Sia Joshi,Lucknow,Uttar Pradesh,Furniture,Bookshelf,32872,5314,4,COD
+OD-1578,28-06-25,Diya Gill,Kochi,Kerala,Electronics,Power Bank,12026,1709,2,Net Banking
+OD-1579,01-06-25,Ishaan Joshi,Ludhiana,Punjab,Electronics,Mobile,54636,18336,4,COD
+OD-1580,06-07-25,Amit Singh,Chandigarh,Punjab,Furniture,Chair,32884,4545,4,Net Banking
+OD-1581,10-10-25,Arjun Gupta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,26217,-2544,3,UPI
+OD-1582,23-01-25,Arjun Kumar,Pune,Maharashtra,Clothing,T-Shirt,4732,-452,4,COD
+OD-1583,25-11-25,Aadhya Mehta,Indore,Madhya Pradesh,Furniture,Wardrobe,10824,557,3,COD
+OD-1584,06-02-25,Aarav Singh,Indore,Madhya Pradesh,Clothing,Sari,1877,294,1,Net Banking
+OD-1585,08-07-25,Vivaan Gupta,Jaipur,Rajasthan,Furniture,Chair,11958,-1281,1,Credit Card
+OD-1586,23-09-25,Vihaan Verma,Ahmedabad,Gujarat,Furniture,Sofa,16656,2321,2,Credit Card
+OD-1587,19-10-25,Priya Kumar,Bathinda,Punjab,Furniture,Chair,72303,7396,3,Net Banking
+OD-1588,23-02-25,Sai Dhillon,Chennai,Tamil Nadu,Furniture,Sofa,70638,-4450,3,COD
+OD-1589,15-08-25,Ananya Reddy,Chandigarh,Punjab,Electronics,Smartwatch,90788,16761,4,COD
+OD-1590,07-10-25,Reyansh Nair,Jaipur,Rajasthan,Electronics,Smartwatch,110092,-16501,4,UPI
+OD-1591,26-05-25,Amit Sharma,Patna,Bihar,Clothing,Jeans,1629,637,1,Credit Card
+OD-1592,11-06-25,Aarav Dhillon,Jaipur,Rajasthan,Furniture,Wardrobe,10178,-1315,2,Debit Card
+OD-1593,21-03-25,Arjun Patel,Ludhiana,Punjab,Furniture,Table,20792,6156,2,UPI
+OD-1594,20-10-25,Aadhya Gupta,Kolkata,West Bengal,Furniture,Chair,53433,-2933,3,COD
+OD-1595,18-02-25,Amit Mehta,Lucknow,Uttar Pradesh,Clothing,Dress,2880,803,4,Debit Card
+OD-1596,28-06-25,Peehu Nair,Bengaluru,Karnataka,Clothing,Dress,2995,831,1,Net Banking
+OD-1597,28-01-25,Shaurya Joshi,Pune,Maharashtra,Electronics,Power Bank,45838,5790,2,Credit Card
+OD-1598,20-03-25,Vivaan Mehta,Amritsar,Punjab,Electronics,Power Bank,16054,1405,1,Net Banking
+OD-1599,17-03-25,Arjun Reddy,Delhi,Delhi,Electronics,Power Bank,37423,2602,1,UPI
+OD-1600,24-07-25,Gurpreet Nair,Hyderabad,Telangana,Clothing,Sari,4794,323,2,COD
+OD-1601,11-04-25,Harpreet Gupta,Patna,Bihar,Clothing,Shirt,1489,412,1,Debit Card
+OD-1602,17-12-25,Rahul Verma,Bengaluru,Karnataka,Furniture,Sofa,55876,2322,4,Debit Card
+OD-1603,26-06-25,Amit Mehta,Mumbai,Maharashtra,Electronics,Laptop,125652,37930,3,Net Banking
+OD-1604,16-11-25,Arjun Das,Pune,Maharashtra,Clothing,Shirt,3111,829,3,UPI
+OD-1605,27-02-25,Vivaan Singh,Hyderabad,Telangana,Electronics,Mobile,26376,469,3,Net Banking
+OD-1606,12-01-25,Diya Singh,Kolkata,West Bengal,Clothing,Kurtis,7938,918,3,Credit Card
+OD-1607,22-12-25,Neha Sharma,Amritsar,Punjab,Furniture,Bookshelf,10370,-584,1,Debit Card
+OD-1608,13-04-25,Amit Patel,Pune,Maharashtra,Electronics,Speaker,5864,373,1,Debit Card
+OD-1609,06-12-25,Neha Reddy,Bengaluru,Karnataka,Clothing,Jeans,5380,2092,4,COD
+OD-1610,30-12-25,Vihaan Reddy,Indore,Madhya Pradesh,Furniture,Wardrobe,8108,-329,1,Net Banking
+OD-1611,15-10-25,Aarav Sharma,Ahmedabad,Gujarat,Furniture,Bed,54162,3594,3,Credit Card
+OD-1612,10-01-25,Ananya Mehta,Ludhiana,Punjab,Electronics,Speaker,50937,20262,3,COD
+OD-1613,22-05-25,Vivaan Mehta,Jaipur,Rajasthan,Electronics,Mobile,48849,-3251,3,Net Banking
+OD-1614,03-12-25,Arjun Verma,Amritsar,Punjab,Furniture,Bookshelf,31350,-558,2,Credit Card
+OD-1615,07-08-25,Shaurya Gupta,Chandigarh,Punjab,Electronics,Power Bank,30100,6286,2,COD
+OD-1616,05-10-25,Neha Dhillon,Kolkata,West Bengal,Clothing,Jeans,4320,1717,2,Credit Card
+OD-1617,02-12-25,Rahul Kumar,Chandigarh,Punjab,Clothing,Kurtis,1153,28,1,Credit Card
+OD-1618,16-01-25,Diya Nair,Bathinda,Punjab,Electronics,Smartwatch,34374,9573,3,UPI
+OD-1619,09-03-25,Sai Sharma,Jaipur,Rajasthan,Furniture,Wardrobe,43082,-960,2,UPI
+OD-1620,03-07-25,Aditya Gill,Indore,Madhya Pradesh,Clothing,Kurtis,7720,-376,4,Net Banking
+OD-1621,09-09-25,Kavya Kumar,Chennai,Tamil Nadu,Clothing,Shirt,2072,560,1,UPI
+OD-1622,19-05-25,Peehu Singh,Kolkata,West Bengal,Clothing,T-Shirt,4396,1437,2,Net Banking
+OD-1623,19-12-25,Diya Das,Ahmedabad,Gujarat,Electronics,Smartwatch,41341,10518,1,Net Banking
+OD-1624,10-06-25,Aadhya Gupta,Patna,Bihar,Furniture,Bookshelf,19060,-1713,1,Net Banking
+OD-1625,22-01-25,Krishna Joshi,Amritsar,Punjab,Furniture,Chair,75648,20488,4,UPI
+OD-1626,08-04-25,Shaurya Das,Amritsar,Punjab,Electronics,Headphones,49640,4088,4,COD
+OD-1627,28-01-25,Gurpreet Kumar,Kochi,Kerala,Furniture,Sofa,18405,-1615,1,COD
+OD-1628,23-12-25,Harpreet Kumar,Amritsar,Punjab,Electronics,Headphones,12528,-646,4,COD
+OD-1629,31-12-25,Reyansh Das,Delhi,Delhi,Electronics,Headphones,19192,-1916,2,Net Banking
+OD-1630,21-11-25,Ananya Verma,Patna,Bihar,Furniture,Sofa,28816,4399,2,UPI
+OD-1631,29-03-25,Diya Gupta,Hyderabad,Telangana,Clothing,Shirt,1218,98,2,Debit Card
+OD-1632,17-08-25,Shaurya Mehta,Chennai,Tamil Nadu,Clothing,Shirt,826,158,2,Debit Card
+OD-1633,07-01-25,Sia Das,Indore,Madhya Pradesh,Furniture,Chair,39176,-1203,4,Net Banking
+OD-1634,21-08-25,Peehu Das,Delhi,Delhi,Furniture,Wardrobe,10018,3357,1,Debit Card
+OD-1635,14-11-25,Priya Joshi,Kolkata,West Bengal,Clothing,Shirt,1248,261,2,UPI
+OD-1636,16-03-25,Vivaan Mehta,Lucknow,Uttar Pradesh,Electronics,Mobile,8636,685,1,Credit Card
+OD-1637,24-03-25,Neha Patel,Chennai,Tamil Nadu,Electronics,Speaker,11544,-1140,3,Debit Card
+OD-1638,15-06-25,Ananya Nair,Delhi,Delhi,Electronics,Power Bank,20691,2254,1,UPI
+OD-1639,22-12-25,Ishaan Reddy,Patna,Bihar,Electronics,Power Bank,30400,5673,2,UPI
+OD-1640,20-10-25,Priya Joshi,Delhi,Delhi,Electronics,Speaker,88461,16353,3,Debit Card
+OD-1641,13-05-25,Gurpreet Gupta,Ludhiana,Punjab,Clothing,Kurtis,10108,2537,4,Net Banking
+OD-1642,10-09-25,Sai Gupta,Ahmedabad,Gujarat,Furniture,Bed,4102,-348,2,Net Banking
+OD-1643,17-11-25,Vihaan Gill,Kolkata,West Bengal,Furniture,Sofa,13960,468,4,COD
+OD-1644,23-11-25,Reyansh Sharma,Kolkata,West Bengal,Furniture,Bed,12666,244,3,COD
+OD-1645,09-10-25,Diya Dhillon,Mumbai,Maharashtra,Clothing,Dress,5391,365,3,COD
+OD-1646,12-11-25,Aarav Kumar,Kolkata,West Bengal,Electronics,Headphones,130384,37614,4,Credit Card
+OD-1647,04-09-25,Arjun Mehta,Kochi,Kerala,Furniture,Bed,62256,22429,4,UPI
+OD-1648,24-09-25,Shaurya Gupta,Chandigarh,Punjab,Furniture,Wardrobe,8824,1478,1,Debit Card
+OD-1649,01-07-25,Aditya Kumar,Jaipur,Rajasthan,Clothing,Jeans,11860,1706,4,Credit Card
+OD-1650,20-10-25,Amit Nair,Chennai,Tamil Nadu,Furniture,Chair,36915,8874,3,Debit Card
+OD-1651,31-07-25,Aditya Das,Ahmedabad,Gujarat,Electronics,Smartwatch,46992,6522,3,Credit Card
+OD-1652,27-02-25,Ananya Dhillon,Pune,Maharashtra,Clothing,T-Shirt,9884,-1347,4,Net Banking
+OD-1653,14-09-25,Arjun Singh,Chandigarh,Punjab,Electronics,Speaker,68856,-4901,3,UPI
+OD-1654,22-09-25,Neha Kumar,Kolkata,West Bengal,Furniture,Chair,58800,14260,4,COD
+OD-1655,01-03-25,Aarav Patel,Pune,Maharashtra,Furniture,Wardrobe,12921,1379,1,UPI
+OD-1656,22-02-25,Gurpreet Dhillon,Lucknow,Uttar Pradesh,Clothing,Kurtis,3774,99,3,Credit Card
+OD-1657,27-05-25,Ishaan Joshi,Chandigarh,Punjab,Electronics,Speaker,19368,-1314,1,Debit Card
+OD-1658,28-02-25,Aarav Gupta,Patna,Bihar,Clothing,Shirt,7947,199,3,Credit Card
+OD-1659,27-12-25,Shaurya Gupta,Ahmedabad,Gujarat,Clothing,T-Shirt,8730,2974,3,COD
+OD-1660,16-08-25,Vivaan Kumar,Mumbai,Maharashtra,Electronics,Speaker,8442,514,1,UPI
+OD-1661,07-08-25,Aadhya Kumar,Kochi,Kerala,Furniture,Bed,38667,11584,3,COD
+OD-1662,10-02-25,Sia Gupta,Hyderabad,Telangana,Clothing,Dress,3188,320,4,Net Banking
+OD-1663,29-08-25,Krishna Singh,Hyderabad,Telangana,Furniture,Bed,44541,-2189,3,Debit Card
+OD-1664,16-06-25,Sia Das,Mumbai,Maharashtra,Clothing,Sari,1838,208,1,Credit Card
+OD-1665,25-05-25,Ananya Gupta,Hyderabad,Telangana,Furniture,Chair,22020,643,4,UPI
+OD-1666,04-06-25,Harpreet Das,Amritsar,Punjab,Furniture,Sofa,44688,-713,2,Credit Card
+OD-1667,04-09-25,Aadhya Verma,Chandigarh,Punjab,Clothing,Dress,8728,1413,4,Debit Card
+OD-1668,06-10-25,Krishna Kumar,Delhi,Delhi,Furniture,Bookshelf,22984,4038,4,Net Banking
+OD-1669,16-06-25,Harpreet Verma,Kochi,Kerala,Clothing,Jeans,2736,489,4,COD
+OD-1670,14-07-25,Diya Das,Pune,Maharashtra,Clothing,Shirt,5554,1926,2,UPI
+OD-1671,17-03-25,Neha Kumar,Kochi,Kerala,Furniture,Bed,88684,14886,4,Credit Card
+OD-1672,16-04-25,Neha Reddy,Lucknow,Uttar Pradesh,Furniture,Bookshelf,48735,11929,3,Debit Card
+OD-1673,15-02-25,Rahul Sharma,Patna,Bihar,Electronics,Laptop,16770,890,3,COD
+OD-1674,28-01-25,Aarav Gill,Ludhiana,Punjab,Clothing,Jeans,1362,119,1,COD
+OD-1675,21-07-25,Priya Reddy,Amritsar,Punjab,Electronics,Smartwatch,148896,-5037,4,Credit Card
+OD-1676,01-09-25,Arjun Singh,Amritsar,Punjab,Electronics,Smartwatch,40810,16266,2,Credit Card
+OD-1677,10-03-25,Aarav Verma,Mumbai,Maharashtra,Clothing,Dress,8748,3378,4,Credit Card
+OD-1678,13-02-25,Arjun Mehta,Bathinda,Punjab,Electronics,Speaker,169380,-8657,4,COD
+OD-1679,06-08-25,Harpreet Das,Amritsar,Punjab,Electronics,Laptop,58674,10708,2,COD
+OD-1680,13-09-25,Krishna Gill,Patna,Bihar,Electronics,Smartwatch,11076,4297,3,COD
+OD-1681,05-09-25,Ananya Verma,Indore,Madhya Pradesh,Furniture,Chair,38498,15051,2,Debit Card
+OD-1682,27-08-25,Gurpreet Verma,Patna,Bihar,Furniture,Chair,34962,6882,2,UPI
+OD-1683,17-12-25,Priya Joshi,Lucknow,Uttar Pradesh,Furniture,Chair,58593,16299,3,Net Banking
+OD-1684,21-08-25,Gurpreet Das,Chandigarh,Punjab,Electronics,Headphones,61359,-3550,3,COD
+OD-1685,05-06-25,Rahul Patel,Pune,Maharashtra,Furniture,Sofa,41542,-5051,2,Debit Card
+OD-1686,16-11-25,Aarav Patel,Indore,Madhya Pradesh,Clothing,Shirt,1537,-17,1,COD
+OD-1687,24-05-25,Ishaan Patel,Mumbai,Maharashtra,Furniture,Chair,42782,10970,2,Net Banking
+OD-1688,09-07-25,Sai Patel,Ahmedabad,Gujarat,Electronics,Laptop,23968,9377,1,Credit Card
+OD-1689,01-11-25,Arjun Das,Bathinda,Punjab,Electronics,Laptop,173136,-10040,4,COD
+OD-1690,26-06-25,Vivaan Mehta,Jaipur,Rajasthan,Clothing,T-Shirt,4598,318,2,Debit Card
+OD-1691,01-09-25,Harpreet Singh,Amritsar,Punjab,Furniture,Bookshelf,70204,-390,4,COD
+OD-1692,11-08-25,Aarav Patel,Kochi,Kerala,Electronics,Speaker,108750,24532,3,UPI
+OD-1693,19-02-25,Harpreet Mehta,Ludhiana,Punjab,Electronics,Power Bank,70356,-92,3,UPI
+OD-1694,11-05-25,Priya Gupta,Amritsar,Punjab,Electronics,Speaker,80164,21946,2,COD
+OD-1695,22-06-25,Neha Gill,Chennai,Tamil Nadu,Electronics,Power Bank,2055,631,1,UPI
+OD-1696,30-07-25,Vihaan Joshi,Bengaluru,Karnataka,Furniture,Sofa,27567,6861,3,Debit Card
+OD-1697,09-04-25,Vivaan Sharma,Delhi,Delhi,Clothing,Kurtis,5708,1146,2,UPI
+OD-1698,14-02-25,Amit Kumar,Amritsar,Punjab,Furniture,Bookshelf,11264,2620,2,Debit Card
+OD-1699,31-05-25,Sia Mehta,Delhi,Delhi,Furniture,Sofa,47973,11068,3,Debit Card
+OD-1700,12-05-25,Sai Dhillon,Delhi,Delhi,Electronics,Mobile,107864,3555,4,UPI
+OD-1701,13-05-25,Ishaan Kumar,Kochi,Kerala,Clothing,Sari,5796,382,2,Net Banking
+OD-1702,25-02-25,Arjun Joshi,Bathinda,Punjab,Clothing,Kurtis,2207,537,1,UPI
+OD-1703,18-01-25,Aditya Verma,Jaipur,Rajasthan,Electronics,Mobile,45020,9412,4,UPI
+OD-1704,20-01-25,Neha Nair,Jaipur,Rajasthan,Clothing,Dress,6003,996,3,COD
+OD-1705,29-12-25,Kavya Das,Bathinda,Punjab,Electronics,Speaker,36897,-951,1,Net Banking
+OD-1706,19-12-25,Kavya Verma,Ludhiana,Punjab,Electronics,Speaker,83262,-9961,3,UPI
+OD-1707,07-07-25,Harpreet Reddy,Delhi,Delhi,Electronics,Headphones,26148,4051,2,Net Banking
+OD-1708,05-12-25,Reyansh Patel,Amritsar,Punjab,Clothing,Dress,7173,-741,3,Net Banking
+OD-1709,08-04-25,Arjun Sharma,Kolkata,West Bengal,Clothing,Dress,4804,306,2,COD
+OD-1710,26-11-25,Shaurya Das,Kochi,Kerala,Clothing,T-Shirt,1884,67,3,UPI
+OD-1711,27-07-25,Vihaan Singh,Patna,Bihar,Electronics,Speaker,78936,-1725,2,UPI
+OD-1712,19-01-25,Arjun Das,Mumbai,Maharashtra,Electronics,Power Bank,17404,4102,1,Credit Card
+OD-1713,08-01-25,Sai Mehta,Pune,Maharashtra,Electronics,Mobile,166228,-9328,4,COD
+OD-1714,02-02-25,Vihaan Verma,Indore,Madhya Pradesh,Furniture,Wardrobe,8134,2378,2,Net Banking
+OD-1715,22-06-25,Neha Nair,Chandigarh,Punjab,Clothing,Dress,3432,1064,2,Credit Card
+OD-1716,24-01-25,Rahul Kumar,Chandigarh,Punjab,Clothing,T-Shirt,2931,781,3,Credit Card
+OD-1717,23-12-25,Ananya Joshi,Chennai,Tamil Nadu,Electronics,Laptop,10240,-972,1,COD
+OD-1718,12-07-25,Sai Sharma,Indore,Madhya Pradesh,Clothing,T-Shirt,1133,407,1,COD
+OD-1719,26-05-25,Peehu Gill,Indore,Madhya Pradesh,Furniture,Table,13376,2700,2,COD
+OD-1720,19-08-25,Peehu Singh,Chennai,Tamil Nadu,Furniture,Bookshelf,21538,-1098,1,Net Banking
+OD-1721,10-11-25,Aditya Mehta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,38050,-776,1,UPI
+OD-1722,29-09-25,Vihaan Gupta,Ludhiana,Punjab,Furniture,Wardrobe,34422,9420,2,Credit Card
+OD-1723,22-05-25,Vivaan Singh,Bengaluru,Karnataka,Clothing,Dress,9744,-516,4,UPI
+OD-1724,28-01-25,Priya Reddy,Lucknow,Uttar Pradesh,Clothing,Sari,5304,1003,3,Net Banking
+OD-1725,23-01-25,Vihaan Gill,Pune,Maharashtra,Furniture,Table,5904,689,2,UPI
+OD-1726,06-02-25,Krishna Gill,Kochi,Kerala,Furniture,Wardrobe,47193,-1920,3,Debit Card
+OD-1727,28-04-25,Vihaan Reddy,Ahmedabad,Gujarat,Clothing,Shirt,4872,275,4,Credit Card
+OD-1728,07-02-25,Kavya Gupta,Indore,Madhya Pradesh,Clothing,Sari,2568,925,2,Net Banking
+OD-1729,02-04-25,Aadhya Reddy,Hyderabad,Telangana,Electronics,Speaker,85840,4053,2,Debit Card
+OD-1730,14-04-25,Diya Kumar,Pune,Maharashtra,Furniture,Wardrobe,11194,-838,1,Net Banking
+OD-1731,23-08-25,Peehu Kumar,Chandigarh,Punjab,Clothing,Jeans,5806,2020,2,COD
+OD-1732,11-10-25,Krishna Verma,Bathinda,Punjab,Furniture,Sofa,42768,4722,2,Net Banking
+OD-1733,23-05-25,Aarav Gill,Bathinda,Punjab,Furniture,Table,25448,2260,2,Credit Card
+OD-1734,30-10-25,Arjun Gupta,Mumbai,Maharashtra,Electronics,Mobile,32344,8196,1,COD
+OD-1735,18-01-25,Peehu Joshi,Amritsar,Punjab,Electronics,Speaker,31151,3813,1,UPI
+OD-1736,13-10-25,Aarav Gill,Bathinda,Punjab,Clothing,Shirt,4830,-89,3,UPI
+OD-1737,09-01-25,Kavya Mehta,Lucknow,Uttar Pradesh,Clothing,Dress,10940,2855,4,UPI
+OD-1738,21-08-25,Sia Dhillon,Hyderabad,Telangana,Furniture,Sofa,28274,5506,2,UPI
+OD-1739,18-11-25,Aditya Nair,Chandigarh,Punjab,Furniture,Chair,47865,12640,3,COD
+OD-1740,05-10-25,Rahul Dhillon,Kolkata,West Bengal,Furniture,Chair,11388,1515,3,Debit Card
+OD-1741,27-01-25,Vihaan Nair,Ludhiana,Punjab,Electronics,Power Bank,25458,1312,1,COD
+OD-1742,27-12-25,Aditya Joshi,Kolkata,West Bengal,Clothing,Jeans,5218,-456,2,Net Banking
+OD-1743,25-10-25,Reyansh Dhillon,Ahmedabad,Gujarat,Electronics,Headphones,103503,23197,3,Debit Card
+OD-1744,28-01-25,Aditya Reddy,Ludhiana,Punjab,Electronics,Smartwatch,32312,7767,1,COD
+OD-1745,30-05-25,Sia Gupta,Ludhiana,Punjab,Furniture,Bookshelf,8171,2782,1,Net Banking
+OD-1746,14-02-25,Aditya Nair,Chennai,Tamil Nadu,Electronics,Mobile,12298,21,1,Credit Card
+OD-1747,12-09-25,Arjun Singh,Patna,Bihar,Furniture,Chair,46947,17993,3,COD
+OD-1748,09-03-25,Kavya Reddy,Bathinda,Punjab,Electronics,Speaker,20604,-948,1,UPI
+OD-1749,29-04-25,Gurpreet Mehta,Chandigarh,Punjab,Electronics,Power Bank,133425,27395,3,Debit Card
+OD-1750,06-09-25,Rahul Mehta,Patna,Bihar,Furniture,Sofa,47856,7752,4,Debit Card
+OD-1751,29-03-25,Ishaan Singh,Indore,Madhya Pradesh,Electronics,Headphones,11221,496,1,Net Banking
+OD-1752,27-03-25,Amit Kumar,Lucknow,Uttar Pradesh,Clothing,Shirt,2118,-40,2,UPI
+OD-1753,12-06-25,Rahul Kumar,Kochi,Kerala,Electronics,Headphones,29890,4763,2,UPI
+OD-1754,07-12-25,Diya Reddy,Hyderabad,Telangana,Electronics,Smartwatch,72944,1156,2,UPI
+OD-1755,27-07-25,Kavya Dhillon,Hyderabad,Telangana,Electronics,Headphones,3562,1366,2,COD
+OD-1756,17-09-25,Diya Mehta,Lucknow,Uttar Pradesh,Electronics,Headphones,77086,19325,2,Net Banking
+OD-1757,23-06-25,Vihaan Gill,Indore,Madhya Pradesh,Clothing,Shirt,1660,-226,1,COD
+OD-1758,23-04-25,Sia Reddy,Delhi,Delhi,Electronics,Mobile,79470,11089,2,Debit Card
+OD-1759,11-04-25,Aarav Verma,Kochi,Kerala,Furniture,Bookshelf,18770,1256,1,Net Banking
+OD-1760,12-06-25,Amit Gupta,Patna,Bihar,Clothing,Dress,6081,-417,3,Net Banking
+OD-1761,09-07-25,Aadhya Reddy,Mumbai,Maharashtra,Electronics,Headphones,65070,25223,3,COD
+OD-1762,14-02-25,Reyansh Gill,Kochi,Kerala,Furniture,Sofa,45828,-2745,4,Net Banking
+OD-1763,01-08-25,Arjun Gupta,Delhi,Delhi,Clothing,Shirt,7029,2766,3,COD
+OD-1764,21-06-25,Aditya Gupta,Amritsar,Punjab,Clothing,T-Shirt,6072,473,4,COD
+OD-1765,25-08-25,Rahul Dhillon,Hyderabad,Telangana,Clothing,Shirt,6336,979,4,UPI
+OD-1766,04-06-25,Rahul Patel,Indore,Madhya Pradesh,Furniture,Bookshelf,37428,-5061,4,UPI
+OD-1767,20-03-25,Ishaan Patel,Indore,Madhya Pradesh,Clothing,Dress,6321,-324,3,Credit Card
+OD-1768,15-01-25,Vihaan Dhillon,Jaipur,Rajasthan,Electronics,Mobile,118740,13568,3,Net Banking
+OD-1769,13-05-25,Priya Mehta,Indore,Madhya Pradesh,Furniture,Chair,56382,14271,3,UPI
+OD-1770,13-05-25,Sai Gupta,Pune,Maharashtra,Clothing,Jeans,3812,177,4,UPI
+OD-1771,20-05-25,Ananya Nair,Ludhiana,Punjab,Clothing,Jeans,7704,1551,3,UPI
+OD-1772,21-09-25,Reyansh Dhillon,Chennai,Tamil Nadu,Clothing,Kurtis,5252,144,2,Debit Card
+OD-1773,17-12-25,Shaurya Patel,Ludhiana,Punjab,Clothing,Kurtis,2961,-423,3,COD
+OD-1774,25-05-25,Ananya Dhillon,Indore,Madhya Pradesh,Electronics,Headphones,16424,-495,2,COD
+OD-1775,24-04-25,Reyansh Dhillon,Patna,Bihar,Furniture,Bookshelf,15675,1618,1,UPI
+OD-1776,01-03-25,Arjun Sharma,Indore,Madhya Pradesh,Electronics,Headphones,31830,9528,3,COD
+OD-1777,25-09-25,Diya Kumar,Lucknow,Uttar Pradesh,Clothing,Dress,1309,-103,1,Credit Card
+OD-1778,19-12-25,Krishna Patel,Hyderabad,Telangana,Clothing,Shirt,2139,491,1,UPI
+OD-1779,09-02-25,Aarav Dhillon,Indore,Madhya Pradesh,Electronics,Mobile,17130,-2260,2,COD
+OD-1780,31-10-25,Vivaan Das,Bengaluru,Karnataka,Electronics,Mobile,21268,4618,1,UPI
+OD-1781,05-03-25,Amit Singh,Kolkata,West Bengal,Clothing,Dress,1554,-155,3,Debit Card
+OD-1782,24-10-25,Ananya Reddy,Chennai,Tamil Nadu,Furniture,Bookshelf,37088,6068,2,UPI
+OD-1783,24-10-25,Aarav Joshi,Kolkata,West Bengal,Furniture,Table,22884,7915,3,COD
+OD-1784,03-01-25,Vihaan Singh,Patna,Bihar,Furniture,Sofa,74628,12997,3,Net Banking
+OD-1785,11-12-25,Vihaan Kumar,Ludhiana,Punjab,Electronics,Smartwatch,70402,-1749,2,UPI
+OD-1786,10-06-25,Vihaan Das,Bengaluru,Karnataka,Furniture,Table,55348,13150,4,COD
+OD-1787,21-01-25,Aditya Reddy,Indore,Madhya Pradesh,Clothing,Sari,6810,1227,3,Debit Card
+OD-1788,18-12-25,Sia Singh,Bathinda,Punjab,Electronics,Smartwatch,12122,4147,2,Net Banking
+OD-1789,14-12-25,Ananya Kumar,Mumbai,Maharashtra,Furniture,Sofa,14988,1362,1,UPI
+OD-1790,03-03-25,Arjun Nair,Amritsar,Punjab,Furniture,Wardrobe,7528,-861,1,Credit Card
+OD-1791,23-06-25,Reyansh Gupta,Amritsar,Punjab,Clothing,Shirt,9772,31,4,COD
+OD-1792,31-10-25,Ishaan Dhillon,Amritsar,Punjab,Electronics,Smartwatch,133016,17462,4,Credit Card
+OD-1793,21-08-25,Vihaan Verma,Jaipur,Rajasthan,Electronics,Smartwatch,85360,31439,2,UPI
+OD-1794,20-02-25,Vivaan Verma,Indore,Madhya Pradesh,Furniture,Chair,29076,5306,2,Debit Card
+OD-1795,20-03-25,Shaurya Gupta,Bengaluru,Karnataka,Clothing,Dress,9228,-359,4,Net Banking
+OD-1796,09-09-25,Gurpreet Patel,Chandigarh,Punjab,Furniture,Wardrobe,3035,1198,1,UPI
+OD-1797,16-07-25,Sia Reddy,Amritsar,Punjab,Electronics,Smartwatch,3653,-192,1,Debit Card
+OD-1798,28-12-25,Sai Das,Bathinda,Punjab,Clothing,Jeans,9580,2588,4,COD
+OD-1799,12-12-25,Kavya Mehta,Indore,Madhya Pradesh,Electronics,Power Bank,69412,-8283,2,Debit Card
+OD-1800,11-09-25,Rahul Nair,Ludhiana,Punjab,Electronics,Headphones,3344,584,1,Credit Card
+OD-1801,07-07-25,Ananya Dhillon,Mumbai,Maharashtra,Furniture,Bed,20756,1774,4,Debit Card
+OD-1802,30-07-25,Ananya Sharma,Ahmedabad,Gujarat,Clothing,Shirt,8478,-875,3,UPI
+OD-1803,06-06-25,Vihaan Reddy,Chennai,Tamil Nadu,Clothing,Kurtis,1656,171,3,Net Banking
+OD-1804,18-10-25,Gurpreet Nair,Jaipur,Rajasthan,Clothing,Dress,11228,-1546,4,Debit Card
+OD-1805,13-07-25,Rahul Nair,Chandigarh,Punjab,Furniture,Chair,21112,4855,4,Credit Card
+OD-1806,22-06-25,Kavya Joshi,Chandigarh,Punjab,Clothing,Kurtis,5661,2169,3,Credit Card
+OD-1807,12-09-25,Priya Dhillon,Delhi,Delhi,Furniture,Table,32064,-3971,3,COD
+OD-1808,25-07-25,Krishna Gupta,Delhi,Delhi,Furniture,Wardrobe,21394,754,1,UPI
+OD-1809,18-10-25,Gurpreet Das,Bathinda,Punjab,Clothing,Jeans,1635,208,1,Debit Card
+OD-1810,10-08-25,Neha Joshi,Chandigarh,Punjab,Clothing,Sari,5712,1106,4,Net Banking
+OD-1811,10-12-25,Harpreet Kumar,Mumbai,Maharashtra,Furniture,Bookshelf,41804,5207,2,Net Banking
+OD-1812,18-05-25,Priya Joshi,Bathinda,Punjab,Furniture,Bookshelf,19113,-757,1,Net Banking
+OD-1813,17-03-25,Krishna Kumar,Lucknow,Uttar Pradesh,Electronics,Smartwatch,17166,3410,3,Net Banking
+OD-1814,17-05-25,Shaurya Mehta,Chennai,Tamil Nadu,Electronics,Speaker,56196,-1058,2,Credit Card
+OD-1815,09-04-25,Aarav Singh,Lucknow,Uttar Pradesh,Electronics,Smartwatch,116628,24002,4,UPI
+OD-1816,14-04-25,Sai Patel,Hyderabad,Telangana,Clothing,Jeans,7962,-423,3,UPI
+OD-1817,06-09-25,Aarav Sharma,Delhi,Delhi,Electronics,Power Bank,16998,5869,3,Net Banking
+OD-1818,06-07-25,Neha Mehta,Delhi,Delhi,Electronics,Speaker,33938,-3001,2,COD
+OD-1819,03-03-25,Gurpreet Mehta,Patna,Bihar,Electronics,Smartwatch,17102,3076,1,Debit Card
+OD-1820,18-06-25,Rahul Gill,Amritsar,Punjab,Furniture,Bookshelf,31712,-954,2,UPI
+OD-1821,31-03-25,Reyansh Patel,Kochi,Kerala,Electronics,Headphones,33636,4823,1,UPI
+OD-1822,12-06-25,Harpreet Nair,Indore,Madhya Pradesh,Furniture,Table,20244,1005,3,Debit Card
+OD-1823,07-06-25,Aarav Mehta,Pune,Maharashtra,Furniture,Bookshelf,24632,8734,1,Credit Card
+OD-1824,10-05-25,Harpreet Nair,Lucknow,Uttar Pradesh,Furniture,Bookshelf,73362,-6079,3,Credit Card
+OD-1825,15-08-25,Aadhya Sharma,Amritsar,Punjab,Electronics,Headphones,16931,229,1,Credit Card
+OD-1826,13-08-25,Priya Reddy,Bathinda,Punjab,Clothing,Jeans,2412,263,1,Net Banking
+OD-1827,20-06-25,Peehu Verma,Chennai,Tamil Nadu,Furniture,Bed,13529,1102,1,COD
+OD-1828,17-06-25,Sia Gill,Mumbai,Maharashtra,Clothing,Dress,5960,559,2,Credit Card
+OD-1829,02-01-25,Aadhya Singh,Lucknow,Uttar Pradesh,Electronics,Power Bank,8763,-553,1,COD
+OD-1830,29-11-25,Arjun Gupta,Bathinda,Punjab,Electronics,Smartwatch,40996,-271,4,COD
+OD-1831,17-06-25,Shaurya Singh,Delhi,Delhi,Electronics,Headphones,54576,18120,2,COD
+OD-1832,25-04-25,Aarav Sharma,Ahmedabad,Gujarat,Clothing,Sari,2942,693,2,Credit Card
+OD-1833,26-01-25,Aadhya Gupta,Bathinda,Punjab,Furniture,Bed,9836,3707,2,Credit Card
+OD-1834,18-10-25,Vihaan Sharma,Patna,Bihar,Electronics,Smartwatch,37064,-983,4,Credit Card
+OD-1835,08-04-25,Ishaan Patel,Indore,Madhya Pradesh,Electronics,Laptop,60160,10831,4,Debit Card
+OD-1836,13-12-25,Reyansh Nair,Chennai,Tamil Nadu,Electronics,Laptop,20518,7937,1,Credit Card
+OD-1837,13-11-25,Sia Singh,Ludhiana,Punjab,Furniture,Bookshelf,19236,-2776,4,Credit Card
+OD-1838,15-06-25,Aadhya Mehta,Kolkata,West Bengal,Furniture,Sofa,86272,-782,4,UPI
+OD-1839,13-10-25,Vivaan Sharma,Chandigarh,Punjab,Clothing,Sari,8646,3169,3,COD
+OD-1840,30-12-25,Vivaan Sharma,Jaipur,Rajasthan,Furniture,Wardrobe,47648,18470,4,Debit Card
+OD-1841,09-03-25,Harpreet Sharma,Chennai,Tamil Nadu,Electronics,Laptop,94912,31590,4,Credit Card
+OD-1842,15-02-25,Diya Gill,Patna,Bihar,Electronics,Laptop,27471,612,3,Credit Card
+OD-1843,13-09-25,Ishaan Gill,Ludhiana,Punjab,Electronics,Headphones,125007,38286,3,Debit Card
+OD-1844,22-09-25,Diya Nair,Chennai,Tamil Nadu,Electronics,Speaker,45652,7104,4,Net Banking
+OD-1845,28-01-25,Reyansh Kumar,Pune,Maharashtra,Clothing,Shirt,2325,-15,1,Net Banking
+OD-1846,12-08-25,Vihaan Das,Pune,Maharashtra,Electronics,Headphones,125996,15263,4,Credit Card
+OD-1847,05-03-25,Ananya Verma,Kolkata,West Bengal,Electronics,Laptop,69680,21072,2,COD
+OD-1848,06-12-25,Rahul Singh,Mumbai,Maharashtra,Furniture,Wardrobe,31290,11146,2,Credit Card
+OD-1849,13-09-25,Neha Verma,Chandigarh,Punjab,Clothing,Jeans,2013,111,1,UPI
+OD-1850,15-06-25,Arjun Sharma,Delhi,Delhi,Electronics,Speaker,125024,24454,4,Debit Card
+OD-1851,01-11-25,Neha Sharma,Chandigarh,Punjab,Clothing,Dress,6916,2566,4,COD
+OD-1852,08-03-25,Reyansh Sharma,Lucknow,Uttar Pradesh,Electronics,Mobile,37358,13954,1,Net Banking
+OD-1853,17-02-25,Aadhya Patel,Chennai,Tamil Nadu,Clothing,Sari,483,153,1,Credit Card
+OD-1854,18-07-25,Aadhya Patel,Hyderabad,Telangana,Clothing,Jeans,8676,2210,4,Debit Card
+OD-1855,17-12-25,Amit Kumar,Ludhiana,Punjab,Furniture,Chair,56394,-2259,3,Net Banking
+OD-1856,18-07-25,Kavya Patel,Bathinda,Punjab,Clothing,Sari,8739,-415,3,Net Banking
+OD-1857,17-02-25,Vivaan Joshi,Chandigarh,Punjab,Electronics,Speaker,87882,19987,2,Credit Card
+OD-1858,11-09-25,Gurpreet Mehta,Patna,Bihar,Clothing,Jeans,8760,-932,4,Net Banking
+OD-1859,03-06-25,Arjun Kumar,Lucknow,Uttar Pradesh,Clothing,Kurtis,6436,1047,4,COD
+OD-1860,09-02-25,Vivaan Joshi,Bengaluru,Karnataka,Furniture,Sofa,20384,2151,4,COD
+OD-1861,10-05-25,Ananya Patel,Delhi,Delhi,Furniture,Chair,23678,2476,1,Credit Card
+OD-1862,21-07-25,Vivaan Verma,Bathinda,Punjab,Furniture,Bed,63723,15819,3,Net Banking
+OD-1863,16-11-25,Ishaan Reddy,Chennai,Tamil Nadu,Clothing,Shirt,2873,-21,1,UPI
+OD-1864,11-08-25,Harpreet Sharma,Mumbai,Maharashtra,Electronics,Mobile,12754,2687,1,Net Banking
+OD-1865,21-12-25,Aadhya Mehta,Indore,Madhya Pradesh,Electronics,Power Bank,82158,24035,3,UPI
+OD-1866,06-03-25,Arjun Sharma,Kolkata,West Bengal,Clothing,T-Shirt,1016,-35,2,Credit Card
+OD-1867,29-11-25,Krishna Nair,Kolkata,West Bengal,Clothing,Jeans,4020,444,4,UPI
+OD-1868,01-03-25,Sai Kumar,Kochi,Kerala,Electronics,Smartwatch,30959,5321,1,Credit Card
+OD-1869,31-05-25,Rahul Nair,Pune,Maharashtra,Electronics,Mobile,42814,13537,1,Net Banking
+OD-1870,01-08-25,Kavya Gill,Lucknow,Uttar Pradesh,Clothing,Sari,9560,1265,4,COD
+OD-1871,14-12-25,Kavya Singh,Pune,Maharashtra,Furniture,Chair,83548,1981,4,UPI
+OD-1872,18-05-25,Priya Nair,Indore,Madhya Pradesh,Clothing,Sari,6705,1566,3,UPI
+OD-1873,24-03-25,Shaurya Gill,Kolkata,West Bengal,Electronics,Headphones,66844,8636,4,COD
+OD-1874,17-12-25,Diya Gupta,Kochi,Kerala,Clothing,Jeans,8424,2596,4,Debit Card
+OD-1875,30-08-25,Sai Gupta,Kolkata,West Bengal,Electronics,Speaker,33146,-2618,1,Credit Card
+OD-1876,22-03-25,Amit Das,Bengaluru,Karnataka,Electronics,Smartwatch,50646,-1763,3,UPI
+OD-1877,10-01-25,Ananya Patel,Ludhiana,Punjab,Furniture,Table,36994,-4898,2,UPI
+OD-1878,22-06-25,Peehu Verma,Ahmedabad,Gujarat,Clothing,Kurtis,4782,-39,2,Debit Card
+OD-1879,01-07-25,Vivaan Dhillon,Jaipur,Rajasthan,Clothing,Dress,605,217,1,Net Banking
+OD-1880,23-08-25,Vihaan Verma,Bengaluru,Karnataka,Furniture,Chair,7473,1468,1,Credit Card
+OD-1881,05-07-25,Sai Gill,Lucknow,Uttar Pradesh,Furniture,Sofa,21012,-1368,4,Debit Card
+OD-1882,21-06-25,Arjun Verma,Kolkata,West Bengal,Electronics,Smartwatch,17577,5433,1,Net Banking
+OD-1883,24-06-25,Shaurya Joshi,Chennai,Tamil Nadu,Clothing,Jeans,6294,304,3,Credit Card
+OD-1884,19-03-25,Gurpreet Nair,Ahmedabad,Gujarat,Clothing,Sari,8300,2854,4,COD
+OD-1885,16-12-25,Ananya Sharma,Kochi,Kerala,Clothing,T-Shirt,746,26,1,Net Banking
+OD-1886,26-03-25,Peehu Sharma,Amritsar,Punjab,Clothing,Dress,5504,-650,2,COD
+OD-1887,01-06-25,Peehu Nair,Lucknow,Uttar Pradesh,Furniture,Bookshelf,39831,-5801,3,Debit Card
+OD-1888,28-09-25,Amit Kumar,Amritsar,Punjab,Electronics,Speaker,74358,14380,2,COD
+OD-1889,30-11-25,Sia Gill,Ludhiana,Punjab,Furniture,Sofa,23760,-2462,2,COD
+OD-1890,21-06-25,Aadhya Gill,Hyderabad,Telangana,Furniture,Wardrobe,27009,-2672,3,COD
+OD-1891,09-06-25,Gurpreet Reddy,Chennai,Tamil Nadu,Clothing,T-Shirt,4161,1280,3,Debit Card
+OD-1892,05-08-25,Gurpreet Verma,Pune,Maharashtra,Electronics,Headphones,28842,-3569,3,UPI
+OD-1893,18-08-25,Shaurya Gupta,Mumbai,Maharashtra,Electronics,Headphones,79230,12762,2,COD
+OD-1894,01-11-25,Krishna Reddy,Lucknow,Uttar Pradesh,Electronics,Speaker,52500,7130,2,Credit Card
+OD-1895,23-02-25,Diya Joshi,Kolkata,West Bengal,Electronics,Smartwatch,11104,2680,1,Net Banking
+OD-1896,11-02-25,Aditya Sharma,Bathinda,Punjab,Clothing,Sari,4452,-476,2,COD
+OD-1897,26-07-25,Rahul Joshi,Patna,Bihar,Electronics,Headphones,172844,14325,4,Net Banking
+OD-1898,19-12-25,Kavya Gill,Bathinda,Punjab,Clothing,Shirt,4768,1149,2,Credit Card
+OD-1899,27-12-25,Gurpreet Joshi,Bengaluru,Karnataka,Furniture,Table,70040,-9249,4,Credit Card
+OD-1900,14-10-25,Ananya Verma,Bathinda,Punjab,Clothing,T-Shirt,8220,76,3,COD
+OD-1901,20-03-25,Vihaan Reddy,Lucknow,Uttar Pradesh,Electronics,Headphones,100035,-13465,3,Credit Card
+OD-1902,14-03-25,Rahul Nair,Pune,Maharashtra,Electronics,Headphones,26996,8112,2,Net Banking
+OD-1903,02-01-25,Vihaan Joshi,Ludhiana,Punjab,Clothing,T-Shirt,9476,1565,4,COD
+OD-1904,20-08-25,Diya Dhillon,Amritsar,Punjab,Electronics,Speaker,21156,2699,2,Net Banking
+OD-1905,19-08-25,Neha Das,Hyderabad,Telangana,Furniture,Bed,22472,4842,1,Net Banking
+OD-1906,18-07-25,Krishna Nair,Chandigarh,Punjab,Furniture,Chair,44356,9104,4,Credit Card
+OD-1907,29-12-25,Aarav Gupta,Lucknow,Uttar Pradesh,Furniture,Bookshelf,23099,3641,1,Credit Card
+OD-1908,13-11-25,Harpreet Gupta,Pune,Maharashtra,Furniture,Wardrobe,35184,4449,2,UPI
+OD-1909,03-03-25,Neha Joshi,Chennai,Tamil Nadu,Clothing,Jeans,2806,859,2,COD
+OD-1910,16-08-25,Aditya Dhillon,Chandigarh,Punjab,Electronics,Power Bank,33709,10924,1,UPI
+OD-1911,24-06-25,Peehu Kumar,Bathinda,Punjab,Clothing,Kurtis,5889,-50,3,UPI
+OD-1912,20-02-25,Harpreet Kumar,Lucknow,Uttar Pradesh,Clothing,Shirt,2298,-149,3,Net Banking
+OD-1913,14-12-25,Sai Sharma,Chandigarh,Punjab,Clothing,T-Shirt,1619,104,1,Debit Card
+OD-1914,14-03-25,Peehu Reddy,Jaipur,Rajasthan,Electronics,Mobile,14774,-268,1,COD
+OD-1915,28-10-25,Krishna Das,Patna,Bihar,Furniture,Sofa,10824,-1262,1,Net Banking
+OD-1916,11-10-25,Peehu Verma,Indore,Madhya Pradesh,Clothing,Sari,950,-1,2,COD
+OD-1917,12-12-25,Vihaan Singh,Hyderabad,Telangana,Electronics,Power Bank,122908,-12764,4,COD
+OD-1918,15-04-25,Arjun Reddy,Chennai,Tamil Nadu,Clothing,Kurtis,10688,1052,4,UPI
+OD-1919,26-08-25,Amit Patel,Chennai,Tamil Nadu,Clothing,T-Shirt,6072,1085,4,Net Banking
+OD-1920,29-06-25,Priya Singh,Patna,Bihar,Electronics,Mobile,73004,11658,2,Debit Card
+OD-1921,15-02-25,Aadhya Gill,Bengaluru,Karnataka,Clothing,Dress,6504,-221,3,COD
+OD-1922,12-06-25,Neha Reddy,Jaipur,Rajasthan,Furniture,Sofa,30174,6464,3,Debit Card
+OD-1923,24-06-25,Reyansh Das,Chandigarh,Punjab,Clothing,Dress,814,150,2,UPI
+OD-1924,05-01-25,Neha Kumar,Bathinda,Punjab,Furniture,Bookshelf,59480,8682,4,UPI
+OD-1925,03-10-25,Aarav Mehta,Kochi,Kerala,Furniture,Chair,42999,13119,3,Debit Card
+OD-1926,18-07-25,Sai Dhillon,Mumbai,Maharashtra,Clothing,Sari,3567,337,3,Credit Card
+OD-1927,11-01-25,Ishaan Mehta,Ludhiana,Punjab,Clothing,T-Shirt,3912,-82,3,Net Banking
+OD-1928,05-07-25,Vivaan Patel,Indore,Madhya Pradesh,Furniture,Bookshelf,4466,-188,2,Net Banking
+OD-1929,26-02-25,Ishaan Gupta,Patna,Bihar,Electronics,Laptop,89486,22939,2,COD
+OD-1930,17-10-25,Sai Verma,Hyderabad,Telangana,Furniture,Chair,21014,7637,2,Credit Card
+OD-1931,25-09-25,Ishaan Singh,Mumbai,Maharashtra,Furniture,Bookshelf,72912,11524,3,Net Banking
+OD-1932,02-01-25,Peehu Mehta,Pune,Maharashtra,Electronics,Smartwatch,77836,-6464,4,COD
+OD-1933,27-08-25,Kavya Reddy,Patna,Bihar,Clothing,Dress,1182,3,2,Net Banking
+OD-1934,30-09-25,Sia Reddy,Mumbai,Maharashtra,Electronics,Laptop,20583,6875,3,UPI
+OD-1935,26-04-25,Peehu Verma,Ahmedabad,Gujarat,Clothing,Shirt,5016,-579,3,UPI
+OD-1936,15-01-25,Kavya Nair,Mumbai,Maharashtra,Furniture,Bookshelf,30615,-430,3,Net Banking
+OD-1937,03-05-25,Diya Sharma,Chandigarh,Punjab,Furniture,Table,21659,4131,1,UPI
+OD-1938,17-11-25,Sia Gupta,Bengaluru,Karnataka,Clothing,T-Shirt,1944,43,1,UPI
+OD-1939,07-03-25,Vivaan Dhillon,Kochi,Kerala,Clothing,Jeans,2672,-251,4,UPI
+OD-1940,14-10-25,Vivaan Patel,Amritsar,Punjab,Electronics,Mobile,67108,21845,4,COD
+OD-1941,06-01-25,Sia Nair,Kochi,Kerala,Electronics,Power Bank,23757,4941,1,UPI
+OD-1942,21-08-25,Gurpreet Reddy,Kolkata,West Bengal,Clothing,T-Shirt,2836,687,1,COD
+OD-1943,10-04-25,Rahul Kumar,Patna,Bihar,Electronics,Headphones,132192,32855,4,Net Banking
+OD-1944,06-04-25,Krishna Kumar,Pune,Maharashtra,Clothing,Shirt,8379,751,3,Debit Card
+OD-1945,09-06-25,Rahul Joshi,Hyderabad,Telangana,Clothing,Sari,8610,332,3,Debit Card
+OD-1946,05-01-25,Gurpreet Gupta,Hyderabad,Telangana,Clothing,Shirt,2127,83,1,Credit Card
+OD-1947,24-11-25,Reyansh Dhillon,Delhi,Delhi,Electronics,Laptop,128524,23117,4,Debit Card
+OD-1948,24-10-25,Rahul Reddy,Lucknow,Uttar Pradesh,Electronics,Headphones,16742,1671,2,UPI
+OD-1949,11-09-25,Krishna Sharma,Ahmedabad,Gujarat,Furniture,Table,89776,-2942,4,Net Banking
+OD-1950,19-06-25,Aadhya Singh,Amritsar,Punjab,Clothing,T-Shirt,1317,-144,3,UPI
+OD-1951,12-10-25,Vihaan Kumar,Lucknow,Uttar Pradesh,Electronics,Laptop,13131,5074,3,Credit Card
+OD-1952,12-04-25,Shaurya Kumar,Ahmedabad,Gujarat,Electronics,Speaker,47540,15029,2,Credit Card
+OD-1953,02-04-25,Reyansh Sharma,Chennai,Tamil Nadu,Electronics,Mobile,10494,612,1,UPI
+OD-1954,23-06-25,Reyansh Patel,Kochi,Kerala,Clothing,Jeans,3300,1213,3,COD
+OD-1955,11-08-25,Aditya Verma,Hyderabad,Telangana,Clothing,Shirt,5160,299,2,Debit Card
+OD-1956,12-06-25,Amit Nair,Ahmedabad,Gujarat,Clothing,Kurtis,5184,61,2,Credit Card
+OD-1957,17-06-25,Krishna Sharma,Jaipur,Rajasthan,Clothing,Kurtis,5024,1256,4,Net Banking
+OD-1958,06-12-25,Amit Verma,Chennai,Tamil Nadu,Furniture,Sofa,55011,7447,3,Credit Card
+OD-1959,14-06-25,Ananya Joshi,Indore,Madhya Pradesh,Furniture,Sofa,43168,7323,4,COD
+OD-1960,29-11-25,Vivaan Singh,Ahmedabad,Gujarat,Clothing,Sari,4040,-120,2,Net Banking
+OD-1961,13-07-25,Rahul Kumar,Ludhiana,Punjab,Electronics,Power Bank,10303,2713,1,Debit Card
+OD-1962,16-08-25,Gurpreet Reddy,Ahmedabad,Gujarat,Furniture,Chair,75140,14398,4,Net Banking
+OD-1963,19-08-25,Sia Nair,Bathinda,Punjab,Electronics,Smartwatch,58176,3508,3,Credit Card
+OD-1964,15-08-25,Krishna Patel,Delhi,Delhi,Electronics,Mobile,103149,13619,3,UPI
+OD-1965,22-05-25,Krishna Verma,Bengaluru,Karnataka,Clothing,Jeans,2635,-104,1,Credit Card
+OD-1966,12-12-25,Diya Patel,Lucknow,Uttar Pradesh,Furniture,Bookshelf,24738,5890,3,Credit Card
+OD-1967,06-10-25,Ishaan Sharma,Lucknow,Uttar Pradesh,Electronics,Headphones,112364,33936,4,UPI
+OD-1968,30-08-25,Priya Joshi,Hyderabad,Telangana,Electronics,Laptop,30508,3384,2,COD
+OD-1969,28-10-25,Harpreet Dhillon,Kochi,Kerala,Furniture,Sofa,14439,320,3,Credit Card
+OD-1970,08-08-25,Peehu Singh,Kochi,Kerala,Electronics,Power Bank,26056,-1917,1,Credit Card
+OD-1971,06-06-25,Aarav Das,Ludhiana,Punjab,Electronics,Laptop,117596,26714,4,Net Banking
+OD-1972,20-12-25,Harpreet Patel,Chandigarh,Punjab,Furniture,Chair,6559,-429,1,Debit Card
+OD-1973,18-10-25,Priya Dhillon,Amritsar,Punjab,Electronics,Laptop,22700,3268,4,Credit Card
+OD-1974,01-09-25,Vihaan Reddy,Kochi,Kerala,Furniture,Bed,7617,-705,1,COD
+OD-1975,01-04-25,Vivaan Gill,Indore,Madhya Pradesh,Clothing,Shirt,1366,479,2,Net Banking
+OD-1976,26-05-25,Reyansh Singh,Lucknow,Uttar Pradesh,Furniture,Wardrobe,16898,-2000,1,COD
+OD-1977,06-01-25,Sai Reddy,Bathinda,Punjab,Electronics,Laptop,9963,1445,1,Net Banking
+OD-1978,05-02-25,Aadhya Singh,Hyderabad,Telangana,Clothing,Jeans,9372,-587,4,COD
+OD-1979,08-06-25,Rahul Singh,Patna,Bihar,Furniture,Bookshelf,44100,-1722,4,Credit Card
+OD-1980,17-08-25,Aditya Nair,Ahmedabad,Gujarat,Furniture,Bed,68316,7137,4,UPI
+OD-1981,16-02-25,Shaurya Mehta,Kochi,Kerala,Electronics,Speaker,81390,15233,3,Credit Card
+OD-1982,01-08-25,Krishna Kumar,Bathinda,Punjab,Electronics,Smartwatch,77528,-7555,2,UPI
+OD-1983,03-05-25,Sai Patel,Lucknow,Uttar Pradesh,Furniture,Chair,36340,2769,2,COD
+OD-1984,04-03-25,Ananya Verma,Bengaluru,Karnataka,Furniture,Bed,67104,-3981,4,Credit Card
+OD-1985,17-09-25,Vivaan Das,Mumbai,Maharashtra,Clothing,Dress,7840,305,4,Net Banking
+OD-1986,10-04-25,Aadhya Sharma,Mumbai,Maharashtra,Electronics,Mobile,45874,10030,2,Net Banking
+OD-1987,06-09-25,Sia Verma,Delhi,Delhi,Furniture,Bookshelf,32686,-2381,2,Debit Card
+OD-1988,24-03-25,Sai Sharma,Bengaluru,Karnataka,Clothing,Jeans,2588,667,1,Credit Card
+OD-1989,09-02-25,Neha Dhillon,Mumbai,Maharashtra,Furniture,Bed,32878,1543,2,Credit Card
+OD-1990,18-01-25,Neha Joshi,Kolkata,West Bengal,Electronics,Speaker,43101,12772,1,UPI
+OD-1991,19-07-25,Shaurya Das,Pune,Maharashtra,Furniture,Chair,14366,3906,1,Credit Card
+OD-1992,11-07-25,Krishna Singh,Delhi,Delhi,Clothing,Sari,458,16,1,Credit Card
+OD-1993,15-12-25,Neha Verma,Ahmedabad,Gujarat,Clothing,Dress,2166,-272,2,COD
+OD-1994,25-02-25,Diya Reddy,Kolkata,West Bengal,Furniture,Table,64080,-5354,4,Credit Card
+OD-1995,24-02-25,Ananya Reddy,Chennai,Tamil Nadu,Clothing,Sari,1344,86,3,Net Banking
+OD-1996,23-04-25,Aditya Mehta,Jaipur,Rajasthan,Furniture,Wardrobe,10317,-1165,3,Credit Card
+OD-1997,30-07-25,Shaurya Dhillon,Indore,Madhya Pradesh,Clothing,Dress,2860,1079,2,COD
+OD-1998,16-06-25,Priya Gill,Amritsar,Punjab,Furniture,Bookshelf,25760,-1379,2,Debit Card
+OD-1999,08-12-25,Kavya Verma,Chandigarh,Punjab,Clothing,Kurtis,7860,1030,4,Credit Card
+OD-2000,15-09-25,Rahul Gill,Mumbai,Maharashtra,Clothing,T-Shirt,1664,-33,1,Net Banking
+OD-2001,05-05-25,Amit Verma,Pune,Maharashtra,Clothing,Jeans,6452,-250,4,Net Banking
+OD-2002,15-04-25,Priya Sharma,Ahmedabad,Gujarat,Furniture,Wardrobe,51080,-3889,4,Debit Card
+OD-2003,26-11-25,Vivaan Joshi,Bathinda,Punjab,Furniture,Bed,9504,3001,1,Debit Card
+OD-2004,25-06-25,Krishna Singh,Pune,Maharashtra,Furniture,Table,43850,14469,2,COD
+OD-2005,14-06-25,Sai Das,Mumbai,Maharashtra,Clothing,Sari,1187,-144,1,Credit Card
+OD-2006,15-04-25,Arjun Verma,Chennai,Tamil Nadu,Furniture,Wardrobe,19486,2515,2,Net Banking
+OD-2007,28-08-25,Shaurya Kumar,Kolkata,West Bengal,Clothing,Sari,5760,-75,2,Debit Card
+OD-2008,23-10-25,Sia Mehta,Kolkata,West Bengal,Electronics,Smartwatch,25065,1730,1,Credit Card
+OD-2009,30-08-25,Sia Nair,Patna,Bihar,Furniture,Bookshelf,28428,8550,4,Net Banking
+OD-2010,11-01-25,Aadhya Nair,Delhi,Delhi,Electronics,Power Bank,75462,18839,2,Debit Card
+OD-2011,14-07-25,Sia Patel,Kochi,Kerala,Electronics,Smartwatch,24856,827,4,Net Banking
+OD-2012,11-04-25,Arjun Singh,Mumbai,Maharashtra,Clothing,Kurtis,7233,524,3,Net Banking
+OD-2013,22-07-25,Ananya Nair,Indore,Madhya Pradesh,Electronics,Speaker,28290,9526,1,UPI
+OD-2014,17-07-25,Rahul Kumar,Kolkata,West Bengal,Electronics,Headphones,104691,25128,3,Debit Card
+OD-2015,23-12-25,Vivaan Mehta,Amritsar,Punjab,Electronics,Speaker,34764,3919,2,Debit Card
+OD-2016,20-11-25,Neha Sharma,Hyderabad,Telangana,Electronics,Power Bank,44628,-452,4,COD
+OD-2017,24-10-25,Neha Kumar,Mumbai,Maharashtra,Clothing,T-Shirt,8108,1932,4,UPI
+OD-2018,23-09-25,Reyansh Nair,Chennai,Tamil Nadu,Electronics,Headphones,102930,39342,3,Net Banking
+OD-2019,28-10-25,Shaurya Gill,Bathinda,Punjab,Furniture,Chair,22846,3768,1,Debit Card
+OD-2020,15-03-25,Ishaan Gill,Kolkata,West Bengal,Furniture,Sofa,6630,2604,3,Net Banking
+OD-2021,01-01-25,Vihaan Verma,Bathinda,Punjab,Furniture,Sofa,48363,-2715,3,Debit Card
+OD-2022,06-04-25,Arjun Singh,Indore,Madhya Pradesh,Clothing,Kurtis,2244,363,1,Credit Card
+OD-2023,06-04-25,Reyansh Sharma,Chennai,Tamil Nadu,Clothing,Jeans,8816,1717,4,COD
+OD-2024,25-02-25,Priya Kumar,Delhi,Delhi,Electronics,Mobile,38684,85,4,Debit Card
+OD-2025,16-01-25,Rahul Singh,Indore,Madhya Pradesh,Electronics,Speaker,2123,-247,1,UPI
+OD-2026,07-12-25,Rahul Dhillon,Pune,Maharashtra,Clothing,Shirt,1937,351,1,Debit Card
+OD-2027,06-09-25,Kavya Dhillon,Chandigarh,Punjab,Furniture,Sofa,42447,9551,3,Debit Card
+OD-2028,11-06-25,Krishna Reddy,Amritsar,Punjab,Electronics,Power Bank,24832,8199,1,UPI
+OD-2029,02-01-25,Sia Gill,Amritsar,Punjab,Furniture,Table,21723,-1790,1,COD
+OD-2030,24-05-25,Krishna Reddy,Kochi,Kerala,Furniture,Bookshelf,75488,5829,4,Credit Card
+OD-2031,02-01-25,Priya Reddy,Mumbai,Maharashtra,Furniture,Bed,12666,2822,1,Credit Card
+OD-2032,07-11-25,Kavya Nair,Delhi,Delhi,Electronics,Smartwatch,178576,57395,4,UPI
+OD-2033,17-07-25,Shaurya Gupta,Kolkata,West Bengal,Furniture,Table,6189,766,1,UPI
+OD-2034,04-06-25,Neha Joshi,Kochi,Kerala,Clothing,Sari,2373,508,1,Credit Card
+OD-2035,05-05-25,Reyansh Kumar,Delhi,Delhi,Clothing,Sari,1055,380,1,Debit Card
+OD-2036,16-07-25,Ishaan Singh,Jaipur,Rajasthan,Furniture,Sofa,23806,-1793,1,COD
+OD-2037,21-11-25,Kavya Verma,Chandigarh,Punjab,Clothing,Kurtis,1804,103,1,Net Banking
+OD-2038,01-12-25,Priya Dhillon,Bathinda,Punjab,Clothing,Shirt,2616,26,3,UPI
+OD-2039,15-02-25,Diya Gill,Kolkata,West Bengal,Furniture,Chair,18525,5915,3,Net Banking
+OD-2040,23-10-25,Aarav Patel,Pune,Maharashtra,Furniture,Wardrobe,29436,11448,2,Debit Card
+OD-2041,06-07-25,Neha Dhillon,Hyderabad,Telangana,Furniture,Bookshelf,10984,740,2,COD
+OD-2042,24-08-25,Diya Kumar,Lucknow,Uttar Pradesh,Clothing,Sari,4008,724,4,Credit Card
+OD-2043,07-12-25,Vivaan Gupta,Chandigarh,Punjab,Electronics,Power Bank,19420,7734,1,COD
+OD-2044,02-09-25,Priya Singh,Indore,Madhya Pradesh,Electronics,Speaker,21416,8344,4,Debit Card
+OD-2045,20-03-25,Reyansh Gill,Ahmedabad,Gujarat,Furniture,Bookshelf,7866,2526,1,Net Banking
+OD-2046,03-06-25,Neha Kumar,Mumbai,Maharashtra,Furniture,Sofa,47526,10590,3,Debit Card
+OD-2047,20-07-25,Aadhya Verma,Patna,Bihar,Furniture,Bed,74454,26631,3,COD
+OD-2048,21-07-25,Vihaan Kumar,Chandigarh,Punjab,Furniture,Chair,50976,10707,3,COD
+OD-2049,12-03-25,Sia Gill,Indore,Madhya Pradesh,Electronics,Laptop,31590,9236,2,Credit Card
+OD-2050,30-11-25,Aarav Reddy,Bengaluru,Karnataka,Furniture,Table,63980,14311,4,Credit Card
+OD-2051,29-01-25,Vihaan Reddy,Indore,Madhya Pradesh,Clothing,T-Shirt,2510,520,1,COD
+OD-2052,11-08-25,Arjun Mehta,Amritsar,Punjab,Clothing,T-Shirt,1385,94,1,Debit Card
+OD-2053,19-12-25,Amit Kumar,Amritsar,Punjab,Furniture,Bookshelf,17193,5599,1,Net Banking
+OD-2054,21-05-25,Priya Mehta,Kochi,Kerala,Electronics,Mobile,9143,-955,1,Net Banking
+OD-2055,25-11-25,Neha Joshi,Ahmedabad,Gujarat,Clothing,Kurtis,6080,1407,4,UPI
+OD-2056,31-10-25,Sai Nair,Indore,Madhya Pradesh,Furniture,Bookshelf,47104,7738,4,UPI
+OD-2057,16-06-25,Aditya Gill,Chennai,Tamil Nadu,Electronics,Speaker,27307,4255,1,COD
+OD-2058,29-09-25,Kavya Verma,Patna,Bihar,Furniture,Wardrobe,8798,3353,1,UPI
+OD-2059,03-04-25,Amit Gill,Chennai,Tamil Nadu,Clothing,Kurtis,6744,-555,4,Credit Card
+OD-2060,22-10-25,Reyansh Mehta,Chennai,Tamil Nadu,Clothing,Kurtis,1626,-168,3,UPI
+OD-2061,17-09-25,Shaurya Reddy,Chennai,Tamil Nadu,Electronics,Speaker,17775,272,1,COD
+OD-2062,31-05-25,Neha Joshi,Kochi,Kerala,Clothing,Kurtis,6720,923,4,Debit Card
+OD-2063,07-11-25,Harpreet Joshi,Kolkata,West Bengal,Furniture,Chair,9769,-1267,1,Credit Card
+OD-2064,03-06-25,Reyansh Kumar,Kolkata,West Bengal,Furniture,Bed,18630,4676,3,Net Banking
+OD-2065,08-02-25,Harpreet Patel,Jaipur,Rajasthan,Electronics,Speaker,55436,5590,2,Debit Card
+OD-2066,13-12-25,Peehu Gill,Hyderabad,Telangana,Furniture,Table,22629,5724,1,Credit Card
+OD-2067,10-07-25,Rahul Mehta,Patna,Bihar,Furniture,Table,28116,674,4,Net Banking
+OD-2068,14-07-25,Aarav Gupta,Ahmedabad,Gujarat,Clothing,Jeans,2575,-230,1,COD
+OD-2069,28-07-25,Aditya Reddy,Delhi,Delhi,Electronics,Headphones,33267,10907,3,Credit Card
+OD-2070,21-05-25,Aarav Verma,Amritsar,Punjab,Clothing,Sari,904,-48,1,Debit Card
+OD-2071,29-10-25,Kavya Verma,Patna,Bihar,Electronics,Speaker,112935,-103,3,UPI
+OD-2072,25-01-25,Sai Reddy,Amritsar,Punjab,Clothing,Jeans,9408,1653,4,Debit Card
+OD-2073,05-01-25,Neha Joshi,Hyderabad,Telangana,Furniture,Table,28824,4674,2,Debit Card
+OD-2074,28-01-25,Priya Reddy,Ahmedabad,Gujarat,Furniture,Wardrobe,68000,-3351,4,Debit Card
+OD-2075,28-08-25,Gurpreet Patel,Jaipur,Rajasthan,Electronics,Power Bank,43000,8582,2,UPI
+OD-2076,06-06-25,Peehu Dhillon,Chandigarh,Punjab,Clothing,Dress,713,179,1,UPI
+OD-2077,26-03-25,Rahul Sharma,Delhi,Delhi,Furniture,Bed,9400,3564,4,Net Banking
+OD-2078,13-12-25,Gurpreet Gill,Hyderabad,Telangana,Electronics,Smartwatch,28072,-3996,1,Credit Card
+OD-2079,04-01-25,Peehu Gill,Ludhiana,Punjab,Clothing,Dress,2886,279,1,Credit Card
+OD-2080,12-12-25,Gurpreet Singh,Chennai,Tamil Nadu,Clothing,Jeans,5006,221,2,UPI
+OD-2081,05-08-25,Kavya Nair,Chennai,Tamil Nadu,Electronics,Mobile,53604,16480,3,UPI
+OD-2082,29-05-25,Shaurya Das,Lucknow,Uttar Pradesh,Electronics,Laptop,42864,6980,1,Credit Card
+OD-2083,06-06-25,Priya Joshi,Pune,Maharashtra,Electronics,Power Bank,21072,962,4,COD
+OD-2084,24-08-25,Diya Patel,Ludhiana,Punjab,Clothing,T-Shirt,3483,247,3,UPI
+OD-2085,21-02-25,Peehu Das,Kolkata,West Bengal,Clothing,Kurtis,4162,-340,2,Net Banking
+OD-2086,04-01-25,Arjun Dhillon,Jaipur,Rajasthan,Clothing,Sari,7728,112,4,Net Banking
+OD-2087,04-04-25,Harpreet Dhillon,Jaipur,Rajasthan,Clothing,Sari,4244,-310,4,Net Banking
+OD-2088,03-01-25,Ananya Gill,Kolkata,West Bengal,Clothing,Shirt,1689,-129,3,Net Banking
+OD-2089,19-06-25,Vivaan Kumar,Kolkata,West Bengal,Electronics,Speaker,27855,2273,3,COD
+OD-2090,11-09-25,Neha Gill,Hyderabad,Telangana,Electronics,Smartwatch,40448,-3626,4,UPI
+OD-2091,11-01-25,Arjun Kumar,Ludhiana,Punjab,Furniture,Chair,7410,1652,2,Debit Card
+OD-2092,08-08-25,Amit Gill,Mumbai,Maharashtra,Electronics,Smartwatch,59985,7033,3,Net Banking
+OD-2093,07-05-25,Amit Kumar,Patna,Bihar,Clothing,Shirt,2610,849,3,Credit Card
+OD-2094,08-12-25,Peehu Singh,Indore,Madhya Pradesh,Furniture,Chair,16364,6478,2,COD
+OD-2095,19-11-25,Priya Kumar,Ahmedabad,Gujarat,Clothing,Shirt,2224,1,4,Credit Card
+OD-2096,16-03-25,Peehu Sharma,Kolkata,West Bengal,Clothing,T-Shirt,8268,1147,4,Credit Card
+OD-2097,24-04-25,Diya Nair,Indore,Madhya Pradesh,Clothing,Kurtis,2440,42,4,Debit Card
+OD-2098,06-07-25,Ishaan Reddy,Bathinda,Punjab,Clothing,Jeans,1143,-145,1,UPI
+OD-2099,05-12-25,Diya Singh,Lucknow,Uttar Pradesh,Electronics,Headphones,29739,-1437,1,Net Banking
+OD-2100,06-07-25,Diya Patel,Bengaluru,Karnataka,Clothing,Dress,2659,727,1,Credit Card
+OD-2101,19-06-25,Ananya Gill,Ludhiana,Punjab,Furniture,Wardrobe,29421,6108,3,Credit Card
+OD-2102,27-10-25,Aadhya Verma,Bengaluru,Karnataka,Clothing,Dress,567,97,1,Credit Card
+OD-2103,09-04-25,Sia Verma,Delhi,Delhi,Furniture,Wardrobe,35634,8870,3,Credit Card
+OD-2104,01-10-25,Arjun Sharma,Hyderabad,Telangana,Clothing,Sari,8082,3122,3,Debit Card
+OD-2105,18-08-25,Priya Gill,Bengaluru,Karnataka,Electronics,Mobile,115836,15993,4,COD
+OD-2106,12-01-25,Sai Gupta,Jaipur,Rajasthan,Furniture,Table,10467,3932,3,UPI
+OD-2107,22-12-25,Reyansh Gill,Amritsar,Punjab,Electronics,Speaker,12347,1120,1,COD
+OD-2108,16-07-25,Harpreet Dhillon,Amritsar,Punjab,Electronics,Power Bank,45183,-2203,3,Credit Card
+OD-2109,20-10-25,Reyansh Gupta,Mumbai,Maharashtra,Furniture,Sofa,35826,11423,3,Debit Card
+OD-2110,29-12-25,Ishaan Joshi,Bengaluru,Karnataka,Clothing,Shirt,2584,-49,1,UPI
+OD-2111,24-11-25,Arjun Patel,Hyderabad,Telangana,Electronics,Mobile,30520,4395,2,UPI
+OD-2112,29-11-25,Ananya Mehta,Ludhiana,Punjab,Electronics,Mobile,30768,2294,3,COD
+OD-2113,31-05-25,Diya Sharma,Mumbai,Maharashtra,Electronics,Laptop,39246,-361,3,UPI
+OD-2114,03-10-25,Neha Dhillon,Bengaluru,Karnataka,Furniture,Bookshelf,93696,-792,4,COD
+OD-2115,10-10-25,Reyansh Das,Ahmedabad,Gujarat,Electronics,Headphones,79238,15561,2,Net Banking
+OD-2116,21-03-25,Sia Singh,Bathinda,Punjab,Electronics,Laptop,30560,3752,4,Net Banking
+OD-2117,05-04-25,Sai Singh,Indore,Madhya Pradesh,Furniture,Table,8067,166,3,Credit Card
+OD-2118,21-07-25,Neha Gupta,Kolkata,West Bengal,Clothing,Shirt,2145,-32,1,Net Banking
+OD-2119,21-02-25,Gurpreet Kumar,Mumbai,Maharashtra,Furniture,Chair,58328,-8084,4,UPI
+OD-2120,26-11-25,Vivaan Kumar,Ahmedabad,Gujarat,Clothing,Jeans,5936,1067,2,UPI
+OD-2121,24-02-25,Harpreet Gill,Chandigarh,Punjab,Furniture,Chair,13124,1499,2,COD
+OD-2122,16-08-25,Sai Patel,Chandigarh,Punjab,Electronics,Laptop,10322,1537,2,Debit Card
+OD-2123,18-11-25,Harpreet Verma,Mumbai,Maharashtra,Clothing,T-Shirt,2457,322,3,Net Banking
+OD-2124,14-03-25,Aarav Singh,Mumbai,Maharashtra,Clothing,Sari,4008,177,4,Debit Card
+OD-2125,26-04-25,Neha Nair,Bengaluru,Karnataka,Electronics,Laptop,16214,-1524,1,Debit Card
+OD-2126,02-07-25,Aditya Gupta,Chandigarh,Punjab,Clothing,Jeans,576,105,1,Credit Card
+OD-2127,08-08-25,Gurpreet Reddy,Chennai,Tamil Nadu,Furniture,Sofa,47730,10879,2,COD
+OD-2128,27-05-25,Ananya Verma,Jaipur,Rajasthan,Electronics,Speaker,56679,16771,3,UPI
+OD-2129,02-01-25,Arjun Dhillon,Hyderabad,Telangana,Electronics,Laptop,123096,30372,4,Net Banking
+OD-2130,04-02-25,Vihaan Gupta,Bathinda,Punjab,Furniture,Bed,9926,274,2,Credit Card
+OD-2131,04-04-25,Aadhya Reddy,Chandigarh,Punjab,Electronics,Smartwatch,114512,20721,4,Debit Card
+OD-2132,12-03-25,Priya Singh,Amritsar,Punjab,Electronics,Power Bank,147228,21138,4,COD
+OD-2133,02-10-25,Krishna Nair,Delhi,Delhi,Furniture,Bookshelf,77064,12933,4,Credit Card
+OD-2134,26-12-25,Aditya Singh,Ludhiana,Punjab,Clothing,Shirt,1883,295,1,Credit Card
+OD-2135,26-02-25,Vivaan Reddy,Ludhiana,Punjab,Clothing,Jeans,3956,1223,4,COD
+OD-2136,04-08-25,Krishna Singh,Ahmedabad,Gujarat,Clothing,Dress,1758,666,2,Credit Card
+OD-2137,13-07-25,Aarav Gill,Bathinda,Punjab,Electronics,Mobile,44933,7633,1,Net Banking
+OD-2138,01-11-25,Sai Sharma,Hyderabad,Telangana,Electronics,Laptop,17559,-1889,1,COD
+OD-2139,02-08-25,Arjun Dhillon,Chennai,Tamil Nadu,Electronics,Speaker,72132,16894,2,Debit Card
+OD-2140,29-08-25,Peehu Gill,Chandigarh,Punjab,Electronics,Speaker,20293,-1802,1,UPI
+OD-2141,25-11-25,Vivaan Gupta,Chennai,Tamil Nadu,Furniture,Table,14988,4615,1,Net Banking
+OD-2142,11-10-25,Ishaan Gupta,Patna,Bihar,Electronics,Speaker,58530,21205,2,Debit Card
+OD-2143,17-02-25,Gurpreet Nair,Hyderabad,Telangana,Furniture,Table,89136,-10625,4,Net Banking
+OD-2144,05-04-25,Harpreet Gupta,Delhi,Delhi,Furniture,Sofa,49048,10250,4,Net Banking
+OD-2145,14-07-25,Sai Sharma,Ludhiana,Punjab,Furniture,Sofa,21688,-1960,2,UPI
+OD-2146,05-07-25,Amit Dhillon,Chandigarh,Punjab,Clothing,Shirt,3195,472,3,UPI
+OD-2147,19-04-25,Amit Sharma,Lucknow,Uttar Pradesh,Clothing,Kurtis,1062,-18,2,UPI
+OD-2148,19-10-25,Rahul Sharma,Indore,Madhya Pradesh,Clothing,T-Shirt,2340,863,3,UPI
+OD-2149,02-07-25,Shaurya Nair,Patna,Bihar,Clothing,Jeans,7424,2862,4,UPI
+OD-2150,19-06-25,Peehu Gill,Patna,Bihar,Clothing,Kurtis,992,171,2,Net Banking
+OD-2151,02-09-25,Rahul Sharma,Lucknow,Uttar Pradesh,Clothing,Shirt,2884,971,4,UPI
+OD-2152,29-04-25,Reyansh Dhillon,Hyderabad,Telangana,Furniture,Table,49989,14094,3,Debit Card
+OD-2153,29-05-25,Ananya Gupta,Bathinda,Punjab,Clothing,Dress,5512,-193,4,COD
+OD-2154,07-11-25,Aditya Kumar,Indore,Madhya Pradesh,Clothing,T-Shirt,3332,502,2,UPI
+OD-2155,13-09-25,Vihaan Das,Chandigarh,Punjab,Clothing,Jeans,1356,5,2,Debit Card
+OD-2156,30-06-25,Aditya Verma,Chennai,Tamil Nadu,Furniture,Sofa,52521,20386,3,Net Banking
+OD-2157,29-11-25,Arjun Verma,Indore,Madhya Pradesh,Clothing,Jeans,6123,459,3,COD
+OD-2158,15-12-25,Arjun Das,Ludhiana,Punjab,Furniture,Wardrobe,42732,-4447,3,Net Banking
+OD-2159,17-09-25,Sia Patel,Pune,Maharashtra,Furniture,Bookshelf,10022,2353,1,COD
+OD-2160,05-01-25,Arjun Verma,Lucknow,Uttar Pradesh,Electronics,Laptop,25128,-686,4,Net Banking
+OD-2161,09-12-25,Aditya Reddy,Kochi,Kerala,Electronics,Speaker,34604,-3557,4,UPI
+OD-2162,23-07-25,Peehu Singh,Amritsar,Punjab,Electronics,Mobile,71823,28588,3,Net Banking
+OD-2163,19-04-25,Kavya Verma,Jaipur,Rajasthan,Electronics,Mobile,64598,-4519,2,Credit Card
+OD-2164,13-06-25,Rahul Sharma,Amritsar,Punjab,Clothing,Jeans,9352,-305,4,Credit Card
+OD-2165,12-01-25,Neha Nair,Jaipur,Rajasthan,Electronics,Speaker,13956,-1005,2,Debit Card
+OD-2166,27-07-25,Aditya Patel,Kochi,Kerala,Electronics,Power Bank,37006,-1804,2,UPI
+OD-2167,17-02-25,Peehu Reddy,Lucknow,Uttar Pradesh,Clothing,Shirt,6345,729,3,COD
+OD-2168,19-12-25,Sai Gill,Bathinda,Punjab,Electronics,Speaker,8600,1363,4,COD
+OD-2169,12-04-25,Aditya Gill,Hyderabad,Telangana,Electronics,Speaker,7287,-489,3,Net Banking
+OD-2170,17-03-25,Kavya Reddy,Bengaluru,Karnataka,Furniture,Sofa,57186,14139,3,Net Banking
+OD-2171,06-03-25,Priya Das,Bengaluru,Karnataka,Clothing,Shirt,4240,988,2,Credit Card
+OD-2172,04-11-25,Aadhya Singh,Ludhiana,Punjab,Clothing,Shirt,1915,569,1,UPI
+OD-2173,04-06-25,Shaurya Joshi,Bengaluru,Karnataka,Furniture,Sofa,62268,4714,4,Debit Card
+OD-2174,05-10-25,Peehu Joshi,Chandigarh,Punjab,Clothing,Shirt,8612,475,4,COD
+OD-2175,01-11-25,Sai Joshi,Bathinda,Punjab,Electronics,Headphones,172224,996,4,COD
+OD-2176,20-02-25,Aditya Dhillon,Bengaluru,Karnataka,Clothing,Dress,2923,1060,1,UPI
+OD-2177,12-09-25,Amit Joshi,Bengaluru,Karnataka,Furniture,Sofa,23879,225,1,Net Banking
+OD-2178,19-04-25,Krishna Dhillon,Kochi,Kerala,Furniture,Sofa,8408,2698,1,UPI
+OD-2179,29-06-25,Sia Nair,Amritsar,Punjab,Clothing,Jeans,4954,29,2,Debit Card
+OD-2180,07-06-25,Peehu Mehta,Ahmedabad,Gujarat,Clothing,Sari,462,-62,1,Debit Card
+OD-2181,23-09-25,Amit Reddy,Chandigarh,Punjab,Clothing,Kurtis,5556,864,4,Net Banking
+OD-2182,09-04-25,Amit Mehta,Amritsar,Punjab,Clothing,Kurtis,3704,1358,4,Net Banking
+OD-2183,30-03-25,Aadhya Reddy,Patna,Bihar,Clothing,Sari,1612,387,2,Credit Card
+OD-2184,16-09-25,Vihaan Mehta,Amritsar,Punjab,Furniture,Bed,25128,-953,2,UPI
+OD-2185,14-01-25,Peehu Sharma,Hyderabad,Telangana,Clothing,Kurtis,2741,165,1,Credit Card
+OD-2186,21-08-25,Priya Mehta,Ludhiana,Punjab,Clothing,Shirt,3230,-140,2,Credit Card
+OD-2187,13-07-25,Ishaan Mehta,Pune,Maharashtra,Electronics,Mobile,85238,-11700,2,COD
+OD-2188,22-02-25,Vihaan Das,Bengaluru,Karnataka,Clothing,Shirt,4416,1510,3,UPI
+OD-2189,09-02-25,Kavya Reddy,Kolkata,West Bengal,Electronics,Mobile,11752,911,4,Net Banking
+OD-2190,17-11-25,Aditya Singh,Bathinda,Punjab,Electronics,Headphones,48232,-2464,4,UPI
+OD-2191,02-04-25,Neha Gupta,Pune,Maharashtra,Clothing,Jeans,7143,2837,3,COD
+OD-2192,07-10-25,Aarav Kumar,Patna,Bihar,Furniture,Bed,8319,1525,1,COD
+OD-2193,12-01-25,Gurpreet Joshi,Hyderabad,Telangana,Clothing,Jeans,1287,-172,1,Credit Card
+OD-2194,23-04-25,Aditya Gill,Hyderabad,Telangana,Electronics,Headphones,58228,21793,4,Debit Card
+OD-2195,29-12-25,Harpreet Mehta,Lucknow,Uttar Pradesh,Electronics,Speaker,120308,15875,4,Net Banking
+OD-2196,09-04-25,Ishaan Kumar,Kolkata,West Bengal,Furniture,Bookshelf,44616,-4167,3,COD
+OD-2197,09-06-25,Sai Dhillon,Kolkata,West Bengal,Furniture,Sofa,66476,5521,4,Debit Card
+OD-2198,13-06-25,Amit Verma,Amritsar,Punjab,Electronics,Laptop,78021,26826,3,UPI
+OD-2199,19-08-25,Sai Sharma,Patna,Bihar,Electronics,Power Bank,82932,15104,4,COD
+OD-2200,30-06-25,Aadhya Sharma,Bengaluru,Karnataka,Clothing,Jeans,4640,216,4,UPI
+OD-2201,21-04-25,Neha Reddy,Ludhiana,Punjab,Clothing,Jeans,438,11,1,UPI
+OD-2202,18-06-25,Reyansh Das,Chandigarh,Punjab,Clothing,Kurtis,1978,11,1,Credit Card
+OD-2203,27-09-25,Reyansh Verma,Jaipur,Rajasthan,Furniture,Wardrobe,20807,7094,1,Net Banking
+OD-2204,16-12-25,Peehu Reddy,Chandigarh,Punjab,Clothing,Shirt,2422,300,1,Debit Card
+OD-2205,04-08-25,Vihaan Verma,Kochi,Kerala,Clothing,Kurtis,8460,512,3,COD
+OD-2206,11-01-25,Shaurya Sharma,Mumbai,Maharashtra,Electronics,Headphones,55796,-7233,2,COD
+OD-2207,28-09-25,Vivaan Reddy,Mumbai,Maharashtra,Clothing,Sari,2099,520,1,Debit Card
+OD-2208,12-06-25,Ananya Nair,Delhi,Delhi,Furniture,Bed,88256,-10953,4,Debit Card
+OD-2209,23-12-25,Sia Das,Bengaluru,Karnataka,Electronics,Power Bank,3419,-91,1,UPI
+OD-2210,13-03-25,Vihaan Reddy,Bathinda,Punjab,Clothing,Shirt,1181,293,1,Debit Card
+OD-2211,03-10-25,Aarav Gill,Pune,Maharashtra,Electronics,Mobile,4645,1722,1,UPI
+OD-2212,16-05-25,Diya Gill,Amritsar,Punjab,Electronics,Speaker,21056,3598,2,UPI
+OD-2213,06-03-25,Diya Kumar,Bathinda,Punjab,Furniture,Sofa,19097,2676,1,COD
+OD-2214,02-09-25,Neha Das,Jaipur,Rajasthan,Electronics,Speaker,65200,-6488,4,Debit Card
+OD-2215,31-12-25,Aditya Reddy,Ahmedabad,Gujarat,Furniture,Bookshelf,49544,-5305,2,Net Banking
+OD-2216,31-01-25,Reyansh Sharma,Kolkata,West Bengal,Electronics,Smartwatch,66916,-6190,2,Credit Card
+OD-2217,30-10-25,Gurpreet Joshi,Chandigarh,Punjab,Electronics,Speaker,177780,-11609,4,COD
+OD-2218,24-02-25,Arjun Singh,Ludhiana,Punjab,Electronics,Smartwatch,55454,-2585,2,Debit Card
+OD-2219,05-08-25,Sai Mehta,Lucknow,Uttar Pradesh,Furniture,Bookshelf,6826,706,1,UPI
+OD-2220,26-02-25,Krishna Sharma,Kochi,Kerala,Clothing,Jeans,2349,502,1,Net Banking
+OD-2221,30-06-25,Ishaan Verma,Delhi,Delhi,Electronics,Smartwatch,22742,1553,2,Net Banking
+OD-2222,18-09-25,Diya Sharma,Kochi,Kerala,Electronics,Headphones,4720,975,1,Net Banking
+OD-2223,10-04-25,Shaurya Singh,Amritsar,Punjab,Clothing,Kurtis,7704,1418,3,COD
+OD-2224,10-08-25,Vihaan Mehta,Pune,Maharashtra,Furniture,Table,9195,-796,1,UPI
+OD-2225,22-10-25,Ishaan Singh,Delhi,Delhi,Furniture,Chair,28260,9479,3,Net Banking
+OD-2226,20-07-25,Aadhya Verma,Ahmedabad,Gujarat,Furniture,Bookshelf,54675,-2015,3,Credit Card
+OD-2227,27-06-25,Priya Patel,Lucknow,Uttar Pradesh,Furniture,Chair,8064,1022,1,COD
+OD-2228,02-09-25,Shaurya Gill,Ahmedabad,Gujarat,Clothing,Jeans,1081,-50,1,Net Banking
+OD-2229,14-03-25,Aarav Mehta,Indore,Madhya Pradesh,Electronics,Headphones,13133,5068,1,UPI
+OD-2230,29-03-25,Neha Dhillon,Mumbai,Maharashtra,Furniture,Bed,84432,-12618,4,Credit Card
+OD-2231,30-08-25,Vihaan Sharma,Mumbai,Maharashtra,Furniture,Bookshelf,28440,3950,3,Credit Card
+OD-2232,17-03-25,Vihaan Verma,Lucknow,Uttar Pradesh,Furniture,Bed,72312,18377,4,COD
+OD-2233,12-05-25,Neha Das,Jaipur,Rajasthan,Electronics,Smartwatch,24609,384,1,Debit Card
+OD-2234,23-09-25,Neha Gupta,Indore,Madhya Pradesh,Clothing,Jeans,1004,389,1,Credit Card
+OD-2235,04-12-25,Arjun Reddy,Indore,Madhya Pradesh,Clothing,Shirt,7484,-273,4,UPI
+OD-2236,10-04-25,Aadhya Mehta,Bengaluru,Karnataka,Electronics,Speaker,144124,-7750,4,Debit Card
+OD-2237,19-06-25,Aadhya Gupta,Bathinda,Punjab,Electronics,Headphones,8386,1415,2,Debit Card
+OD-2238,10-11-25,Vihaan Nair,Kochi,Kerala,Furniture,Bed,16830,6449,3,Net Banking
+OD-2239,17-12-25,Arjun Das,Hyderabad,Telangana,Furniture,Bed,23898,2814,2,UPI
+OD-2240,31-05-25,Aarav Das,Pune,Maharashtra,Clothing,Jeans,616,73,1,UPI
+OD-2241,09-08-25,Ananya Mehta,Mumbai,Maharashtra,Clothing,Jeans,3666,1221,2,COD
+OD-2242,07-12-25,Harpreet Kumar,Delhi,Delhi,Furniture,Bed,16892,1480,2,UPI
+OD-2243,29-05-25,Krishna Sharma,Indore,Madhya Pradesh,Electronics,Laptop,116772,8117,4,UPI
+OD-2244,14-05-25,Shaurya Gupta,Lucknow,Uttar Pradesh,Clothing,Kurtis,6876,2010,4,Credit Card
+OD-2245,16-12-25,Reyansh Patel,Hyderabad,Telangana,Electronics,Power Bank,42460,753,2,Debit Card
+OD-2246,18-10-25,Priya Das,Chennai,Tamil Nadu,Electronics,Smartwatch,10583,1477,1,Debit Card
+OD-2247,15-09-25,Neha Gill,Ludhiana,Punjab,Electronics,Headphones,128300,10427,4,Net Banking
+OD-2248,25-08-25,Aarav Joshi,Mumbai,Maharashtra,Electronics,Mobile,83636,29169,2,Credit Card
+OD-2249,25-10-25,Gurpreet Reddy,Hyderabad,Telangana,Furniture,Wardrobe,11262,2989,3,Net Banking
+OD-2250,06-03-25,Aadhya Mehta,Mumbai,Maharashtra,Electronics,Power Bank,20244,-2093,4,Debit Card
+OD-2251,29-11-25,Vihaan Reddy,Bengaluru,Karnataka,Electronics,Power Bank,92848,30210,4,UPI
+OD-2252,27-10-25,Neha Joshi,Pune,Maharashtra,Furniture,Table,40834,10503,2,Net Banking
+OD-2253,11-03-25,Krishna Mehta,Hyderabad,Telangana,Electronics,Speaker,5766,1689,3,COD
+OD-2254,19-12-25,Reyansh Verma,Delhi,Delhi,Clothing,Shirt,2528,-244,1,Credit Card
+OD-2255,23-02-25,Kavya Sharma,Patna,Bihar,Electronics,Smartwatch,9483,141,1,Net Banking
+OD-2256,05-04-25,Krishna Joshi,Jaipur,Rajasthan,Furniture,Bookshelf,94264,17857,4,Net Banking
+OD-2257,16-03-25,Priya Sharma,Chennai,Tamil Nadu,Clothing,Dress,2196,288,2,COD
+OD-2258,13-04-25,Kavya Das,Lucknow,Uttar Pradesh,Electronics,Speaker,40085,4855,1,Debit Card
+OD-2259,20-07-25,Aadhya Gill,Bengaluru,Karnataka,Electronics,Smartwatch,44840,-6036,4,Net Banking
+OD-2260,03-03-25,Rahul Nair,Mumbai,Maharashtra,Furniture,Bed,23138,4806,1,COD
+OD-2261,16-08-25,Vivaan Reddy,Hyderabad,Telangana,Electronics,Speaker,78588,-11393,4,Credit Card
+OD-2262,03-07-25,Gurpreet Joshi,Kolkata,West Bengal,Electronics,Speaker,140488,-16223,4,Credit Card
+OD-2263,30-06-25,Priya Gill,Chandigarh,Punjab,Electronics,Speaker,39482,11123,2,Debit Card
+OD-2264,21-07-25,Aditya Mehta,Indore,Madhya Pradesh,Electronics,Smartwatch,78502,18814,2,COD
+OD-2265,04-12-25,Gurpreet Patel,Hyderabad,Telangana,Furniture,Bed,63456,12031,3,Net Banking
+OD-2266,04-02-25,Vivaan Sharma,Chennai,Tamil Nadu,Clothing,T-Shirt,2444,889,1,Net Banking
+OD-2267,15-06-25,Krishna Dhillon,Ahmedabad,Gujarat,Clothing,Shirt,8476,3028,4,UPI
+OD-2268,10-11-25,Ishaan Verma,Pune,Maharashtra,Furniture,Chair,57060,10475,4,UPI
+OD-2269,31-03-25,Diya Verma,Kochi,Kerala,Electronics,Laptop,28652,-318,2,Net Banking
+OD-2270,14-12-25,Shaurya Singh,Kolkata,West Bengal,Furniture,Table,77272,22777,4,Credit Card
+OD-2271,14-02-25,Rahul Sharma,Bengaluru,Karnataka,Clothing,T-Shirt,840,40,2,Net Banking
+OD-2272,18-10-25,Harpreet Verma,Chandigarh,Punjab,Clothing,Dress,4708,1449,4,COD
+OD-2273,31-08-25,Gurpreet Reddy,Ludhiana,Punjab,Furniture,Wardrobe,8400,767,2,Net Banking
+OD-2274,06-02-25,Rahul Verma,Hyderabad,Telangana,Furniture,Bed,5864,728,1,UPI
+OD-2275,04-11-25,Harpreet Reddy,Mumbai,Maharashtra,Clothing,Jeans,5994,1419,3,UPI
+OD-2276,22-03-25,Shaurya Verma,Ahmedabad,Gujarat,Furniture,Wardrobe,45243,8607,3,COD
+OD-2277,24-12-25,Vihaan Gupta,Indore,Madhya Pradesh,Electronics,Speaker,3615,129,1,Debit Card
+OD-2278,13-04-25,Diya Dhillon,Pune,Maharashtra,Clothing,Shirt,1962,-40,3,UPI
+OD-2279,16-10-25,Amit Gill,Pune,Maharashtra,Electronics,Mobile,162800,41775,4,UPI
+OD-2280,10-10-25,Kavya Kumar,Jaipur,Rajasthan,Furniture,Chair,3166,389,1,Credit Card
+OD-2281,29-11-25,Ananya Nair,Indore,Madhya Pradesh,Electronics,Laptop,5127,-694,1,Credit Card
+OD-2282,01-10-25,Amit Nair,Mumbai,Maharashtra,Furniture,Sofa,14685,3981,1,Credit Card
+OD-2283,09-08-25,Peehu Joshi,Hyderabad,Telangana,Clothing,Sari,2920,1139,1,Debit Card
+OD-2284,30-06-25,Reyansh Reddy,Bathinda,Punjab,Clothing,Shirt,1550,269,2,Credit Card
+OD-2285,31-07-25,Harpreet Gupta,Pune,Maharashtra,Clothing,Dress,1262,-136,2,Credit Card
+OD-2286,13-08-25,Sai Patel,Pune,Maharashtra,Electronics,Headphones,41326,-3250,2,Net Banking
+OD-2287,03-09-25,Neha Verma,Delhi,Delhi,Clothing,Jeans,4852,1154,2,Debit Card
+OD-2288,23-04-25,Sia Gill,Lucknow,Uttar Pradesh,Electronics,Power Bank,133011,-2086,3,Debit Card
+OD-2289,13-06-25,Harpreet Joshi,Bengaluru,Karnataka,Clothing,Jeans,11784,1383,4,UPI
+OD-2290,15-04-25,Arjun Joshi,Ahmedabad,Gujarat,Electronics,Speaker,19088,1046,2,Credit Card
+OD-2291,19-01-25,Krishna Gill,Kochi,Kerala,Furniture,Sofa,2697,335,1,UPI
+OD-2292,19-05-25,Ishaan Gupta,Amritsar,Punjab,Electronics,Mobile,19790,6333,1,Net Banking
+OD-2293,11-09-25,Aarav Nair,Amritsar,Punjab,Electronics,Mobile,29964,1756,2,Net Banking
+OD-2294,30-09-25,Vivaan Mehta,Lucknow,Uttar Pradesh,Clothing,Kurtis,1515,531,3,Debit Card
+OD-2295,15-05-25,Rahul Singh,Mumbai,Maharashtra,Electronics,Speaker,118076,33112,4,UPI
+OD-2296,25-02-25,Harpreet Nair,Lucknow,Uttar Pradesh,Furniture,Sofa,83052,20395,4,COD
+OD-2297,14-05-25,Sai Nair,Kochi,Kerala,Furniture,Table,4994,21,2,Debit Card
+OD-2298,13-02-25,Krishna Dhillon,Lucknow,Uttar Pradesh,Electronics,Power Bank,16120,3039,4,Debit Card
+OD-2299,18-05-25,Neha Patel,Mumbai,Maharashtra,Clothing,Jeans,4446,1405,3,Net Banking
+OD-2300,25-08-25,Aarav Das,Mumbai,Maharashtra,Electronics,Mobile,98910,19857,3,COD
+OD-2301,22-04-25,Peehu Sharma,Delhi,Delhi,Electronics,Power Bank,17091,1576,3,Debit Card
+OD-2302,22-05-25,Ishaan Das,Hyderabad,Telangana,Clothing,Dress,2000,658,2,UPI
+OD-2303,30-04-25,Vihaan Mehta,Pune,Maharashtra,Clothing,Dress,11096,272,4,COD
+OD-2304,27-04-25,Vivaan Gill,Jaipur,Rajasthan,Electronics,Mobile,110754,27143,3,COD
+OD-2305,01-05-25,Ananya Verma,Delhi,Delhi,Furniture,Sofa,18745,-2013,1,Credit Card
+OD-2306,16-06-25,Rahul Reddy,Bathinda,Punjab,Clothing,Dress,6232,-444,4,Debit Card
+OD-2307,07-11-25,Ananya Reddy,Bathinda,Punjab,Furniture,Bed,46540,8938,4,Credit Card
+OD-2308,08-07-25,Vivaan Patel,Hyderabad,Telangana,Furniture,Chair,21956,-739,1,Debit Card
+OD-2309,19-09-25,Gurpreet Dhillon,Ludhiana,Punjab,Clothing,Sari,1013,60,1,UPI
+OD-2310,09-02-25,Krishna Gupta,Patna,Bihar,Furniture,Bookshelf,78640,19909,4,COD
+OD-2311,27-01-25,Amit Das,Patna,Bihar,Furniture,Sofa,32460,-1387,3,COD
+OD-2312,31-05-25,Krishna Reddy,Ahmedabad,Gujarat,Electronics,Laptop,88524,23149,4,UPI
+OD-2313,21-12-25,Krishna Das,Bathinda,Punjab,Electronics,Mobile,114690,14692,3,Debit Card
+OD-2314,01-12-25,Kavya Gupta,Ahmedabad,Gujarat,Electronics,Smartwatch,77624,23698,2,Credit Card
+OD-2315,03-10-25,Krishna Dhillon,Bathinda,Punjab,Furniture,Wardrobe,43684,-299,2,Debit Card
+OD-2316,24-06-25,Diya Verma,Delhi,Delhi,Electronics,Smartwatch,78498,9561,2,Credit Card
+OD-2317,03-04-25,Sia Sharma,Chennai,Tamil Nadu,Clothing,Sari,8010,1932,3,Net Banking
+OD-2318,21-02-25,Arjun Sharma,Bathinda,Punjab,Clothing,Dress,1396,-107,2,COD
+OD-2319,18-07-25,Peehu Reddy,Hyderabad,Telangana,Electronics,Speaker,41454,-3504,2,Debit Card
+OD-2320,30-10-25,Amit Gupta,Bengaluru,Karnataka,Furniture,Chair,13631,5076,1,Net Banking
+OD-2321,19-11-25,Sia Gill,Bathinda,Punjab,Electronics,Smartwatch,27044,6707,2,COD
+OD-2322,18-09-25,Aditya Kumar,Mumbai,Maharashtra,Furniture,Wardrobe,72246,14967,3,Net Banking
+OD-2323,14-06-25,Sia Kumar,Patna,Bihar,Furniture,Wardrobe,15525,-345,3,Net Banking
+OD-2324,24-06-25,Vivaan Gupta,Patna,Bihar,Furniture,Wardrobe,45388,1249,4,Debit Card
+OD-2325,02-04-25,Arjun Sharma,Kolkata,West Bengal,Electronics,Power Bank,117576,39243,3,Debit Card
+OD-2326,20-02-25,Ananya Patel,Chennai,Tamil Nadu,Clothing,Jeans,7176,655,3,Credit Card
+OD-2327,28-05-25,Ishaan Gupta,Bengaluru,Karnataka,Clothing,Dress,2928,-284,3,COD
+OD-2328,18-09-25,Sai Sharma,Pune,Maharashtra,Furniture,Wardrobe,4436,526,2,UPI
+OD-2329,09-07-25,Reyansh Patel,Bathinda,Punjab,Furniture,Sofa,33742,412,2,UPI
+OD-2330,28-12-25,Vihaan Das,Bathinda,Punjab,Electronics,Headphones,10466,4146,1,UPI
+OD-2331,01-07-25,Aditya Gill,Ahmedabad,Gujarat,Furniture,Chair,21405,2758,3,Debit Card
+OD-2332,21-08-25,Priya Gill,Patna,Bihar,Furniture,Chair,9768,863,3,COD
+OD-2333,12-06-25,Reyansh Joshi,Pune,Maharashtra,Furniture,Bookshelf,10058,-751,1,Net Banking
+OD-2334,23-04-25,Neha Singh,Jaipur,Rajasthan,Electronics,Laptop,55048,13952,4,Debit Card
+OD-2335,09-03-25,Reyansh Mehta,Delhi,Delhi,Furniture,Bookshelf,4208,373,2,Net Banking
+OD-2336,13-10-25,Amit Singh,Chennai,Tamil Nadu,Clothing,Sari,8733,516,3,COD
+OD-2337,01-05-25,Priya Reddy,Indore,Madhya Pradesh,Furniture,Bookshelf,23666,7392,2,Debit Card
+OD-2338,09-12-25,Kavya Das,Amritsar,Punjab,Furniture,Bed,46720,-4527,4,UPI
+OD-2339,28-05-25,Peehu Das,Chandigarh,Punjab,Clothing,Dress,3492,-185,4,Debit Card
+OD-2340,05-12-25,Vihaan Reddy,Amritsar,Punjab,Furniture,Table,72116,13022,4,Credit Card
+OD-2341,15-01-25,Shaurya Patel,Patna,Bihar,Clothing,Sari,2702,741,1,Debit Card
+OD-2342,12-12-25,Diya Nair,Amritsar,Punjab,Electronics,Smartwatch,74340,26153,4,Debit Card
+OD-2343,06-09-25,Krishna Reddy,Pune,Maharashtra,Electronics,Smartwatch,64012,10554,4,Credit Card
+OD-2344,02-10-25,Reyansh Dhillon,Bengaluru,Karnataka,Furniture,Wardrobe,18702,3417,3,UPI
+OD-2345,11-01-25,Aadhya Verma,Chandigarh,Punjab,Electronics,Power Bank,44421,-5460,1,Credit Card
+OD-2346,05-07-25,Harpreet Singh,Chennai,Tamil Nadu,Furniture,Sofa,23016,6690,2,Debit Card
+OD-2347,19-06-25,Peehu Singh,Ahmedabad,Gujarat,Clothing,T-Shirt,2555,-239,1,Net Banking
+OD-2348,06-09-25,Vivaan Kumar,Lucknow,Uttar Pradesh,Electronics,Mobile,85778,23574,2,Credit Card
+OD-2349,18-01-25,Ishaan Gill,Bengaluru,Karnataka,Electronics,Speaker,40388,12118,4,Debit Card
+OD-2350,13-02-25,Aditya Verma,Patna,Bihar,Furniture,Bookshelf,10640,-1509,4,COD
+OD-2351,06-11-25,Arjun Verma,Amritsar,Punjab,Clothing,Kurtis,5172,433,3,UPI
+OD-2352,04-06-25,Ishaan Das,Kolkata,West Bengal,Clothing,Jeans,7764,79,4,UPI
+OD-2353,24-04-25,Peehu Joshi,Jaipur,Rajasthan,Electronics,Headphones,53122,-7465,2,Net Banking
+OD-2354,21-07-25,Ananya Dhillon,Bengaluru,Karnataka,Electronics,Laptop,27540,7550,1,Net Banking
+OD-2355,09-07-25,Kavya Gupta,Bengaluru,Karnataka,Furniture,Bed,20133,5945,3,UPI
+OD-2356,18-02-25,Harpreet Kumar,Kolkata,West Bengal,Electronics,Power Bank,13994,-1011,2,COD
+OD-2357,31-08-25,Gurpreet Gill,Ahmedabad,Gujarat,Clothing,Sari,6255,133,3,Debit Card
+OD-2358,19-03-25,Vivaan Reddy,Bathinda,Punjab,Clothing,Jeans,5404,1551,2,COD
+OD-2359,13-09-25,Diya Mehta,Ahmedabad,Gujarat,Electronics,Smartwatch,140852,21852,4,UPI
+OD-2360,23-02-25,Peehu Gill,Delhi,Delhi,Electronics,Laptop,12122,1648,1,UPI
+OD-2361,27-03-25,Reyansh Das,Bengaluru,Karnataka,Clothing,Sari,4392,853,4,COD
+OD-2362,07-09-25,Arjun Gill,Bathinda,Punjab,Electronics,Mobile,27615,2471,3,Debit Card
+OD-2363,13-12-25,Ishaan Joshi,Chandigarh,Punjab,Furniture,Bed,13274,127,2,Credit Card
+OD-2364,11-11-25,Ananya Joshi,Jaipur,Rajasthan,Electronics,Smartwatch,46276,16654,2,Credit Card
+OD-2365,26-03-25,Gurpreet Gill,Indore,Madhya Pradesh,Clothing,Jeans,4532,-305,4,UPI
+OD-2366,03-01-25,Shaurya Gill,Kolkata,West Bengal,Clothing,Dress,2601,265,1,UPI
+OD-2367,01-02-25,Amit Das,Chennai,Tamil Nadu,Clothing,Jeans,3622,709,2,Credit Card
+OD-2368,21-05-25,Shaurya Nair,Lucknow,Uttar Pradesh,Electronics,Power Bank,72780,11543,4,Credit Card
+OD-2369,09-02-25,Rahul Kumar,Bengaluru,Karnataka,Furniture,Table,23529,-126,3,UPI
+OD-2370,06-03-25,Gurpreet Gupta,Amritsar,Punjab,Electronics,Power Bank,125586,27336,3,Net Banking
+OD-2371,18-04-25,Sai Sharma,Ahmedabad,Gujarat,Clothing,T-Shirt,1972,-117,2,UPI
+OD-2372,15-06-25,Aditya Sharma,Hyderabad,Telangana,Furniture,Sofa,95140,10411,4,Debit Card
+OD-2373,14-09-25,Vihaan Singh,Amritsar,Punjab,Electronics,Smartwatch,99056,2126,4,COD
+OD-2374,12-06-25,Gurpreet Verma,Kolkata,West Bengal,Clothing,Dress,2952,920,3,COD
+OD-2375,15-08-25,Kavya Gill,Jaipur,Rajasthan,Furniture,Chair,93468,3878,4,UPI
+OD-2376,07-07-25,Sia Dhillon,Ludhiana,Punjab,Furniture,Sofa,44434,7015,2,Credit Card
+OD-2377,15-07-25,Ananya Kumar,Mumbai,Maharashtra,Clothing,Sari,7659,-327,3,COD
+OD-2378,08-06-25,Diya Verma,Ludhiana,Punjab,Electronics,Power Bank,41265,6,1,Debit Card
+OD-2379,25-11-25,Kavya Nair,Pune,Maharashtra,Furniture,Bookshelf,32952,6389,3,COD
+OD-2380,16-01-25,Kavya Gupta,Kochi,Kerala,Electronics,Laptop,175748,46190,4,UPI
+OD-2381,20-01-25,Ananya Sharma,Hyderabad,Telangana,Furniture,Bookshelf,12626,-1318,2,UPI
+OD-2382,29-01-25,Sia Mehta,Pune,Maharashtra,Electronics,Mobile,42675,8974,3,UPI
+OD-2383,20-06-25,Neha Reddy,Chennai,Tamil Nadu,Furniture,Bookshelf,56757,-8071,3,Net Banking
+OD-2384,02-08-25,Neha Mehta,Pune,Maharashtra,Clothing,Shirt,2982,-309,2,Net Banking
+OD-2385,23-01-25,Ishaan Gupta,Kolkata,West Bengal,Furniture,Wardrobe,30668,6115,4,UPI
+OD-2386,09-06-25,Ishaan Joshi,Ludhiana,Punjab,Clothing,Jeans,10904,3378,4,UPI
+OD-2387,17-10-25,Sia Verma,Bengaluru,Karnataka,Clothing,Shirt,1159,28,1,UPI
+OD-2388,28-03-25,Aarav Singh,Ludhiana,Punjab,Electronics,Mobile,43340,13457,2,Credit Card
+OD-2389,09-03-25,Shaurya Sharma,Amritsar,Punjab,Furniture,Bed,22282,-1621,2,Debit Card
+OD-2390,31-07-25,Krishna Singh,Jaipur,Rajasthan,Clothing,Shirt,4383,1024,3,Debit Card
+OD-2391,17-02-25,Kavya Reddy,Ludhiana,Punjab,Electronics,Speaker,171416,39060,4,Credit Card
+OD-2392,19-01-25,Rahul Nair,Hyderabad,Telangana,Furniture,Wardrobe,32432,1323,2,Debit Card
+OD-2393,17-04-25,Diya Gill,Patna,Bihar,Furniture,Bookshelf,14919,1973,3,Credit Card
+OD-2394,13-05-25,Reyansh Das,Jaipur,Rajasthan,Clothing,T-Shirt,4690,-342,2,COD
+OD-2395,15-06-25,Ananya Gupta,Amritsar,Punjab,Furniture,Wardrobe,12563,2961,1,Debit Card
+OD-2396,05-01-25,Sai Nair,Indore,Madhya Pradesh,Electronics,Headphones,13762,4847,1,Debit Card
+OD-2397,25-03-25,Sia Joshi,Chennai,Tamil Nadu,Clothing,Sari,11320,1887,4,Net Banking
+OD-2398,24-07-25,Kavya Singh,Jaipur,Rajasthan,Furniture,Bed,53436,11927,3,Debit Card
+OD-2399,21-01-25,Krishna Dhillon,Patna,Bihar,Clothing,Sari,6008,2251,4,Net Banking
+OD-2400,31-10-25,Aarav Kumar,Patna,Bihar,Clothing,Jeans,5450,1436,2,Credit Card
+OD-2401,06-12-25,Diya Dhillon,Pune,Maharashtra,Clothing,Jeans,3632,371,2,Credit Card
+OD-2402,24-08-25,Aarav Mehta,Hyderabad,Telangana,Clothing,Shirt,4974,-526,3,Credit Card
+OD-2403,15-04-25,Peehu Verma,Ahmedabad,Gujarat,Clothing,Dress,1257,141,3,Debit Card
+OD-2404,21-02-25,Kavya Joshi,Amritsar,Punjab,Furniture,Table,95612,5446,4,Net Banking
+OD-2405,28-12-25,Krishna Dhillon,Bengaluru,Karnataka,Electronics,Laptop,30750,2150,3,Debit Card
+OD-2406,25-05-25,Neha Gill,Bathinda,Punjab,Furniture,Sofa,13366,1584,1,COD
+OD-2407,14-01-25,Krishna Gupta,Chennai,Tamil Nadu,Clothing,Jeans,5373,675,3,UPI
+OD-2408,09-11-25,Amit Dhillon,Amritsar,Punjab,Clothing,Dress,1928,240,2,UPI
+OD-2409,19-04-25,Shaurya Nair,Delhi,Delhi,Electronics,Smartwatch,58798,-3944,2,Debit Card
+OD-2410,18-07-25,Neha Das,Pune,Maharashtra,Electronics,Smartwatch,24434,1686,2,COD
+OD-2411,24-02-25,Sia Dhillon,Delhi,Delhi,Electronics,Speaker,44483,14428,1,UPI
+OD-2412,24-03-25,Diya Kumar,Patna,Bihar,Electronics,Speaker,9036,1060,4,Net Banking
+OD-2413,05-08-25,Vivaan Patel,Bathinda,Punjab,Electronics,Speaker,41059,12068,1,Net Banking
+OD-2414,15-09-25,Ananya Dhillon,Indore,Madhya Pradesh,Furniture,Bed,16977,4787,3,Net Banking
+OD-2415,30-09-25,Aadhya Mehta,Delhi,Delhi,Clothing,T-Shirt,8448,-69,3,COD
+OD-2416,11-11-25,Sia Nair,Pune,Maharashtra,Electronics,Headphones,9465,3098,1,Net Banking
+OD-2417,07-07-25,Vivaan Gupta,Ludhiana,Punjab,Electronics,Smartwatch,62724,17045,3,UPI
+OD-2418,05-10-25,Ishaan Kumar,Lucknow,Uttar Pradesh,Electronics,Smartwatch,30779,878,1,UPI
+OD-2419,02-11-25,Vihaan Reddy,Pune,Maharashtra,Furniture,Bookshelf,40588,-2176,4,COD
+OD-2420,18-02-25,Arjun Gill,Hyderabad,Telangana,Furniture,Sofa,44004,1758,4,Net Banking
+OD-2421,19-12-25,Amit Singh,Patna,Bihar,Furniture,Sofa,4507,133,1,UPI
+OD-2422,17-03-25,Amit Gill,Bengaluru,Karnataka,Electronics,Power Bank,23636,8511,1,Debit Card
+OD-2423,05-08-25,Aadhya Sharma,Chennai,Tamil Nadu,Furniture,Bed,16202,6170,1,Credit Card
+OD-2424,20-10-25,Ishaan Patel,Patna,Bihar,Furniture,Table,14262,2358,1,Credit Card
+OD-2425,12-08-25,Ishaan Gill,Chennai,Tamil Nadu,Electronics,Power Bank,41124,2848,1,Credit Card
+OD-2426,14-12-25,Shaurya Patel,Mumbai,Maharashtra,Electronics,Laptop,28653,6059,1,Debit Card
+OD-2427,17-05-25,Sia Gupta,Chandigarh,Punjab,Clothing,Shirt,946,226,2,Credit Card
+OD-2428,02-02-25,Amit Patel,Kochi,Kerala,Furniture,Sofa,59226,3788,3,COD
+OD-2429,07-01-25,Diya Reddy,Chandigarh,Punjab,Electronics,Smartwatch,63548,20328,2,Net Banking
+OD-2430,18-04-25,Harpreet Gill,Chennai,Tamil Nadu,Furniture,Sofa,45609,-6031,3,COD
+OD-2431,10-02-25,Priya Das,Ludhiana,Punjab,Clothing,Shirt,4932,51,3,Debit Card
+OD-2432,20-08-25,Neha Das,Mumbai,Maharashtra,Clothing,Kurtis,5910,256,2,Net Banking
+OD-2433,01-08-25,Aarav Dhillon,Lucknow,Uttar Pradesh,Furniture,Bookshelf,38764,2186,4,COD
+OD-2434,09-03-25,Aadhya Gupta,Bengaluru,Karnataka,Clothing,Sari,2528,1000,2,COD
+OD-2435,29-05-25,Sai Kumar,Amritsar,Punjab,Furniture,Sofa,27405,2192,3,COD
+OD-2436,23-05-25,Diya Dhillon,Ludhiana,Punjab,Furniture,Chair,55377,8007,3,Net Banking
+OD-2437,26-04-25,Aadhya Das,Kochi,Kerala,Electronics,Smartwatch,26280,1840,2,UPI
+OD-2438,30-09-25,Diya Dhillon,Kochi,Kerala,Furniture,Table,14561,2462,1,Net Banking
+OD-2439,03-08-25,Peehu Singh,Mumbai,Maharashtra,Furniture,Table,43956,8393,2,UPI
+OD-2440,03-11-25,Rahul Gill,Bathinda,Punjab,Clothing,Jeans,2160,352,2,Net Banking
+OD-2441,17-12-25,Aditya Reddy,Mumbai,Maharashtra,Furniture,Wardrobe,80356,10545,4,Credit Card
+OD-2442,24-03-25,Sia Reddy,Ahmedabad,Gujarat,Clothing,Sari,3440,-265,2,UPI
+OD-2443,16-01-25,Reyansh Gupta,Kochi,Kerala,Electronics,Laptop,69408,20004,4,Net Banking
+OD-2444,14-09-25,Priya Verma,Chandigarh,Punjab,Clothing,Shirt,2740,-400,4,UPI
+OD-2445,16-12-25,Neha Nair,Patna,Bihar,Electronics,Smartwatch,28834,10860,1,COD
+OD-2446,03-03-25,Amit Mehta,Mumbai,Maharashtra,Electronics,Smartwatch,20699,6135,1,UPI
+OD-2447,06-07-25,Aadhya Gill,Patna,Bihar,Furniture,Bookshelf,64172,18165,4,UPI
+OD-2448,16-03-25,Ishaan Dhillon,Bengaluru,Karnataka,Furniture,Table,46587,9834,3,Credit Card
+OD-2449,05-05-25,Kavya Singh,Jaipur,Rajasthan,Clothing,Jeans,2275,783,1,Net Banking
+OD-2450,06-05-25,Ishaan Reddy,Lucknow,Uttar Pradesh,Furniture,Sofa,50271,11801,3,COD
+OD-2451,21-05-25,Amit Sharma,Hyderabad,Telangana,Clothing,Kurtis,1515,-43,3,Debit Card
+OD-2452,16-10-25,Ananya Gill,Lucknow,Uttar Pradesh,Electronics,Speaker,77400,15374,2,Net Banking
+OD-2453,14-08-25,Neha Patel,Hyderabad,Telangana,Furniture,Bookshelf,13602,2504,2,Net Banking
+OD-2454,12-05-25,Priya Singh,Mumbai,Maharashtra,Clothing,Kurtis,3018,517,3,Debit Card
+OD-2455,06-07-25,Gurpreet Gill,Patna,Bihar,Electronics,Smartwatch,48116,9821,2,COD
+OD-2456,14-09-25,Diya Joshi,Ludhiana,Punjab,Electronics,Smartwatch,71842,8271,2,Net Banking
+OD-2457,14-07-25,Aarav Mehta,Delhi,Delhi,Electronics,Laptop,45084,-1200,3,Debit Card
+OD-2458,08-11-25,Vihaan Mehta,Kolkata,West Bengal,Electronics,Smartwatch,155264,54650,4,UPI
+OD-2459,26-09-25,Krishna Gill,Kolkata,West Bengal,Electronics,Speaker,27615,5371,1,Debit Card
+OD-2460,17-09-25,Aditya Patel,Delhi,Delhi,Clothing,Sari,2802,-25,2,Credit Card
+OD-2461,20-12-25,Priya Singh,Ahmedabad,Gujarat,Furniture,Bookshelf,31256,-3996,4,COD
+OD-2462,17-05-25,Harpreet Patel,Delhi,Delhi,Furniture,Table,6343,871,1,UPI
+OD-2463,17-04-25,Krishna Singh,Indore,Madhya Pradesh,Electronics,Mobile,22396,6371,1,UPI
+OD-2464,11-04-25,Kavya Verma,Kochi,Kerala,Clothing,Sari,1616,239,2,Credit Card
+OD-2465,03-11-25,Kavya Patel,Mumbai,Maharashtra,Furniture,Sofa,16504,4580,1,Credit Card
+OD-2466,29-10-25,Priya Gupta,Kochi,Kerala,Clothing,Jeans,11448,-12,4,Credit Card
+OD-2467,18-06-25,Gurpreet Das,Patna,Bihar,Electronics,Speaker,56442,18456,3,Credit Card
+OD-2468,24-06-25,Ishaan Mehta,Patna,Bihar,Electronics,Speaker,35220,13646,4,Credit Card
+OD-2469,07-09-25,Aarav Reddy,Patna,Bihar,Electronics,Smartwatch,26434,-3011,2,Net Banking
+OD-2470,11-12-25,Shaurya Verma,Kochi,Kerala,Electronics,Speaker,28374,7897,2,Credit Card
+OD-2471,20-04-25,Shaurya Joshi,Lucknow,Uttar Pradesh,Electronics,Power Bank,32976,7472,4,COD
+OD-2472,18-04-25,Rahul Mehta,Hyderabad,Telangana,Electronics,Laptop,54934,15502,2,Credit Card
+OD-2473,09-11-25,Neha Kumar,Chandigarh,Punjab,Furniture,Sofa,43308,-1048,4,Debit Card
+OD-2474,30-08-25,Shaurya Reddy,Hyderabad,Telangana,Electronics,Headphones,66498,6472,3,Net Banking
+OD-2475,16-10-25,Aadhya Dhillon,Bathinda,Punjab,Clothing,Sari,2073,92,1,Credit Card
+OD-2476,22-08-25,Ishaan Sharma,Kolkata,West Bengal,Clothing,Dress,4818,1483,3,UPI
+OD-2477,14-06-25,Peehu Dhillon,Amritsar,Punjab,Electronics,Power Bank,31176,5912,2,Net Banking
+OD-2478,21-05-25,Vihaan Verma,Ahmedabad,Gujarat,Clothing,Jeans,11308,1226,4,UPI
+OD-2479,04-12-25,Aadhya Gill,Indore,Madhya Pradesh,Clothing,Jeans,2564,-241,4,Debit Card
+OD-2480,22-05-25,Harpreet Reddy,Kochi,Kerala,Electronics,Mobile,41200,13780,4,UPI
+OD-2481,16-06-25,Peehu Kumar,Hyderabad,Telangana,Furniture,Bed,40820,-4147,2,Credit Card
+OD-2482,17-06-25,Rahul Joshi,Jaipur,Rajasthan,Furniture,Wardrobe,73785,-10180,3,UPI
+OD-2483,25-12-25,Diya Reddy,Kochi,Kerala,Furniture,Table,25054,2695,2,Net Banking
+OD-2484,05-07-25,Diya Singh,Jaipur,Rajasthan,Electronics,Power Bank,10692,-902,1,Net Banking
+OD-2485,07-08-25,Aadhya Dhillon,Indore,Madhya Pradesh,Clothing,Kurtis,2497,138,1,COD
+OD-2486,12-08-25,Vivaan Joshi,Chandigarh,Punjab,Furniture,Sofa,62505,2097,3,UPI
+OD-2487,08-02-25,Rahul Verma,Bengaluru,Karnataka,Furniture,Table,20806,7435,1,COD
+OD-2488,29-11-25,Reyansh Dhillon,Delhi,Delhi,Furniture,Sofa,51780,5085,3,Credit Card
+OD-2489,30-11-25,Diya Verma,Chennai,Tamil Nadu,Furniture,Wardrobe,50634,7101,3,Net Banking
+OD-2490,11-01-25,Aadhya Gupta,Lucknow,Uttar Pradesh,Clothing,Kurtis,1904,-276,4,Debit Card
+OD-2491,07-08-25,Arjun Patel,Ahmedabad,Gujarat,Furniture,Bookshelf,58332,5936,3,Credit Card
+OD-2492,22-10-25,Ananya Gill,Hyderabad,Telangana,Clothing,Shirt,3324,-166,2,UPI
+OD-2493,01-10-25,Amit Sharma,Hyderabad,Telangana,Furniture,Bed,12730,4185,1,Credit Card
+OD-2494,03-12-25,Reyansh Singh,Lucknow,Uttar Pradesh,Clothing,Sari,4059,1481,3,Credit Card
+OD-2495,01-07-25,Aarav Kumar,Kochi,Kerala,Clothing,Sari,2217,725,1,Credit Card
+OD-2496,14-07-25,Vivaan Das,Kochi,Kerala,Electronics,Laptop,52872,9232,2,UPI
+OD-2497,17-02-25,Sai Joshi,Patna,Bihar,Clothing,Shirt,1782,654,2,COD
+OD-2498,03-07-25,Diya Nair,Kolkata,West Bengal,Clothing,T-Shirt,7068,-67,3,UPI
+OD-2499,22-08-25,Aarav Sharma,Amritsar,Punjab,Electronics,Smartwatch,24744,1193,1,Debit Card
+OD-2500,03-02-25,Peehu Mehta,Lucknow,Uttar Pradesh,Clothing,Dress,1995,661,1,UPI
