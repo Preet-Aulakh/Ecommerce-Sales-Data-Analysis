@@ -3,6 +3,7 @@
 An end-to-end data analytics project that demonstrates data processing using **SQL** and interactive business intelligence dashboarding using **Power BI**. This dashboard delivers actionable insights into sales performance, profitability, and customer behavior across different regions and categories.
 
 ---
+
 ## 📸  Executive Dashboard Preview
 ![Power bi Dashboard Screenshot](Dashboard.png)
 
