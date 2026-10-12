@@ -1,124 +1,63 @@
-# Security & Secrets
-.env
-.env.local
-.env.*.local
-*.pem
-*.key
-*.db
-*.sqlite3
+# ==============================================================================
+# ULTIMATE MASTER GITIGNORE (PYTHON, SQL, POWER BI, EXCEL & SYSTEM FILES)
+# ==============================================================================
 
-# Dependencies
-node_modules/
-bower_components/
-jspm_packages/
-venv/
-.venv/
-env/
-  
-# OS files
-.DS_Store
+# 1. Windows & OS System Files (Removes hidden OS clutter)
 Thumbs.db
-desktop.ini
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
 
-# Editors and IDEs
+# 2. Code Editors & IDEs (VS Code, Jupyter, PyCharm)
 .vscode/
 .idea/
 *.suo
-*.user
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
 
+# 3. Security & Credentials (CRITICAL: Keeps your passwords safe)
+.env
+.env.local
+.env.*
+secrets.json
+config.json
+credentials.json
+*.pem
+*.key
 
-# Byte-compiled / optimized / DLL files
+# 4. Excel & CSV Data Files (Protects datasets from uploading)
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.xlsm
+*.ods
+
+# 5. Python System Caches & Virtual Environments
 __pycache__/
-*.py[cod]
-*$py.class
-
-# C extensions
-*.so
-
-# Distribution packaging
-bin/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-cover/
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff (ਜੇਕਰ ਤੁਸੀਂ Django ਵਰਤਦੇ ਹੋ)
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-media/
-
-# Flask stuff (ਜੇਕਰ ਤੁਸੀਂ Flask ਵਰਤਦੇ ਹੋ)
-instance/
-.webassets-cache
-
-# Scrapy stuff (ਜੇਕਰ ਤੁਸੀਂ Web scraping ਕਰਦੇ ਹੋ)
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-.pybuilder/
-target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# pyenv
-# For a library or package, you might want to ignore these files since the code is
-# intended to be run in a virtual environment; use the release version.
-.python-version
-
-# Celery
-celerybeat-schedule
-celerybeat.pid
-
-# SageMaker
-.ipynb_checkpoints/
-profile/
-
-# Virtual Environments
-venv/
+*.pyc
+*.pyo
+*.pyd
 .venv/
+env/
+venv/
 ENV/
-env.bak/
-venv.bak/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# 6. Power BI Desktop Temporary & Backup Files
+*.pbit
+*.pbi
+*.pbix.nested
+*.pbix.tmp
+_PowerBI/
+
+# 7. SQL Database Backups & System Logs
+*.log
+*.sqlite
+*.db
+*.bak
+*.sql.bak
