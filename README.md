@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analytics Dashboard (SQL + Power BI)
+# 📊 Ecommerce Sales & Profit Analytics Dashboard (SQL + Power BI)
 
 An end-to-end data analytics project that demonstrates data processing using **SQL** and interactive business intelligence dashboarding using **Power BI**. This dashboard delivers actionable insights into sales performance, profitability, and customer behavior across different regions and categories.
 
