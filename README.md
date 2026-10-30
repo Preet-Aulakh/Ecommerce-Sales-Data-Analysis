@@ -9,6 +9,13 @@ An end-to-end data analytics project that demonstrates data processing using **S
 
 ---
 
+## 🔗 Live Interactive Dashboard
+
+👉 **[Click Here to View the Live Production Dashboard]()**  
+*(This link provides full interactive access to filters, carrier segmentations, and dynamic business metrics live on Looker Studio).*
+
+---
+
 ## 🚀 Key Features & Visuals
 * **Executive KPI Cards:** Instant visibility into core business metrics: **Total Sales (\$48M)**, **Total Profit (\$6M)**, and **Total Orders (2K)**.
 * **Product Performance:** Vertical bar charts analyzing revenue distribution across core categories like **Electronics**, **Furniture**, and **Clothing**.
