@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analytics Dashboard (SQL + Power BI)
+# 📊 Ecommerce Sales & Profit Analytics Dashboard (SQL + Power BI)
 
 An end-to-end data analytics project that demonstrates data processing using **SQL** and interactive business intelligence dashboarding using **Power BI**. This dashboard delivers actionable insights into sales performance, profitability, and customer behavior across different regions and categories.
 
@@ -6,6 +6,13 @@ An end-to-end data analytics project that demonstrates data processing using **S
 
 ## 📸  Executive Dashboard Preview
 ![Power bi Dashboard Screenshot](Dashboard.png)
+
+---
+
+## 🔗 Live Interactive Dashboard
+
+👉 **[Click Here to View the Live Production Dashboard]()**  
+*(This link provides full interactive access to filters, carrier segmentations, and dynamic business metrics live on Looker Studio).*
 
 ---
 
